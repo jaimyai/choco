@@ -15,7 +15,7 @@ import type {
   RawEvent,
   RawOrg,
   ResponseData,
-  UnslothTrainingData,
+  FineTomeTrainingData,
 } from "../types/data.types";
 
 // Function to read JSON file
@@ -60,7 +60,7 @@ const responseFileExists = (
 const cleanEntityData = (
   entity: RawEntity,
   response: ResponseData
-): UnslothTrainingData => {
+): FineTomeTrainingData => {
   const input = `Entity Information:
 Name: ${entity.name}
 ${entity.summary ? `Summary: ${entity.summary}` : ""}
@@ -70,13 +70,25 @@ ${entity.location ? `Location: ${entity.location}` : ""}
 ${entity.state ? `State: ${entity.state}` : ""}
 ${entity.country_code ? `Country: ${entity.country_code}` : ""}`;
 
+  const instruction =
+    "Extract meaningful, de-contextualized propositions from this entity data. Focus only on the semantic meaning and business context. Use full nouns, never pronouns. Every proposition must include the person's name.";
+
+  const humanMessage = `${instruction}\n\n${input.trim()}`;
   const output = response.data.join("\n");
 
   return {
-    instruction:
-      "Extract meaningful, de-contextualized propositions from this entity data. Focus only on the semantic meaning and business context. Use full nouns, never pronouns. Every proposition must include the person's name.",
-    input: input.trim(),
-    output: output,
+    conversations: [
+      {
+        from: "human",
+        value: humanMessage,
+      },
+      {
+        from: "gpt",
+        value: output,
+      },
+    ],
+    source: "entity",
+    score: 1.0,
   };
 };
 
@@ -84,7 +96,7 @@ ${entity.country_code ? `Country: ${entity.country_code}` : ""}`;
 const cleanThreadData = (
   thread: RawThread,
   response: ResponseData
-): UnslothTrainingData => {
+): FineTomeTrainingData => {
   const emailContent = thread.content?.emails
     ? Array.isArray(thread.content.emails)
       ? thread.content.emails.map((email: any) => email.body || "").join("\n")
@@ -96,13 +108,25 @@ Subject: ${thread.subject}
 ${emailContent ? `Content: ${emailContent}` : ""}
 ${thread.summary && Object.keys(thread.summary).length > 0 ? `Summary: ${JSON.stringify(thread.summary)}` : ""}`;
 
+  const instruction =
+    "Extract meaningful, de-contextualized propositions from this email thread data. Focus only on the semantic meaning and business context. Use full nouns, never pronouns. Every proposition must include the thread subject.";
+
+  const humanMessage = `${instruction}\n\n${input.trim()}`;
   const output = response.data.join("\n");
 
   return {
-    instruction:
-      "Extract meaningful, de-contextualized propositions from this email thread data. Focus only on the semantic meaning and business context. Use full nouns, never pronouns. Every proposition must include the thread subject.",
-    input: input.trim(),
-    output: output,
+    conversations: [
+      {
+        from: "human",
+        value: humanMessage,
+      },
+      {
+        from: "gpt",
+        value: output,
+      },
+    ],
+    source: "thread",
+    score: 1.0,
   };
 };
 
@@ -110,19 +134,31 @@ ${thread.summary && Object.keys(thread.summary).length > 0 ? `Summary: ${JSON.st
 const cleanNoteData = (
   note: RawNote,
   response: ResponseData
-): UnslothTrainingData => {
+): FineTomeTrainingData => {
   const input = `Note Information:
 Title: ${note.title}
 ${note.content ? `Content: ${note.content}` : ""}
 ${note.summary ? `Summary: ${note.summary}` : ""}`;
 
+  const instruction =
+    "Extract meaningful, de-contextualized propositions from this note data. Focus only on the semantic meaning and business context. Use full nouns, never pronouns. Every proposition must include the note title.";
+
+  const humanMessage = `${instruction}\n\n${input.trim()}`;
   const output = response.data.join("\n");
 
   return {
-    instruction:
-      "Extract meaningful, de-contextualized propositions from this note data. Focus only on the semantic meaning and business context. Use full nouns, never pronouns. Every proposition must include the note title.",
-    input: input.trim(),
-    output: output,
+    conversations: [
+      {
+        from: "human",
+        value: humanMessage,
+      },
+      {
+        from: "gpt",
+        value: output,
+      },
+    ],
+    source: "note",
+    score: 1.0,
   };
 };
 
@@ -130,19 +166,31 @@ ${note.summary ? `Summary: ${note.summary}` : ""}`;
 const cleanEventData = (
   event: RawEvent,
   response: ResponseData
-): UnslothTrainingData => {
+): FineTomeTrainingData => {
   const input = `Event Information:
 Title: ${event.title}
 ${event.content ? `Content: ${event.content}` : ""}
 ${event.summary ? `Summary: ${event.summary}` : ""}`;
 
+  const instruction =
+    "Extract meaningful, de-contextualized propositions from this event data. Focus only on the semantic meaning and business context. Use full nouns, never pronouns. Every proposition must include the event title.";
+
+  const humanMessage = `${instruction}\n\n${input.trim()}`;
   const output = response.data.join("\n");
 
   return {
-    instruction:
-      "Extract meaningful, de-contextualized propositions from this event data. Focus only on the semantic meaning and business context. Use full nouns, never pronouns. Every proposition must include the event title.",
-    input: input.trim(),
-    output: output,
+    conversations: [
+      {
+        from: "human",
+        value: humanMessage,
+      },
+      {
+        from: "gpt",
+        value: output,
+      },
+    ],
+    source: "event",
+    score: 1.0,
   };
 };
 
@@ -150,7 +198,7 @@ ${event.summary ? `Summary: ${event.summary}` : ""}`;
 const cleanOrgData = (
   org: RawOrg,
   response: ResponseData
-): UnslothTrainingData => {
+): FineTomeTrainingData => {
   const input = `Organization Information:
 Name: ${org.name}
 ${org.description ? `Description: ${org.description}` : ""}
@@ -158,13 +206,25 @@ ${org.industry ? `Industry: ${org.industry}` : ""}
 ${org.location ? `Location: ${org.location}` : ""}
 ${org.type ? `Type: ${org.type}` : ""}`;
 
+  const instruction =
+    "Extract meaningful, de-contextualized propositions from this organization data. Focus only on the semantic meaning and business context. Use full nouns, never pronouns. Every proposition must include the organization name.";
+
+  const humanMessage = `${instruction}\n\n${input.trim()}`;
   const output = response.data.join("\n");
 
   return {
-    instruction:
-      "Extract meaningful, de-contextualized propositions from this organization data. Focus only on the semantic meaning and business context. Use full nouns, never pronouns. Every proposition must include the organization name.",
-    input: input.trim(),
-    output: output,
+    conversations: [
+      {
+        from: "human",
+        value: humanMessage,
+      },
+      {
+        from: "gpt",
+        value: output,
+      },
+    ],
+    source: "organization",
+    score: 1.0,
   };
 };
 
@@ -176,7 +236,7 @@ const processData = async () => {
   const processedDir = "processed";
   mkdirSync(processedDir, { recursive: true });
 
-  const allTrainingData: UnslothTrainingData[] = [];
+  const allTrainingData: FineTomeTrainingData[] = [];
 
   // Process entities
   console.log("\n👥 Processing entities...");
@@ -274,7 +334,7 @@ const processData = async () => {
   }
 
   // Save the processed data
-  const outputPath = join(processedDir, "unsloth_training_data.json");
+  const outputPath = join(processedDir, "finetome_training_data.json");
   writeFileSync(outputPath, JSON.stringify(allTrainingData, null, 2));
 
   console.log(`\n✅ Processing complete!`);

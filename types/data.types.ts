@@ -83,8 +83,11 @@ export interface ResponseData {
   data: string[];
 }
 
-export interface UnslothTrainingData {
-  instruction: string;
-  input: string;
-  output: string;
+export interface FineTomeTrainingData {
+  conversations: Array<{
+    from: "human" | "gpt";
+    value: string;
+  }>;
+  source: string;
+  score: number;
 }
