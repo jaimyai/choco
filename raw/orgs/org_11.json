@@ -1,0 +1,14 @@
+{
+  "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+  "org_id": "a3bb189e-8bf9-3888-9912-ace4e6543002",
+  "name": "NovaTech Innovations",
+  "photo": "https://novatech.io/logo.png",
+  "description": "NovaTech Innovations is a SaaS startup developing AI-driven analytics tools for small businesses.",
+  "websites": ["https://novatech.io", "https://app.novatech.io"],
+  "industry": "Technology",
+  "location": "San Francisco, CA",
+  "type": "COMPANY",
+  "created_at": 1672531200,
+  "founded": 2022,
+  "size": "10-50 employees"
+}

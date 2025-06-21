@@ -1,0 +1,17 @@
+{
+  "id": "b8e7f6a5-4321-4cde-8f90-123abc456def",
+  "org_id": "f1e2d3c4-b5a6-7c8d-9e0f-1a2b3c4d5e6f",
+  "user_id": "0f1e2d3c-4b5a-6c7d-8e9f-0a1b2c3d4e5f",
+  "title": "Server Maintenance Reminder",
+  "content": "Reminder: Schedule server maintenance this Saturday between 2 AM and 4 AM UTC. Notify team and prepare rollback plan.",
+  "timestamp": "2024-06-05T12:00:00Z",
+  "summary": "Plan and communicate upcoming server maintenance window.",
+  "type": "NOTE",
+  "organization": {
+    "id": "f1e2d3c4-b5a6-7c8d-9e0f-1a2b3c4d5e6f",
+    "name": "Cloud Services LLC",
+    "type": "COMPANY",
+    "org_id": "f1e2d3c4-b5a6-7c8d-9e0f-1a2b3c4d5e6f"
+  },
+  "related_entities": ["server-ops-team", "weekend-schedule"]
+}

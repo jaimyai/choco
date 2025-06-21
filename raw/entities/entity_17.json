@@ -1,0 +1,62 @@
+{
+  "id": "b2e3f4g5-6789-01bc-def0-234567890abc",
+  "name": "Maria Sanchez",
+  "last_updated": "1704180000",
+  "last_communication": "1704183600",
+  "created_at": "1704100000",
+  "importing": false,
+  "photo": "https://example.com/photos/maria_sanchez.jpg",
+  "emails": [
+    {
+      "email": "maria.sanchez@consultco.com",
+      "type": "work",
+      "verified": true
+    },
+    {
+      "email": "msanchez@gmail.com",
+      "type": "personal",
+      "verified": false
+    }
+  ],
+  "is_me": false,
+  "location": "Chicago, IL",
+  "state": "IL",
+  "country_code": "US",
+  "phone_number": "+1-312-555-0456",
+  "research": {
+    "notes": "Reviewed case studies, met at industry summit.",
+    "sources": ["conference2023", "company website"],
+    "last_researched": "1704160000"
+  },
+  "summary": {
+    "title": "Business Consultant",
+    "company": "ConsultCo",
+    "industry": "Management Consulting",
+    "experience": 5
+  },
+  "long_summary": {
+    "background": "Maria has led multiple consulting engagements across finance and healthcare.",
+    "expertise": "Strategy development, process optimization, stakeholder management",
+    "achievements": "Published whitepaper on digital transformation; 20% cost reduction for major client"
+  },
+  "linked_in": "https://linkedin.com/in/mariasanchez",
+  "linked_in_maybes": "maria.consult@gmail.com",
+  "linked_in_followers": 850,
+  "org_id": "org-23456789-01bc-def0-2345-67890abcdef",
+  "skills": ["Strategy", "Data Analysis", "Project Management"],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Harvard Business School",
+      "year": 2017
+    },
+    {
+      "degree": "BA Economics",
+      "institution": "University of Texas",
+      "year": 2012
+    }
+  ],
+  "social_media": {
+    "twitter": "@marias_consult"
+  }
+}

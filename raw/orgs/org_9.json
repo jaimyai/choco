@@ -1,0 +1,30 @@
+{
+  "id": "e1f2a3b4-c5d6-7e8f-9012-3456789abcde",
+  "name": "FinTech Summit 2024",
+  "photo": "https://example.com/logos/fintech-summit.png",
+  "description": {
+    "overview": "An annual gathering of financial technology leaders, innovators, and investors.",
+    "agenda": "Keynotes, panel discussions, startup pitch competitions, and networking sessions.",
+    "speakers": ["Jane Doe", "John Smith", "Maria Garcia"],
+    "history": "Running since 2010, the summit has grown from 200 to over 5,000 attendees."
+  },
+  "websites": [
+    {
+      "url": "https://fintechsummit2024.com",
+      "type": "event",
+      "primary": true
+    }
+  ],
+  "industry": "Finance",
+  "location": {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "venue": "McCormick Place"
+  },
+  "type": "CONFERENCE",
+  "created_at": 1704400000,
+  "org_id": "org-a123b456-c789-0def-1a23-456b789c012d",
+  "size": "Large",
+  "founded": 2010
+}

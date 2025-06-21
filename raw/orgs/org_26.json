@@ -1,0 +1,14 @@
+{
+  "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "name": "PulseTech Innovations",
+  "photo": "https://example.com/logos/pulsetech.png",
+  "description": "PulseTech Innovations is a San Francisco-based startup focused on developing AI-driven analytics platforms for healthcare providers.",
+  "websites": ["https://pulsetech.ai"],
+  "industry": "Technology",
+  "location": "San Francisco, CA",
+  "type": "COMPANY",
+  "created_at": 1682568000,
+  "org_id": "4fd36f6f-12a3-4e42-b8a4-9f04d7e6c2a1",
+  "size": "25-50 employees",
+  "founded": 2019
+}

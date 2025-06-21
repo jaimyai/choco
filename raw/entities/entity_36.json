@@ -1,0 +1,22 @@
+{
+  "id": "1f8d04ab-9c2e-4fa6-bf44-2bb5a3d9e333",
+  "name": "Alice Johnson",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photos/alice.jpg",
+  "emails": ["alice.johnson@example.com"],
+  "is_me": false,
+  "location": "New York, NY",
+  "state": "NY",
+  "country_code": "US",
+  "phone_number": "+1-555-1234",
+  "research": "Initial outreach made via email. Interested in cloud infrastructure trends.",
+  "summary": "Software engineer specializing in backend development.",
+  "long_summary": "Alice has over 5 years of experience building scalable web services using Node.js and Go. She has led teams of 4 engineers and contributed to open-source projects.",
+  "linked_in": "https://linkedin.com/in/alicejohnson",
+  "linked_in_maybes": "ajohnson@maybe.io",
+  "linked_in_followers": 850,
+  "org_id": "org-1111"
+}

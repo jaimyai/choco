@@ -1,0 +1,18 @@
+{
+  "id": "b23d4f5a-6789-4cad-0123-bcdef2345678",
+  "name": "Green Earth Alliance",
+  "photo": "https://example.com/logos/greenearth.png",
+  "description": "Green Earth Alliance is dedicated to protecting ecosystems through community-driven conservation efforts and policy advocacy. We organize local cleanups, reforestation projects, and educational workshops across North America.",
+  "websites": ["https://greenearth.org", "https://donate.greenearth.org"],
+  "industry": "Environmental Conservation",
+  "location": "Portland, OR",
+  "type": "INSTITUTION",
+  "founded": 2005,
+  "size": "501-1000",
+  "contact_info": {
+    "email": "info@greenearth.org",
+    "phone": "+1-503-555-6789"
+  },
+  "created_at": 1702564800,
+  "org_id": "org-0123bcde-4567-8901-fabc-def234567890"
+}

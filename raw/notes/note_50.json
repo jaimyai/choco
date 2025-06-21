@@ -1,0 +1,29 @@
+{
+  "id": "c0ffee00-1234-5678-9abc-def012345678",
+  "org_id": "deadbeef-0000-1111-2222-333344445555",
+  "user_id": "beadfeed-1111-2222-3333-444455556666",
+  "title": "Lunch with Sarah: Feedback Session",
+  "content": {
+    "text": "Met with Sarah to discuss her performance review and next quarter goals.",
+    "format": "text",
+    "tags": ["one-on-one", "feedback"]
+  },
+  "timestamp": "2024-06-02T12:30:00Z",
+  "summary": {
+    "key_points": [
+      "Positive progress on project X",
+      "Needs improvement in time management"
+    ],
+    "action_items": ["Sarah to enroll in time management workshop"],
+    "follow_up": "Check progress mid-June"
+  },
+  "type": "NOTE",
+  "category": "meeting",
+  "organization": {
+    "id": "deadbeef-0000-1111-2222-333344445555",
+    "name": "Human Resources",
+    "type": "DEPARTMENT",
+    "org_id": "deadbeef-0000-1111-2222-333344445555",
+    "industry": "Services"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "f0e9d8c7-b6a5-4938-a2b1-0c9d8e7f6a5b",
+  "org_id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+  "user_id": "1a2b3c4d-5e6f-7a8b-9c0d-e1f2a3b4c5d6",
+  "title": "API Endpoint Documentation",
+  "content": {
+    "text": "Endpoint: GET /api/v1/users/{id}\\nDescription: Retrieves user profile by ID.\\nResponses:\\n  200: JSON user object\\n  404: Not found",
+    "format": "plain-text"
+  },
+  "timestamp": "2024-06-12T11:20:00Z",
+  "summary": "Detailed spec for user retrieval endpoint including response codes.",
+  "type": "NOTE",
+  "organization": {
+    "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+    "name": "API Services Ltd.",
+    "type": "COMPANY",
+    "org_id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a"
+  },
+  "tags": ["API", "documentation", "backend"]
+}

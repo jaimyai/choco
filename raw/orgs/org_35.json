@@ -1,0 +1,17 @@
+{
+  "id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+  "name": "FinTech World Summit",
+  "photo": "https://example.com/logos/fintech_summit.png",
+  "description": "FinTech World Summit brings together industry leaders, innovators, and policymakers to explore the future of financial technology. The event features keynote speeches, panel discussions, and networking sessions. Topics range from blockchain and digital assets to AI-driven banking solutions.",
+  "websites": ["https://fintechsummit.com"],
+  "industry": "Finance",
+  "location": "New York, NY",
+  "type": "CONFERENCE",
+  "created_at": 1693526400,
+  "org_id": "org-11223344-5566-7788-99aa-bbccddeeff00",
+  "founded": 2020,
+  "social_media": {
+    "twitter": "@FinTechSummit",
+    "linkedin": "fintech-world-summit"
+  }
+}

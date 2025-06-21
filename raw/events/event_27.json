@@ -1,0 +1,61 @@
+{
+  "id": "b2c3d4e5-f6a7-b8c9-d0e1-f2a3b4c5d6e7",
+  "eid": "evt-002",
+  "user_id": "22222222-3333-4444-5555-666666666666",
+  "org_id": "org-87654321-4321-4321-4321-ba0987654321",
+  "title": "Client Onboarding Call",
+  "duration": 3600,
+  "start_time": "2024-05-02T15:00:00Z",
+  "end_time": "2024-05-02T16:00:00Z",
+  "is_owner": false,
+  "recording_mode": "manual",
+  "connectedEntityIds": [
+    {
+      "id": "user-423e4567-e89b-12d3-a456-426614174002",
+      "name": "Alice Tan",
+      "role": "Lead"
+    },
+    {
+      "id": "user-523e4567-e89b-12d3-a456-426614174003",
+      "name": "Bob Singh",
+      "role": "Account Manager"
+    }
+  ],
+  "link": "https://meet.google.com/xyz-abcd-efg",
+  "agenda": [
+    "Introduction and objectives",
+    "Product demo",
+    "Q&A",
+    "Next steps"
+  ],
+  "content": {
+    "transcript": "Hello everyone and welcome to the onboarding call. We walked through the main product features and highlighted the support process. The client raised questions about integration timelines and deployment options. We agreed to provide technical documentation by next week.",
+    "notes": [
+      "Send integration docs by May 9",
+      "Schedule follow-up technical deep dive",
+      "Assign support representative"
+    ],
+    "participants": ["Alice Tan", "Bob Singh", "Client Team"]
+  },
+  "transcript_format": "text",
+  "recording_url": "https://recordings.example.com/rec12345",
+  "type": "EVENT",
+  "summary": {
+    "key_points": [
+      "Product features overview",
+      "Support process explained",
+      "Integration questions addressed"
+    ],
+    "decisions": ["Provide documentation by next week"],
+    "attendees": ["Alice Tan", "Bob Singh", "Client Team"]
+  },
+  "organization": {
+    "id": "org-87654321-4321-4321-4321-ba0987654321",
+    "name": "Globex Corporation",
+    "type": "COMPANY",
+    "org_id": "org-87654321-4321-4321-4321-ba0987654321",
+    "description": "Global solutions provider",
+    "industry": "Technology",
+    "location": "New York, NY"
+  }
+}

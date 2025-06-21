@@ -1,0 +1,39 @@
+{
+  "id": "e5f6a7b8-c9d0-1e2f-3g4h-5i6j7k8l9m0n",
+  "eid": "evt-4004",
+  "user_id": "o2p3q4r5-s6t7-u8v9-v0w1-x2y3z4a5b6c7",
+  "org_id": "z9y8x7w6-v5u4-t3s2-r1q0-p9o8n7m6l5k4",
+  "title": "UX Designer Interview",
+  "duration": 3600,
+  "start_time": "2024-05-10T11:00:00Z",
+  "end_time": "2024-05-10T12:00:00Z",
+  "is_owner": false,
+  "recording_mode": "manual",
+  "connectedEntityIds": [
+    {
+      "id": "cand-123",
+      "name": "Sarah Nguyen",
+      "role": "Candidate"
+    },
+    {
+      "id": "int-456",
+      "name": "Tom Lee",
+      "role": "Interviewer"
+    }
+  ],
+  "link": "https://meet.google.com/mno-pqrs-tuv",
+  "content": "Interviewer asked about design process and tools. Sarah explained her workflow from user research to prototyping. She highlighted her experience with Figma and conducting usability testing. They discussed a case study on mobile app design. Candidate shared sketches and design rationale. Interviewer probed about collaboration with developers. Both agreed on next steps for portfolio submission.",
+  "type": "EVENT",
+  "summary": {
+    "key_points": ["Strong Figma skills", "Experience with user testing"],
+    "decisions": ["Invite Sarah for second round"],
+    "action_items": ["Sarah to send portfolio link", "Tom to prepare UX task"]
+  },
+  "organization": {
+    "id": "z9y8x7w6-v5u4-t3s2-r1q0-p9o8n7m6l5k4",
+    "name": "Bright Designs",
+    "type": "COMPANY",
+    "org_id": "z9y8x7w6-v5u4-t3s2-r1q0-p9o8n7m6l5k4",
+    "description": "Creative design agency"
+  }
+}

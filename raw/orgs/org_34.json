@@ -1,0 +1,29 @@
+{
+  "id": "15d2f3a4-b5c6-7d8e-9f0a-1b2c3d4e5f6a",
+  "name": "Quantum Scholars Team",
+  "photo": "https://example.com/logos/quantum_scholars.png",
+  "description": "Quantum Scholars Team is a research collective focused on quantum computing algorithms. Founded by a group of PhD students, the team collaborates with universities and tech companies. They publish open-source tools, host workshops, and mentor the next generation of scientists. Their work addresses optimization problems, cryptography, and quantum machine learning. The team is driven by a culture of curiosity, collaboration, and open science. They regularly present at international conferences and contribute to academic journals.",
+  "websites": [
+    {
+      "url": "https://quantum-scholars.org",
+      "type": "homepage",
+      "primary": true
+    },
+    {
+      "url": "https://github.com/quantum-scholars",
+      "type": "code",
+      "primary": false
+    }
+  ],
+  "industry": "Research",
+  "location": {
+    "city": "Cambridge",
+    "state": "MA",
+    "country": "USA",
+    "address": "77 Massachusetts Ave"
+  },
+  "type": "TEAM",
+  "created_at": 1577836800,
+  "org_id": "org-0f1e2d3c-4b5a-6978-1234-abcdefabcdef",
+  "founded": 2019
+}

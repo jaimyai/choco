@@ -1,0 +1,20 @@
+{
+  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "org_id": "ce9e2b12-5a6d-4f8e-8a3d-a8e8f1a91a57",
+  "name": "HealthCore Solutions",
+  "photo": "https://healthcore.solutions/logo.jpg",
+  "description": "HealthCore Solutions provides integrated EHR platforms for clinics and hospitals, focusing on interoperability and patient-centric care. Our products streamline workflows and improve clinical outcomes.",
+  "websites": ["https://healthcore.solutions"],
+  "industry": {
+    "primary": "Healthcare",
+    "secondary": "Software"
+  },
+  "location": "Boston, MA",
+  "type": "COMPANY",
+  "created_at": 1680393600,
+  "size": "250-500 employees",
+  "funding": {
+    "series": "B",
+    "amount": "$30M"
+  }
+}

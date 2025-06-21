@@ -1,0 +1,38 @@
+{
+  "id": "e7bf35c9-61ad-4d2b-9a3d-2a6e6c7f0a94",
+  "org_id": "9b4a25e7-3c1d-40de-b44b-cf0a9423f4e1",
+  "name": "FutureTech Summit",
+  "photo": "https://futuretechsummit.com/banner.png",
+  "description": "FutureTech Summit brings together industry leaders, innovators, and entrepreneurs to explore emerging technologies. Over three days, attendees participate in keynote presentations, panel discussions, and hands-on workshops. The summit covers AI, blockchain, IoT, cybersecurity, and more. Networking events and startup pitches provide opportunities to connect with investors and collaborators. Established in 2018, FutureTech has hosted over 10,000 participants from around the globe.",
+  "websites": [
+    {
+      "url": "https://futuretechsummit.com",
+      "type": "official",
+      "primary": true
+    },
+    {
+      "url": "https://signup.futuretechsummit.com",
+      "type": "registration",
+      "primary": false
+    }
+  ],
+  "industry": "Technology",
+  "location": {
+    "city": "Berlin",
+    "state": "",
+    "country": "Germany",
+    "address": "Messe Berlin, Messedamm 22"
+  },
+  "type": "CONFERENCE",
+  "created_at": 1711929600,
+  "founded": 2018,
+  "attendees": 10000,
+  "contact_info": {
+    "email": "contact@futuretechsummit.com",
+    "phone": "+49 30 3038 2000"
+  },
+  "social_media": {
+    "linkedin": "FutureTechSummit",
+    "instagram": "@futuretech_summit"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d45f6b7c-8901-4edb-2345-def456789012",
+  "name": "Riverside Technical College",
+  "photo": "https://example.com/logos/riversidetech.png",
+  "description": "Riverside Technical College offers vocational programs in engineering, IT, and healthcare. With over 50 lab facilities and partnerships with leading companies, RTC provides hands-on training and career placement services.",
+  "websites": ["https://riversidetech.edu"],
+  "industry": {
+    "primary": "Education",
+    "secondary": "Vocational Training"
+  },
+  "location": "Austin, TX",
+  "type": "OTHER",
+  "founded": 1972,
+  "size": "2000+ students",
+  "social_media": {
+    "facebook": "facebook.com/riversidetech",
+    "twitter": "@riversidetech"
+  },
+  "created_at": 1703739200,
+  "org_id": "org-2345def4-6789-0123-bcde-f45678901234"
+}

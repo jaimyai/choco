@@ -1,0 +1,38 @@
+{
+  "id": "d5b9a5c0-3e2b-4f9a-b1e8-d9fadc3a69e7",
+  "name": "Emily Santiago",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photos/emily.jpg",
+  "emails": ["emily.santiago@techstart.com"],
+  "is_me": false,
+  "location": "New York, NY",
+  "state": "NY",
+  "country_code": "US",
+  "phone_number": "+1-646-555-0123",
+  "research": [
+    "Joined virtual hackathon in 2023",
+    "Completed internship at FinTech startup"
+  ],
+  "summary": "Entry-Level Software Engineer specializing in frontend development.",
+  "long_summary": {
+    "background": "B.S. in Computer Engineering from NYU",
+    "expertise": "React, JavaScript, CSS",
+    "achievements": "Developed 3 live client projects during internship",
+    "goals": "Build scalable web applications while learning backend systems"
+  },
+  "linked_in": "https://linkedin.com/in/emilysantiago",
+  "linked_in_maybes": "e.santiago@techstart.com",
+  "linked_in_followers": 320,
+  "org_id": "a91fd1ea-7b73-4129-9b8d-1f0a2d5b6c7e",
+  "skills": ["React", "TypeScript", "UI/UX Design"],
+  "education": [
+    {
+      "degree": "B.S. Computer Engineering",
+      "institution": "New York University",
+      "year": 2023
+    }
+  ]
+}

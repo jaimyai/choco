@@ -1,0 +1,64 @@
+{
+  "id": "b2c3d4e5-f6a7-8901-bcde-f23456789012",
+  "eid": "evt-002",
+  "user_id": "22222222-3333-4444-5555-666666666666",
+  "org_id": "bbbbbbbb-cccc-dddd-eeee-ffffffffffff",
+  "title": "Project Alpha Review",
+  "duration": 3600,
+  "start_time": "2024-02-11T14:00:00Z",
+  "end_time": "2024-02-11T15:00:00Z",
+  "is_owner": false,
+  "recording_mode": "auto",
+  "connectedEntityIds": [
+    {
+      "id": "client-123",
+      "name": "Client A",
+      "role": "client"
+    },
+    {
+      "id": "int-team",
+      "name": "Integration Team",
+      "role": "internal"
+    }
+  ],
+  "link": "https://meet.google.com/bbb-cccc-dddd",
+  "content": {
+    "transcript": "The meeting opened with a status update from the project manager. Key milestones were reviewed. The integration phase has encountered minor delays due to API version changes. The development team proposed adjusting the timeline by one week. Budget implications were discussed and approved by finance. Risks were assessed and logged. The next steps include finalizing the test plan and scheduling the UAT environment.",
+    "notes": "- Milestones reviewed\n- Delay due to API changes\n- Timeline extended by one week\n- Budget approved\n- Risk log updated",
+    "participants": ["Alice", "Bob", "Dana", "Eve"]
+  },
+  "agenda": [
+    "Introduction",
+    "Milestone Review",
+    "Budget Discussion",
+    "Risk Assessment",
+    "Next Steps"
+  ],
+  "type": "EVENT",
+  "summary": {
+    "key_points": [
+      "API changes caused delays",
+      "Timeline extended",
+      "Budget approved",
+      "Risks logged"
+    ],
+    "decisions": [
+      "Extend timeline by one week",
+      "Allocate additional resources if needed"
+    ],
+    "action_items": [
+      "Alice to update project plan",
+      "Bob to configure UAT environment"
+    ],
+    "attendees": ["Alice", "Bob", "Dana", "Eve"]
+  },
+  "organization": {
+    "id": "bbbbbbbb-cccc-dddd-eeee-ffffffffffff",
+    "name": "Enterprise Solutions Ltd.",
+    "type": "COMPANY",
+    "org_id": "bbbbbbbb-cccc-dddd-eeee-ffffffffffff",
+    "description": "A leading provider of enterprise software solutions.",
+    "industry": "Software",
+    "location": "New York, NY"
+  }
+}

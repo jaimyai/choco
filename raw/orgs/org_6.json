@@ -1,0 +1,12 @@
+{
+  "id": "b43a1b7d-9f07-4d2f-8c37-1eac2678f442",
+  "name": "Nimbus AI",
+  "photo": "https://example.com/logos/nimbus-ai.png",
+  "description": "Nimbus AI develops predictive analytics tools for enterprise resource planning. Our cloud-native solutions help businesses optimize operations and forecast market trends with precision.",
+  "websites": ["https://nimbusai.com"],
+  "industry": "Technology",
+  "location": "San Francisco, CA",
+  "type": "COMPANY",
+  "created_at": 1704100000,
+  "org_id": "org-1e0b7c2d-3a5f-4f79-b8e2-2cd7f1a44a6d"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+  "name": "AzureWave Technologies",
+  "photo": "https://example.com/logos/azurewave.png",
+  "description": "AzureWave Technologies specializes in cloud-native solutions and scalable infrastructure management. The team excels in DevOps practices, microservices architecture, and container orchestration. They have delivered impactful projects for healthcare, finance, and e-commerce sectors. Committed to open-source collaboration and developer empowerment.",
+  "websites": [
+    {
+      "url": "https://azurewave.tech",
+      "type": "official",
+      "primary": true
+    }
+  ],
+  "industry": "Technology",
+  "location": "Seattle, WA",
+  "type": "TEAM",
+  "created_at": 1700000000,
+  "org_id": "5d4c3b2a-1f0e-9d8c-7b6a-5e4f3d2c1b0a",
+  "funding": {
+    "seed": 200000,
+    "series_a": 1200000,
+    "series_b": 5000000
+  },
+  "social_media": {
+    "linkedin": "linkedin.com/company/azurewave"
+  }
+}

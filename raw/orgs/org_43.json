@@ -1,0 +1,12 @@
+{
+  "id": "9f8e7d6c-5b4a-3210-9fed-cba987654321",
+  "name": "CapitalEdge Financial Group",
+  "photo": "https://example.com/logos/capitaledge.png",
+  "description": "CapitalEdge Financial Group offers tailored wealth management and investment advisory services to high-net-worth individuals and institutions. With a team of seasoned analysts, they strive to deliver exceptional returns while managing risk effectively.",
+  "websites": ["https://capitaledge.com"],
+  "industry": ["Finance", "Investment"],
+  "location": "New York, NY",
+  "type": "GROUP",
+  "created_at": 1700000000,
+  "org_id": "0f1e2d3c-4b5a-6978-90ab-cdef12345678"
+}

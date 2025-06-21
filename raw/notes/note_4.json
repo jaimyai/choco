@@ -1,0 +1,19 @@
+{
+  "id": "c6d7e8f9-a0b1-c2d3-e4f5-6a7b8c9d0e1f",
+  "org_id": "c1d2e3f4-a5b6-7c8d-9e0f-1a2b3c4d5e6f",
+  "user_id": "z9y8x7w6-v5u4-t3s2-r1q0-p9o8i7u6y5t4",
+  "title": "Next-Gen VR Project Brainstorm",
+  "content": "Brainstorm ideas for the VR project:\n- Immersive educational environments.\n- Virtual coworking spaces with real-time collaboration.\n- Interactive art galleries with gesture control.\nNext steps: gather tech requirements and prototype 2 concepts.",
+  "timestamp": "2024-02-20T16:20:00Z",
+  "summary": "Generated three core VR concepts for education, collaboration, and art.",
+  "type": "NOTE",
+  "organization": {
+    "id": "c1d2e3f4-a5b6-7c8d-9e0f-1a2b3c4d5e6f",
+    "name": "Creative Labs LLC",
+    "type": "COMPANY",
+    "org_id": "c1d2e3f4-a5b6-7c8d-9e0f-1a2b3c4d5e6f",
+    "industry": "Virtual Reality"
+  },
+  "tags": ["brainstorm", "VR"],
+  "priority": "high"
+}

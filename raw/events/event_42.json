@@ -1,0 +1,49 @@
+{
+  "id": "a3813e92-f945-4b1b-8f3d-1e8a7a5f9d37",
+  "eid": "evt-002",
+  "user_id": "b01d2e34-5678-4d12-9abc-2345678def01",
+  "org_id": "org-2345-6789-0abc-def1",
+  "title": "Q1 Client Review",
+  "duration": 2700,
+  "start_time": "2024-03-05T14:00:00Z",
+  "end_time": "2024-03-05T14:45:00Z",
+  "is_owner": false,
+  "recording_mode": "auto",
+  "connectedEntityIds": [
+    {
+      "id": "client-001",
+      "name": "GlobalCorp",
+      "role": "Client"
+    },
+    {
+      "id": "cust-002",
+      "name": "InnoVentures",
+      "role": "Client"
+    }
+  ],
+  "link": "https://meet.google.com/def-ghij-klm",
+  "content": {
+    "transcript": "PM: Welcome to the Q1 review. We achieved 15% growth. Client: We appreciate the timely launch of features. PM: Next quarter we will focus on performance improvements. Client: Looking forward to the roadmap update.",
+    "notes": "Discussed KPIs and deliverables for Q2.",
+    "participants": ["John Doe", "Jane Smith", "Carlos Rivera"]
+  },
+  "type": "EVENT",
+  "summary": {
+    "key_points": ["15% growth achieved", "Focus on performance improvements"],
+    "decisions": ["Allocate budget for optimization", "Schedule weekly syncs"],
+    "action_items": [
+      "PM to share roadmap by 3/10",
+      "Client to provide feedback on performance benchmarks"
+    ],
+    "attendees": ["John Doe", "Jane Smith", "Carlos Rivera"]
+  },
+  "organization": {
+    "id": "org-2345-6789-0abc-def1",
+    "name": "Global Corp Services",
+    "type": "COMPANY",
+    "org_id": "org-2345-6789-0abc-def1",
+    "description": "Leading provider of business solutions",
+    "industry": "Consulting",
+    "location": "New York, NY"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "b47a6f23-7d12-4f93-a1b8-1c2d3456e789",
+  "eid": "ev-001",
+  "user_id": "9a1b2c3d-4e5f-6789-abcd-ef0123456789",
+  "org_id": "11111111-2222-3333-4444-555555555555",
+  "title": "Weekly Team Sync",
+  "duration": 1800,
+  "start_time": "2024-01-03T09:00:00Z",
+  "end_time": "2024-01-03T09:30:00Z",
+  "is_owner": true,
+  "recording_mode": "manual",
+  "connectedEntityIds": ["proj-1234", "team-5678"],
+  "link": "https://meet.google.com/aaa-bbbb-ccc",
+  "agenda": ["Project Updates", "Blockers", "Next Steps"],
+  "content": "The team provided quick updates on progress. Alice reported completion of the UI prototype. Bob mentioned a blocker related to API integration. Carol outlined the testing plan for next week. The meeting concluded with assigned action items and scheduling the demo.",
+  "type": "EVENT",
+  "summary": "Weekly sync to align on project progress and assign tasks.",
+  "organization": {
+    "id": "11111111-2222-3333-4444-555555555555",
+    "name": "Acme Corp",
+    "type": "COMPANY",
+    "org_id": "11111111-2222-3333-4444-555555555555"
+  }
+}

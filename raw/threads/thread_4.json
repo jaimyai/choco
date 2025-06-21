@@ -1,0 +1,46 @@
+{
+  "id": "11112222-3333-4444-5555-666677778888",
+  "thread_id": "thread-4444-5555-6666-7777",
+  "content": {
+    "emails": [
+      {
+        "from": "marketing@startup-x.com",
+        "to": ["design@agency.com"],
+        "subject": "Feedback on Marketing Collateral",
+        "body": "Hi Team,\n\nThank you for sharing the initial marketing collateral. Overall, the design concept looks great, but we'd like to adjust the color palette to align with our brand guidelines. Please update the header graphics and banner images accordingly and resend for review.",
+        "date": "2024-07-05T11:20:00Z"
+      },
+      {
+        "from": "designer@agency.com",
+        "to": ["marketing@startup-x.com"],
+        "subject": "Re: Feedback on Marketing Collateral",
+        "body": "Hello,\n\nThanks for the feedback. We'll revise the color palette and update the graphics by end of day tomorrow. Let me know if there are any specific shade preferences.",
+        "date": "2024-07-05T12:45:00Z"
+      },
+      {
+        "from": "marketing@startup-x.com",
+        "to": ["designer@agency.com"],
+        "subject": "Re: Feedback on Marketing Collateral",
+        "body": "Perfect, please use our official hex codes #1A73E8 and #FFB300 for the headers. We look forward to the revised draft.",
+        "date": "2024-07-05T13:15:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "sentiment": "neutral"
+  },
+  "attachments": ["Brand_Guide_v2.pdf"],
+  "subject": "Feedback on Marketing Collateral",
+  "org_id": "org-1234-5678-9012-3456",
+  "user_id": "user-9999-8888-7777-6666",
+  "type": "THREAD",
+  "date": "2024-07-05T11:20:00Z",
+  "organization": {
+    "id": "org-1234-5678-9012-3456",
+    "name": "Startup X",
+    "type": "COMPANY",
+    "org_id": "org-1234-5678-9012-3456",
+    "description": "Early-stage tech startup focusing on AI-driven analytics.",
+    "industry": "Technology"
+  }
+}

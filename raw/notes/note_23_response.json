@@ -1,0 +1,10 @@
+{
+  "data": [
+    "The note \"Authentication API Specification\" describes an API for managing user authentication.",
+    "The note \"Authentication API Specification\" defines two API endpoints: POST /api/login and POST /api/logout.",
+    "The note \"Authentication API Specification\" specifies that successful authentication returns HTTP status code 200 with the message \"OK.\"",
+    "The note \"Authentication API Specification\" specifies that failed authentication returns HTTP status code 401 with the message \"Unauthorized.\"",
+    "The note \"Authentication API Specification\" provides a technical outline of authentication API endpoints.",
+    "The note \"Authentication API Specification\" focuses on authentication functionality in a technical API context."
+  ]
+}

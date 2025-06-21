@@ -1,0 +1,32 @@
+{
+  "id": "987e6543-e21b-32d3-a267-426655441234",
+  "eid": "evt-005",
+  "user_id": "222e6543-e21b-32d3-a267-426655449999",
+  "org_id": "555e1234-78ef-4cde-9012-abcdef123456",
+  "title": "Design Thinking Workshop",
+  "duration": 4500,
+  "start_time": "2024-05-05T13:30:00Z",
+  "end_time": "2024-05-05T15:15:00Z",
+  "is_owner": true,
+  "recording_mode": "manual",
+  "connectedEntityIds": ["workshop-group", "design-team"],
+  "link": "https://meet.google.com/ghi-jklm-nop",
+  "content": {
+    "transcript": "Facilitator: Welcome to the workshop on design thinking. Frances: I find empathy mapping very insightful. George: Let's brainstorm user pain points. Helen: We should prototype quickly. Ian: Feedback will guide our refinement. Frances: We'll split into small teams. George: Timeboxing helps maintain focus. Helen: Document all ideas.",
+    "notes": "Empathy mapping, brainstorming, rapid prototyping, timeboxing.",
+    "participants": ["Frances", "George", "Helen", "Ian"]
+  },
+  "transcript_format": "detailed",
+  "type": "EVENT",
+  "summary": {
+    "decisions": ["Prototype A chosen", "Follow-up session scheduled"],
+    "action_items": ["Develop low-fidelity mockups", "Gather user feedback"],
+    "attendees": ["Frances", "George", "Helen", "Ian"]
+  },
+  "organization": {
+    "id": "555e1234-78ef-4cde-9012-abcdef123456",
+    "name": "Creative Works",
+    "type": "COMPANY",
+    "org_id": "555e1234-78ef-4cde-9012-abcdef123456"
+  }
+}

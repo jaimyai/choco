@@ -1,0 +1,26 @@
+{
+  "id": "123e4567-e89b-12d3-a456-426614174000",
+  "name": "Alice Johnson",
+  "last_updated": "1704400000",
+  "last_communication": "1704486400",
+  "created_at": "1703813600",
+  "importing": false,
+  "photo": "https://example.com/photos/alice_johnson.jpg",
+  "emails": ["alice.j@example.org"],
+  "is_me": false,
+  "location": "London, UK",
+  "country_code": "GB",
+  "phone_number": "+44-20-7946-0958",
+  "research": [
+    "Initial outreach in Q1 2023",
+    "Reviewed company annual report",
+    "Checked speaking history"
+  ],
+  "summary": "Chief Marketing Officer at GlobalCorp with 10+ years in strategic branding and digital campaigns.",
+  "org_id": "org-003",
+  "social_media": {
+    "twitter": "https://twitter.com/alicej",
+    "blog": "https://alicejohnson.blog"
+  },
+  "skills": ["Brand Strategy", "Digital Marketing", "Content Creation"]
+}

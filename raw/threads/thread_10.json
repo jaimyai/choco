@@ -1,0 +1,58 @@
+{
+  "id": "0a1b2c3d-5555-6666-7777-888899990000",
+  "thread_id": "thread-eeee-5555",
+  "content": {
+    "emails": [
+      {
+        "from": "ceo@enterprise.com",
+        "to": ["all@enterprise.com"],
+        "bcc": ["board@enterprise.com"],
+        "subject": "Q3 Company Announcement",
+        "body": "Dear Team, I am excited to announce our Q3 initiative focused on sustainability and innovation. Over the next three months, we will be launching green product lines and upgrading our facilities to be carbon-neutral. Please join the kickoff meeting on May 1st. Details below.",
+        "date": "2024-04-20T08:00:00Z"
+      },
+      {
+        "from": "hr@enterprise.com",
+        "to": ["all@enterprise.com"],
+        "subject": "Re: Q3 Company Announcement",
+        "body": "A reminder: the kickoff meeting is scheduled for May 1st at 10 AM in the main auditorium. Please RSVP by April 28th.",
+        "date": "2024-04-21T09:30:00Z"
+      },
+      {
+        "from": "teamlead1@enterprise.com",
+        "to": ["hr@enterprise.com", "ceo@enterprise.com"],
+        "subject": "Re: Q3 Company Announcement",
+        "body": "RSVP submitted. Looking forward to learning more about the sustainability goals.",
+        "date": "2024-04-22T14:10:00Z"
+      },
+      {
+        "from": "hr@enterprise.com",
+        "to": ["teamlead1@enterprise.com"],
+        "subject": "Re: Q3 Company Announcement",
+        "body": "Thank you for confirming. See you at the meeting.",
+        "date": "2024-04-23T11:05:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "action_items": [
+      "RSVP by April 28th",
+      "Prepare sustainability presentation"
+    ],
+    "sentiment": "motivational"
+  },
+  "attachments": ["kickoff_agenda.pdf"],
+  "subject": "Q3 Company Announcement",
+  "org_id": "org-4444-5555",
+  "user_id": "user-nnnn-oooo-pppp",
+  "type": "THREAD",
+  "date": "2024-04-23T11:05:00Z",
+  "organization": {
+    "id": "org-4444-5555",
+    "name": "Enterprise Corp",
+    "type": "COMPANY",
+    "org_id": "org-4444-5555",
+    "description": "Global enterprise solutions provider",
+    "website": "https://enterprise.example.com"
+  }
+}

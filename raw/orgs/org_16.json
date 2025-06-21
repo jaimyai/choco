@@ -1,0 +1,14 @@
+{
+  "id": "b3d5a1e2-47f8-4c9b-a8a5-9132d9e4c6f7",
+  "name": "Startify",
+  "photo": "https://cdn.example.com/startify/logo.png",
+  "description": "Startify is a cloud-based collaboration platform designed to help distributed teams manage projects seamlessly.",
+  "websites": ["https://startify.io", "https://dashboard.startify.io"],
+  "industry": "Technology",
+  "location": "San Francisco, CA",
+  "type": "COMPANY",
+  "created_at": 1698883200,
+  "org_id": "a1b2c3d4-e5f6-7a8b-9c0d-ef1234567890",
+  "size": "15-50 employees",
+  "founded": 2021
+}

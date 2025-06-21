@@ -1,0 +1,33 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440002",
+  "name": "Michael Brown",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photo3.jpg",
+  "emails": ["michael.brown@enterprise.com"],
+  "is_me": false,
+  "location": "London, England",
+  "phone_number": "+44-20-7946-0958",
+  "research": [
+    "Reviewed company annual report 2023.",
+    "Spoke with alumni network contacts.",
+    "Tracked patent filings in Q2."
+  ],
+  "summary": "Chief Operating Officer with extensive experience in global operations and scaling businesses.",
+  "long_summary": {
+    "background": "20 years in finance and operations",
+    "expertise": "risk management, M&A, global supply chain",
+    "achievements": "Led merger integration worth $5B; reduced operational costs by 25%"
+  },
+  "skills": ["leadership", "strategic planning", "cross-cultural management"],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Harvard Business School",
+      "year": 2004
+    }
+  ],
+  "org_id": "org-uuid-3"
+}

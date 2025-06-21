@@ -1,0 +1,62 @@
+{
+  "id": "b2c3d4e5-f6a7-8b9c-0d1e-f2a3b4c5d6e7",
+  "thread_id": "thread-2222-3333-4444",
+  "content": {
+    "thread_id": "thread-2222-3333-4444",
+    "participants": ["manager@example.com", "team@example.com"],
+    "emails": [
+      {
+        "from": "project.lead@example.com",
+        "to": ["manager@example.com"],
+        "cc": ["team@example.com"],
+        "subject": "Project Phoenix: Initial Report",
+        "body": "Dear Team,\n\nPlease find attached the initial project report for Phoenix. It covers milestones achieved in the last sprint.",
+        "date": "2024-03-01T08:00:00Z"
+      },
+      {
+        "from": "manager@example.com",
+        "to": ["project.lead@example.com"],
+        "subject": "Re: Project Phoenix: Initial Report",
+        "body": "Thanks for the report. Please include budget estimates in the next version.",
+        "date": "2024-03-01T12:30:00Z"
+      },
+      {
+        "from": "project.lead@example.com",
+        "to": ["manager@example.com"],
+        "subject": "Project Phoenix: Updated Report with Budget",
+        "body": "Hello,\n\nUpdated the report with detailed budget estimates. Let me know if any changes are needed.\n\nRegards,\nLead",
+        "date": "2024-03-02T09:45:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": [
+      "Initial report delivered",
+      "Budget estimates requested and added"
+    ],
+    "action_items": ["Review budget section", "Approve the revised report"]
+  },
+  "attachments": [
+    {
+      "filename": "report.docx",
+      "size": "24KB"
+    },
+    {
+      "filename": "budget.xlsx",
+      "size": "12KB"
+    }
+  ],
+  "subject": "Project Phoenix Update",
+  "org_id": "org-2345-6789",
+  "user_id": "user-2222-3333",
+  "type": "THREAD",
+  "date": "2024-03-02T09:45:00Z",
+  "organization": {
+    "id": "org-2345-6789",
+    "name": "Globex Inc",
+    "type": "COMPANY",
+    "org_id": "org-2345-6789",
+    "description": "Global business solutions",
+    "industry": "Consulting"
+  }
+}

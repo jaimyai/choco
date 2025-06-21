@@ -1,0 +1,66 @@
+{
+  "id": "b54a1f62-5e3d-4b0a-912c-2d4f7c1b6f8e",
+  "thread_id": "f3d2c1b0-7a5e-4c6d-8b2f-9e1a3d4b5c6f",
+  "content": {
+    "thread_id": "f3d2c1b0-7a5e-4c6d-8b2f-9e1a3d4b5c6f",
+    "participants": [
+      "carol@example.com",
+      "dave@example.com",
+      "eve@example.com"
+    ],
+    "emails": [
+      {
+        "from": "carol@example.com",
+        "to": ["dave@example.com", "eve@example.com"],
+        "cc": ["frank@example.com"],
+        "subject": "Project Alpha Design Review",
+        "body": "Hi team,\n\nI'd like to schedule a design review for Project Alpha next Wednesday to go over the mockups and wireframes. Please review the attached plan and budget documents and let me know your availability.\n\nThanks,\nCarol",
+        "date": "2024-03-10T14:20:00Z"
+      },
+      {
+        "from": "dave@example.com",
+        "to": ["carol@example.com"],
+        "bcc": ["manager@example.com"],
+        "subject": "Re: Project Alpha Design Review",
+        "body": "Carol,\n\nI reviewed the documents and have a few questions about the layout specifications. I'm available on the 13th and 14th after 2pm. Let me know what works.\n\nRegards,\nDave",
+        "date": "2024-03-10T15:05:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": [
+      "Schedule design review next week",
+      "Review mockups and wireframes",
+      "Confirm layout specifications"
+    ],
+    "action_items": [
+      "Carol to finalize meeting time",
+      "Dave to prepare specification questions"
+    ],
+    "sentiment": "neutral"
+  },
+  "attachments": [
+    {
+      "filename": "project-plan.xlsx",
+      "size": 23456
+    },
+    {
+      "filename": "budget.csv",
+      "size": 12345
+    }
+  ],
+  "subject": "Project Alpha Design Review",
+  "org_id": "4c6a9e2b-3d5f-4a7c-8b1e-2f0d3b4a5c6e",
+  "user_id": "7a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+  "type": "THREAD",
+  "date": "2024-03-10T15:05:00Z",
+  "organization": {
+    "id": "4c6a9e2b-3d5f-4a7c-8b1e-2f0d3b4a5c6e",
+    "name": "Beta Innovations",
+    "type": "COMPANY",
+    "org_id": "4c6a9e2b-3d5f-4a7c-8b1e-2f0d3b4a5c6e",
+    "description": "Leading provider of innovative tech solutions",
+    "industry": "Technology",
+    "location": "San Francisco, CA"
+  }
+}

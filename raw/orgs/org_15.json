@@ -1,0 +1,17 @@
+{
+  "id": "a81b9f77-2cde-4f4a-820d-3cd9b1c4e3f2",
+  "org_id": "b4d5a1c2-6e7f-4abc-8def-1234567890ab",
+  "name": "PixelWave Studio",
+  "photo": "https://pixelwave.studio/logo.svg",
+  "description": "PixelWave Studio is a boutique creative agency specializing in branding, web design, and digital marketing.",
+  "websites": ["https://pixelwave.studio"],
+  "industry": ["Advertising", "Design"],
+  "location": "Austin, TX",
+  "type": "TEAM",
+  "created_at": 1677628800,
+  "size": "20-30 employees",
+  "social_media": {
+    "dribbble": "pixelwave",
+    "behance": "pixelwave_studio"
+  }
+}

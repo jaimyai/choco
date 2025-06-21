@@ -1,0 +1,66 @@
+{
+  "id": "b2e3d4f5-6789-2345-abcd-bcdef1234567",
+  "name": "Michael Smith",
+  "last_updated": "1704412800",
+  "last_communication": "1704400000",
+  "created_at": "1704000000",
+  "importing": false,
+  "photo": "https://example.com/photos/michael_smith.png",
+  "emails": [
+    {
+      "email": "michael.smith@consultpro.com",
+      "type": "work",
+      "verified": true
+    },
+    {
+      "email": "msmith.personal@gmail.com",
+      "type": "personal",
+      "verified": false
+    }
+  ],
+  "is_me": false,
+  "location": "New York, New York",
+  "state": "New York",
+  "country_code": "US",
+  "phone_number": "+1-212-555-0198",
+  "research": {
+    "notes": "Served as lead consultant for fintech startups in 2018-2022.",
+    "sources": ["LinkedIn", "Company Website", "Press Releases"],
+    "last_researched": "1704405000"
+  },
+  "summary": {
+    "title": "Senior Management Consultant",
+    "company": "ConsultPro Inc.",
+    "industry": "Financial Services",
+    "experience": 8
+  },
+  "long_summary": {
+    "background": "Over 8 years consulting experience with global banks and fintech firms.",
+    "expertise": [
+      "Strategy Planning",
+      "Process Optimization",
+      "Change Management"
+    ],
+    "achievements": [
+      "Reduced operational costs by 15% for major client",
+      "Led cross-functional teams across 5 countries"
+    ]
+  },
+  "linked_in": "https://linkedin.com/in/michaelsmith-consultpro",
+  "linked_in_maybes": "m.smith@consultpro.com",
+  "linked_in_followers": 3200,
+  "org_id": "org-2b3c4d5e",
+  "skills": ["Strategic Planning", "Data Analysis", "Stakeholder Management"],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Wharton School",
+      "year": 2015
+    },
+    {
+      "degree": "BSc Economics",
+      "institution": "University of Michigan",
+      "year": 2010
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "5f6e7d8c-2222-3333-4444-555566667777",
+  "thread_id": "thread-bbbb-2222",
+  "content": {
+    "thread_id": "thread-bbbb-2222",
+    "participants": [
+      "dave@techinc.com",
+      "eve@techinc.com",
+      "frank@techinc.com"
+    ],
+    "emails": [
+      {
+        "from": "dave@techinc.com",
+        "to": ["eve@techinc.com", "frank@techinc.com"],
+        "subject": "Project Phoenix Initial Prototype",
+        "body": "Team, I am pleased to share that the initial prototype is complete. Attached is a zip with the build. Let me know if there are any issues running the demo.",
+        "date": "2024-03-01T10:30:00Z"
+      },
+      {
+        "from": "eve@techinc.com",
+        "to": ["dave@techinc.com", "frank@techinc.com"],
+        "subject": "Re: Project Phoenix Initial Prototype",
+        "body": "Thanks Dave. I ran the demo and noticed some performance lags on the data import feature. I'll profile the code and share results by tomorrow.",
+        "date": "2024-03-02T14:45:00Z"
+      },
+      {
+        "from": "frank@techinc.com",
+        "to": ["dave@techinc.com", "eve@techinc.com"],
+        "subject": "Re: Project Phoenix Initial Prototype",
+        "body": "Great work. I've started writing unit tests and will focus on optimizing queries. Expect updates by end of week.",
+        "date": "2024-03-03T09:20:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": [
+      "Completed initial prototype",
+      "Identified performance bottlenecks"
+    ],
+    "action_items": ["Benchmark in next sprint", "Optimize database queries"],
+    "sentiment": "positive"
+  },
+  "attachments": [
+    {
+      "filename": "prototype.zip",
+      "size": "15MB",
+      "content_type": "application/zip"
+    },
+    {
+      "filename": "design_doc.docx",
+      "size": "120KB",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "subject": "Project Phoenix Update",
+  "org_id": "org-5555-6666",
+  "user_id": "user-eeee-ffff-gggg",
+  "type": "THREAD",
+  "date": "2024-03-05T17:00:00Z",
+  "organization": {
+    "id": "org-5555-6666",
+    "name": "Tech Innovations Inc.",
+    "type": "COMPANY",
+    "org_id": "org-5555-6666",
+    "website": "https://techinnovations.example.com",
+    "employees": 250,
+    "description": "A leading company in cutting-edge tech solutions"
+  }
+}

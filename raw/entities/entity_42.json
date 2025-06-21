@@ -1,0 +1,50 @@
+{
+  "id": "f93bf0da-953b-4b02-a3c1-6547bd72fbb0",
+  "name": "Marcus Lee",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photos/marcus.jpg",
+  "emails": [
+    {
+      "email": "marcus@cloudvoyager.io",
+      "type": "work",
+      "verified": true
+    },
+    {
+      "email": "mlee.personal@gmail.com",
+      "type": "personal",
+      "verified": false
+    }
+  ],
+  "is_me": false,
+  "location": "Austin, TX",
+  "state": "TX",
+  "country_code": "US",
+  "phone_number": "+1-512-555-0147",
+  "research": {
+    "notes": "Spoke at TechCrunch Disrupt 2023, ongoing funding discussions",
+    "sources": ["Crunchbase", "Twitter DM"],
+    "last_researched": "1704153600"
+  },
+  "summary": {
+    "title": "CEO & Co-Founder",
+    "company": "CloudVoyager",
+    "industry": "Cloud Infrastructure",
+    "experience": "8 years in startup leadership"
+  },
+  "long_summary": "Marcus Lee founded CloudVoyager in 2019 with a vision to simplify cloud orchestration. Under his leadership the company grew from a two-person team to over 50 employees in five years. He has negotiated partnerships with major cloud providers and secured Series A and B funding rounds totaling $30M. Marcus is a frequent speaker at industry events and mentors early-stage founders through accelerator programs. He holds a BS in Computer Science from the University of Texas at Austin. His strategic insight and passion for developer experience have driven CloudVoyager’s adoption by Fortune 500 clients.",
+  "linked_in": "https://linkedin.com/in/marcuslee",
+  "linked_in_maybes": "marcus@cloudvoyager.io",
+  "linked_in_followers": 2750,
+  "org_id": "27c0eae6-95e2-4db9-8f37-8a3d1bd9f5de",
+  "skills": ["Leadership", "Fundraising", "Cloud Architecture"],
+  "education": [
+    {
+      "degree": "B.S. Computer Science",
+      "institution": "University of Texas at Austin",
+      "year": 2015
+    }
+  ]
+}

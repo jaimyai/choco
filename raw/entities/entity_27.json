@@ -1,0 +1,47 @@
+{
+  "id": "c9bf9e57-1685-4c89-bafb-ff5af830be8a",
+  "name": "Sarah Thompson",
+  "last_updated": "1704120000",
+  "last_communication": "1704123600",
+  "created_at": "1704116400",
+  "importing": false,
+  "photo": "https://example.com/photos/sarah_thompson.jpg",
+  "emails": [
+    {
+      "email": "sarah.invest@vcfirm.com",
+      "type": "work",
+      "verified": true
+    },
+    {
+      "email": "sarah.i123@gmail.com",
+      "type": "personal",
+      "verified": false
+    }
+  ],
+  "is_me": false,
+  "location": "New York, New York",
+  "state": "New York",
+  "country_code": "US",
+  "phone_number": "+1-212-555-0198",
+  "research": {
+    "notes": "Reviewed portfolio companies, interested in climate tech.",
+    "sources": ["PitchBook", "Crunchbase"],
+    "last_researched": "1704100000"
+  },
+  "summary": {
+    "title": "General Partner",
+    "company": "GreenSeed Ventures",
+    "industry": "Venture Capital",
+    "experience": "12 years"
+  },
+  "long_summary": {
+    "background": "Sarah has over a decade of experience in venture capital, focusing on sustainable and climate tech investments.",
+    "expertise": "Deal sourcing, portfolio management, fundraising.",
+    "achievements": "Led investments in 15 companies, 3 exits with 5x returns."
+  },
+  "linked_in": "https://linkedin.com/in/sarahthompson",
+  "linked_in_maybes": "s.thompson@outlook.com",
+  "linked_in_followers": 1800,
+  "org_id": "d2e8f21a-1234-4567-89ab-1c2b3d4e5f6g",
+  "interests": ["climate tech", "renewable energy", "impact investing"]
+}

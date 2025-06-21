@@ -1,0 +1,32 @@
+{
+  "id": "4d5e6f7a-8b9c-0def-1234-567890abcdef",
+  "thread_id": "thread-2233-4455-6677-8899-aabbccddeeff",
+  "content": {
+    "emails": [
+      {
+        "from": "uxlead@designstudio.com",
+        "to": ["product@designstudio.com"],
+        "subject": "Feedback: UI Mockups",
+        "body": "Hi team, the mockups look great overall. Please revise the color palette to match our brand guidelines and update the navigation layout for better accessibility.",
+        "date": "2024-04-10T11:00:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "action_items": ["Revise color palette", "Update navigation layout"]
+  },
+  "attachments": ["mockup1.png", "mockup2.png"],
+  "subject": "Feedback: UI Mockups",
+  "org_id": "org-4444-5555-6666-7777-888888888888",
+  "user_id": "user-4444-5555-6666-7777-999999999999",
+  "type": "THREAD",
+  "date": "2024-04-10T11:00:00Z",
+  "organization": {
+    "id": "org-4444-5555-6666-7777-888888888888",
+    "name": "Design Studio LLC",
+    "type": "COMPANY",
+    "org_id": "org-4444-5555-6666-7777-888888888888",
+    "industry": "Design",
+    "website": "https://www.designstudio.com"
+  }
+}

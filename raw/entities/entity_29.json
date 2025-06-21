@@ -1,0 +1,40 @@
+{
+  "id": "987e6543-e21b-65d3-b456-426614174999",
+  "name": "Laura Garcia",
+  "last_updated": "1704300000",
+  "last_communication": "1704303000",
+  "created_at": "1704290000",
+  "importing": false,
+  "photo": "https://example.com/photos/laura_garcia.jpg",
+  "emails": [
+    {
+      "email": "laura.garcia@consultco.com",
+      "type": "work",
+      "verified": true
+    }
+  ],
+  "is_me": false,
+  "location": "Austin, Texas",
+  "state": "Texas",
+  "country_code": "US",
+  "phone_number": "+1-512-555-0162",
+  "research": {
+    "summary": "Consulted on over 20 digital transformation projects.",
+    "last_researched": "1704285000"
+  },
+  "summary": "Independent consultant specializing in digital transformation and IT strategy:\n- 10+ years experience\n- Fortune 500 clients\n- Streamlining operations",
+  "long_summary": {
+    "background": "Laura Garcia is an IT consultant with a decade of experience helping large enterprises modernize their technology stacks.",
+    "expertise": "Cloud migration, process automation, change management",
+    "achievements": "Reduced operational costs by up to 30% for key clients"
+  },
+  "linked_in": "https://linkedin.com/in/lauragarcia",
+  "linked_in_maybes": "l.garcia@yahoo.com",
+  "linked_in_followers": 670,
+  "org_id": "321e6543-e21b-65d3-b456-426614174888",
+  "skills": [
+    "Cloud Architecture",
+    "Agile Methodologies",
+    "Stakeholder Management"
+  ]
+}

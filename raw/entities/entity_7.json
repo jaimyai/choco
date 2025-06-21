@@ -1,0 +1,54 @@
+{
+  "id": "d3f2b8a9-1c6d-4e89-9f12-3a4b5c6d7e8f",
+  "name": "Michael Lee",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photos/mikelee.jpg",
+  "emails": [
+    {
+      "email": "michael.lee@consultco.com",
+      "type": "work",
+      "verified": true
+    },
+    {
+      "email": "mikelee@gmail.com",
+      "type": "personal",
+      "verified": false
+    }
+  ],
+  "is_me": false,
+  "location": "New York, NY",
+  "state": "NY",
+  "country_code": "US",
+  "phone_number": "+1-555-0145",
+  "research": {
+    "notes": "Michael's expertise aligns with our operational strategy needs.",
+    "sources": ["Internal database", "Referral from John Smith"],
+    "last_researched": "2023-12-01"
+  },
+  "summary": {
+    "title": "Management Consultant",
+    "company": "ConsultCo",
+    "industry": "Strategy & Operations",
+    "experience": 8
+  },
+  "long_summary": {
+    "background": "Over 8 years at top firms in consulting.",
+    "expertise": "Operational efficiency, change management, market entry strategies.",
+    "achievements": "Led a $50M cost optimization project that saved 10% in annual expenses."
+  },
+  "linked_in": "https://linkedin.com/in/michaellee",
+  "linked_in_maybes": "mlee.consultco@maybe.com",
+  "linked_in_followers": 875,
+  "org_id": "org-uuid-2",
+  "skills": ["Strategy", "Data Analysis", "Project Management"],
+  "education": [
+    {
+      "institution": "Harvard Business School",
+      "degree": "MBA",
+      "year": 2016
+    }
+  ]
+}

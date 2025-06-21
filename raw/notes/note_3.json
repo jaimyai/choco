@@ -1,0 +1,33 @@
+{
+  "id": "b4c5d6e7-f8a9-0b1c-2d3e-4f5a6b7c8d9e",
+  "org_id": "f7a8b9c0-d1e2-3f4a-5b6c-7d8e9f0a1b2c",
+  "user_id": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+  "title": "API Endpoint Design Spec",
+  "content": [
+    {
+      "section": "Authentication",
+      "details": [
+        "Use OAuth2 bearer tokens",
+        "Endpoints: /auth/login, /auth/refresh"
+      ]
+    },
+    {
+      "section": "User Data",
+      "details": ["GET /users/{id}", "POST /users to create new user"]
+    },
+    {
+      "section": "Error Handling",
+      "details": ["Standard error codes", "JSON response with error message"]
+    }
+  ],
+  "timestamp": "2024-05-10T11:45:00Z",
+  "summary": "Design outline for the new REST API endpoints covering auth, user data, and error protocols.",
+  "type": "NOTE",
+  "organization": {
+    "id": "f7a8b9c0-d1e2-3f4a-5b6c-7d8e9f0a1b2c",
+    "name": "Tech Innovators Inc.",
+    "type": "COMPANY",
+    "org_id": "f7a8b9c0-d1e2-3f4a-5b6c-7d8e9f0a1b2c"
+  },
+  "category": "specification"
+}

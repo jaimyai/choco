@@ -1,0 +1,33 @@
+{
+  "id": "fedcba98-7654-3210-fedc-ba9876543210",
+  "org_id": "55555555-6666-7777-8888-999999999999",
+  "user_id": "22223333-4444-5555-6666-777788888888",
+  "title": "Client Feedback Summary",
+  "content": {
+    "text": "Client appreciated the UI redesign but requested performance improvements. They also asked for a new reporting dashboard.",
+    "format": "plain",
+    "tags": ["feedback", "client", "UI"]
+  },
+  "timestamp": "2024-05-01T08:00:00Z",
+  "summary": {
+    "key_points": [
+      "UI redesign positive feedback",
+      "Need for performance optimization",
+      "Request for reporting dashboard"
+    ],
+    "action_items": [
+      "Optimization team to benchmark load times",
+      "Design team to draft dashboard mockups"
+    ]
+  },
+  "type": "NOTE",
+  "organization": {
+    "id": "55555555-6666-7777-8888-999999999999",
+    "name": "ConsultPro",
+    "type": "COMPANY",
+    "org_id": "55555555-6666-7777-8888-999999999999",
+    "description": "Business consultancy services.",
+    "industry": "Consulting"
+  },
+  "category": "Client Meeting"
+}

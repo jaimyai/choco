@@ -1,0 +1,22 @@
+{
+  "id": "a1e23fc4-9d2a-4c0a-8e12-1f9b3d456789",
+  "name": "Alice Johnson",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photo1.jpg",
+  "emails": ["alice.j@example.com"],
+  "is_me": false,
+  "location": "San Francisco, CA",
+  "state": "CA",
+  "country_code": "US",
+  "phone_number": "+1-555-0123",
+  "research": "Met at TechCrunch Disrupt 2023. Interested in AI startups.",
+  "summary": "Early Stage Investor",
+  "long_summary": "Alice has invested in over 30 seed-stage startups across AI and SaaS. Former VP of Corporate Development at TechCo.",
+  "linked_in": "https://linkedin.com/in/alicejohnson",
+  "linked_in_maybes": "alice.j.maybe@example.com",
+  "linked_in_followers": 1200,
+  "org_id": "9fbc1a67-829e-4f49-9ea4-3a1b2c5d6e7f"
+}

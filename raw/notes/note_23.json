@@ -1,0 +1,40 @@
+{
+  "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+  "org_id": "7f8e9d0c-b1a2-3c4d-5e6f-7a8b9c0d1e2f",
+  "user_id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+  "title": "Authentication API Specification",
+  "content": [
+    {
+      "heading": "Overview",
+      "body": "This API endpoint will manage user authentication."
+    },
+    {
+      "heading": "Endpoints",
+      "body": "- POST /api/login\n- POST /api/logout"
+    },
+    {
+      "heading": "Responses",
+      "body": {
+        "success": {
+          "code": 200,
+          "message": "OK"
+        },
+        "error": {
+          "code": 401,
+          "message": "Unauthorized"
+        }
+      }
+    }
+  ],
+  "timestamp": "2024-01-28T11:45:00Z",
+  "summary": "Technical outline of authentication API endpoints.",
+  "type": "NOTE",
+  "tags": ["API", "authentication"],
+  "category": "Technical",
+  "organization": {
+    "id": "7f8e9d0c-b1a2-3c4d-5e6f-7a8b9c0d1e2f",
+    "name": "TechHub",
+    "type": "COMPANY",
+    "org_id": "7f8e9d0c-b1a2-3c4d-5e6f-7a8b9c0d1e2f"
+  }
+}

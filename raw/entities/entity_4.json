@@ -1,0 +1,43 @@
+{
+  "id": "d4a5b6c7-8901-4567-cdef-def3456789ab",
+  "name": "David Lee",
+  "last_updated": "1704240000",
+  "last_communication": "1704235000",
+  "created_at": "1703700000",
+  "importing": false,
+  "photo": "https://example.com/photos/david_lee.jpg",
+  "emails": [
+    {
+      "email": "david.lee@futureventures.vc",
+      "type": "work",
+      "verified": true
+    }
+  ],
+  "is_me": false,
+  "location": "Seattle, Washington",
+  "state": "Washington",
+  "country_code": "US",
+  "phone_number": "+1-206-555-0789",
+  "research": "Met at WEF Davos; portfolio includes 20+ seed investments in SaaS startups across North America.",
+  "summary": {
+    "title": "VC Investor & Co-founder",
+    "company": "FutureVentures",
+    "industry": "Venture Capital",
+    "experience": 12
+  },
+  "long_summary": {
+    "background": "David co-founded FutureVentures in 2015 after a successful exit of his first startup.",
+    "achievements": [
+      "Raised $150M across two funds",
+      "Invested in 50+ companies",
+      "Mentored 100+ founders"
+    ],
+    "investment_strategy": "Focus on early-stage SaaS and AI-driven enterprise solutions"
+  },
+  "linked_in": "https://linkedin.com/in/davidlee-fv",
+  "linked_in_maybes": "davidlee@gmail.com",
+  "linked_in_followers": 5400,
+  "org_id": "org-4d5e6f7a",
+  "interests": ["AI", "Blockchain", "Sustainability"],
+  "skills": ["Deal Sourcing", "Due Diligence", "Portfolio Management"]
+}

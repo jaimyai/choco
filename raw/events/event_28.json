@@ -1,0 +1,49 @@
+{
+  "id": "c3d4e5f6-a7b8-c9d0-e1f2-a3b4c5d6e7f8",
+  "eid": "evt-003",
+  "user_id": "33333333-4444-5555-6666-777777777777",
+  "org_id": "org-11223344-5566-7788-99aa-bbccddeeff00",
+  "title": "Technical Architecture Presentation",
+  "duration": 5400,
+  "start_time": "2024-05-03T11:00:00Z",
+  "end_time": "2024-05-03T12:30:00Z",
+  "is_owner": true,
+  "recording_mode": "auto",
+  "connectedEntityIds": ["svc-001", "svc-002", "svc-003"],
+  "link": "https://webex.com/meet/arch-presentation",
+  "recording_url": "https://recordings.example.com/arch-pres",
+  "content": [
+    {
+      "speaker": "Presentor",
+      "text": "Welcome to the technical architecture deep dive."
+    },
+    {
+      "speaker": "Presenter",
+      "text": "We will cover microservices design and API gateway patterns."
+    },
+    {
+      "speaker": "Attendee",
+      "text": "Can you elaborate on service discovery?"
+    },
+    {
+      "speaker": "Presenter",
+      "text": "We use a combination of DNS and client-side discovery for resilience."
+    },
+    {
+      "speaker": "Presenter",
+      "text": "Next we will discuss database sharding strategies."
+    },
+    {
+      "speaker": "Attendee",
+      "text": "What about backup and failover?"
+    }
+  ],
+  "type": "EVENT",
+  "summary": "Detailed overview of microservices architecture, database scaling strategies, and integration patterns were discussed.",
+  "organization": {
+    "id": "org-11223344-5566-7788-99aa-bbccddeeff00",
+    "name": "TechNova Inc",
+    "type": "COMPANY",
+    "org_id": "org-11223344-5566-7788-99aa-bbccddeeff00"
+  }
+}

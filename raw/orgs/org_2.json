@@ -1,0 +1,42 @@
+{
+  "id": "5a1c2e3f-9b0d-4c5a-8f1e-2d3b4c5a6f7e",
+  "name": "Global Manufacturing Inc",
+  "photo": "https://cdn.globalmfg.com/logo.png",
+  "description": {
+    "overview": "Global Manufacturing Inc is a multinational industrial giant specializing in automotive and aerospace components.",
+    "mission": "To deliver precision-engineered products that drive innovation in transportation.",
+    "values": ["Integrity", "Excellence", "Sustainability"],
+    "history": "Founded in 1952, the company has grown from a small workshop to a global leader with 50 plants worldwide."
+  },
+  "websites": [
+    {
+      "url": "https://globalmfg.com",
+      "type": "primary",
+      "primary": true
+    },
+    {
+      "url": "https://careers.globalmfg.com",
+      "type": "careers",
+      "primary": false
+    }
+  ],
+  "industry": {
+    "primary": "Manufacturing",
+    "secondary": "Automotive"
+  },
+  "location": {
+    "address": "123 Industrial Park",
+    "city": "Detroit",
+    "state": "MI",
+    "country": "USA"
+  },
+  "type": "COMPANY",
+  "created_at": 1688001234,
+  "org_id": "1e2d3c4b-5a6f-7e8d-9c0b-1a2b3c4d5e6f",
+  "founded": 1952,
+  "size": "10000+ employees",
+  "social_media": {
+    "twitter": "@GlobalMfg",
+    "linkedin": "linkedin.com/company/globalmfg"
+  }
+}

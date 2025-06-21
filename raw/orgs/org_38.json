@@ -1,0 +1,22 @@
+{
+  "id": "f1e2d3c4-b5a6-47f8-9e0d-1c2b3a4d5e6f",
+  "name": "GlobalTrade Finance",
+  "photo": "https://example.com/logos/globaltrade.png",
+  "description": "GlobalTrade Finance offers comprehensive financial services and trade financing solutions across the globe. From import-export funding to risk management, the company supports businesses of all sizes in navigating international markets.",
+  "websites": [
+    "https://globaltradefinance.com",
+    "https://finance.globaltrade.com"
+  ],
+  "industry": ["Finance", "International Trade"],
+  "location": {
+    "address": "123 International Plaza",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA"
+  },
+  "type": "GROUP",
+  "created_at": 1670000000,
+  "org_id": "6f5e4d3c-2b1a-0c9d-8e7f-6a5b4c3d2e1f",
+  "size": "500-1000 employees",
+  "founded": 1998
+}

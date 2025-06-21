@@ -3,6 +3,9 @@
   "module": "index.ts",
   "type": "module",
   "private": true,
+  "scripts": {
+    "clean": "prettier --write \"raw/**/*.json\""
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
@@ -10,6 +13,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "openai": "^5.5.0"
+    "openai": "^5.5.0",
+    "prettier": "^3.5.3"
   }
 }

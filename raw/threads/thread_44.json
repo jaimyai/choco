@@ -1,0 +1,52 @@
+{
+  "id": "1679091c-95ae-4b0d-acbe-1234abcd5678",
+  "thread_id": "c9f0f895-2a6d-44f5-bffb-9876fedcba54",
+  "content": {
+    "thread_id": "c9f0f895-2a6d-44f5-bffb-9876fedcba54",
+    "participants": [
+      "alice@company.com",
+      "bob@company.com",
+      "carol@company.com"
+    ],
+    "emails": [
+      {
+        "from": "alice@company.com",
+        "to": ["bob@company.com", "carol@company.com"],
+        "subject": "Monthly Sales Sync",
+        "body": "Hi team, Let's hold our monthly sales synchronization meeting tomorrow at 10 AM. Please prepare your metrics and pipeline updates. The call link is provided below.",
+        "date": "2024-03-05T14:30:00Z"
+      },
+      {
+        "from": "bob@company.com",
+        "to": ["alice@company.com", "carol@company.com"],
+        "subject": "Re: Monthly Sales Sync",
+        "body": "Sounds good. I will have Q1 numbers ready. Thanks!",
+        "date": "2024-03-05T15:00:00Z"
+      },
+      {
+        "from": "carol@company.com",
+        "to": ["alice@company.com", "bob@company.com"],
+        "subject": "Re: Monthly Sales Sync",
+        "body": "I might be five minutes late but will join ASAP. Looking forward to discussing our new leads.",
+        "date": "2024-03-05T15:10:00Z"
+      }
+    ],
+    "cc": ["sales.director@company.com"],
+    "bcc": ["teamlead@company.com"]
+  },
+  "summary": {},
+  "attachments": ["meeting-minutes.txt"],
+  "subject": "Monthly Sales Sync",
+  "org_id": "org-4d5e6f",
+  "user_id": "user-2345",
+  "type": "THREAD",
+  "date": "2024-03-05T14:30:00Z",
+  "organization": {
+    "id": "org-4d5e6f",
+    "name": "Company Dynamics",
+    "type": "COMPANY",
+    "org_id": "org-4d5e6f",
+    "employees": 1500,
+    "location": "New York, NY"
+  }
+}

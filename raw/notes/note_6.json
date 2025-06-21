@@ -1,0 +1,17 @@
+{
+  "id": "e4b8f3a1-2f74-4c27-9ef4-1a2b3c4d5e6f",
+  "org_id": "11111111-2222-3333-4444-555555555555",
+  "user_id": "123e4567-e89b-12d3-a456-426614174000",
+  "title": "Submit Q1 Expenses",
+  "content": "Remember to submit all Q1 expense reports by Friday.",
+  "timestamp": "2024-01-15T08:45:00Z",
+  "summary": "Expense reports due end of week.",
+  "type": "NOTE",
+  "priority": "High",
+  "organization": {
+    "id": "11111111-2222-3333-4444-555555555555",
+    "name": "GreenLeaf Inc",
+    "type": "COMPANY",
+    "org_id": "11111111-2222-3333-4444-555555555555"
+  }
+}

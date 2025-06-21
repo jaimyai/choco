@@ -1,0 +1,18 @@
+{
+  "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+  "name": "LumaHealth",
+  "photo": "https://images.example.com/lumahealth-logo.png",
+  "description": "LumaHealth is a digital health startup improving patient engagement through AI-driven appointment scheduling and reminders.",
+  "websites": ["https://lumahealth.com", "https://app.lumahealth.com"],
+  "industry": "Healthcare",
+  "location": "San Francisco, CA",
+  "type": "COMPANY",
+  "created_at": 1699990000,
+  "org_id": "9f7b0f1c-5c3e-4d16-9e9a-1a2b3c4d5e6f",
+  "founded": 2018,
+  "size": "50-100",
+  "funding": {
+    "seed": "2M",
+    "series_a": "12M"
+  }
+}

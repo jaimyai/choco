@@ -1,0 +1,34 @@
+{
+  "id": "d4c3b2a1-9f8e-7d6c-5b4a-3e2f1d0c9b8a",
+  "org_id": "a1a2a3a4-b5b6-c7c8-d9d0-e1e2e3e4e5e6",
+  "user_id": "z9y8x7w6-v5u4-t3s2-r1q0-p9o8n7m6l5k4",
+  "title": "Mobile App Gamification Features",
+  "content": [
+    {
+      "section": "Overview",
+      "body": "Introduce badges and leaderboards to boost user engagement."
+    },
+    {
+      "section": "Rewards System",
+      "body": "Users earn points for activity; points redeemable for perks."
+    },
+    {
+      "section": "Technical Requirements",
+      "body": "Integrate with existing user profile API, require real-time updates."
+    }
+  ],
+  "timestamp": "2024-06-10T15:45:00Z",
+  "summary": {
+    "key_points": ["Badge system", "Leaderboard integration", "Points rewards"],
+    "action_items": ["Define point thresholds", "Design badge icons"]
+  },
+  "type": "NOTE",
+  "organization": {
+    "id": "a1a2a3a4-b5b6-c7c8-d9d0-e1e2e3e4e5e6",
+    "name": "SocialApp Co.",
+    "type": "COMPANY",
+    "org_id": "a1a2a3a4-b5b6-c7c8-d9d0-e1e2e3e4e5e6",
+    "industry": "Social Media"
+  },
+  "category": "Product Idea"
+}

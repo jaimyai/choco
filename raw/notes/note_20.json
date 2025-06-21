@@ -1,0 +1,24 @@
+{
+  "id": "123e4567-e89b-12d3-a456-426614174000",
+  "org_id": "f1e2d3c4-b5a6-7890-cdef-1234567890ab",
+  "user_id": "0a1b2c3d-4e5f-6789-abcd-ef0123456789",
+  "title": "Brainstorming: AI Chatbot Features",
+  "content": {
+    "text": "Possible features:\n- Natural language understanding\n- Multi-language support\n- Integration with CRM\n- Self-learning modules",
+    "format": "markdown",
+    "tags": ["AI", "chatbot", "feature"]
+  },
+  "timestamp": "2024-05-05T16:20:00Z",
+  "summary": "List of proposed chatbot functionalities for next product cycle.",
+  "type": "NOTE",
+  "organization": {
+    "id": "f1e2d3c4-b5a6-7890-cdef-1234567890ab",
+    "name": "NextGen AI",
+    "type": "COMPANY",
+    "org_id": "f1e2d3c4-b5a6-7890-cdef-1234567890ab",
+    "industry": "Artificial Intelligence",
+    "description": "Pioneering AI-driven customer engagement solutions."
+  },
+  "priority": "medium",
+  "category": "Product Planning"
+}

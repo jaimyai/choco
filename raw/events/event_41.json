@@ -1,0 +1,24 @@
+{
+  "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+  "eid": "evt-001",
+  "user_id": "a45b556c-1234-4fa0-bc39-ef3456bc9abc",
+  "org_id": "org-1234-5678-90ab-cdef",
+  "title": "Daily Standup",
+  "duration": 900,
+  "start_time": "2024-02-10T09:00:00Z",
+  "end_time": "2024-02-10T09:15:00Z",
+  "is_owner": true,
+  "recording_mode": "manual",
+  "connectedEntityIds": ["team-frontend", "team-backend"],
+  "link": "https://meet.google.com/aaa-bbbb-ccc",
+  "content": "Team members shared quick updates. Alice reported blockers on API development. Bob confirmed completion of unit tests. Carol outlined next steps for integration testing.",
+  "type": "EVENT",
+  "summary": "Brief standup covering development blockers and next steps.",
+  "organization": {
+    "id": "org-1234-5678-90ab-cdef",
+    "name": "Acme Corp",
+    "type": "COMPANY",
+    "org_id": "org-1234-5678-90ab-cdef",
+    "industry": "Software"
+  }
+}

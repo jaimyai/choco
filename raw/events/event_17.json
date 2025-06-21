@@ -1,0 +1,54 @@
+{
+  "id": "c12d3e4f-5678-4a9b-8c0d-1e2f3a4b5c6d",
+  "eid": "ev-002",
+  "user_id": "123e4567-e89b-12d3-a456-426614174000",
+  "org_id": "22222222-3333-4444-5555-666666666666",
+  "title": "Client Onboarding Call",
+  "duration": 2700,
+  "start_time": "2024-01-05T14:00:00Z",
+  "end_time": "2024-01-05T14:45:00Z",
+  "is_owner": false,
+  "recording_mode": "auto",
+  "recording_url": "https://storage.example.com/recordings/ev-002.mp4",
+  "connectedEntityIds": [
+    {
+      "id": "client-7890",
+      "name": "Globex Corp",
+      "role": "client"
+    },
+    {
+      "id": "sales-1234",
+      "name": "Sales Team",
+      "role": "internal"
+    }
+  ],
+  "link": "https://meet.google.com/ddd-eeee-fff",
+  "content": {
+    "transcript": "Good afternoon, we’re excited to start the onboarding process. Nina covered platform features and Alice discussed support channels. The client asked about integration timelines and custom reporting. We agreed to follow up with a detailed project plan by Friday.",
+    "notes": "Client: Globex Corp; Outcome: Agreed timeline; Next step: Share project plan.",
+    "participants": [
+      "nina@example.com",
+      "alice@example.com",
+      "client@globex.com"
+    ]
+  },
+  "type": "EVENT",
+  "summary": {
+    "key_points": [
+      "Platform overview",
+      "Integration timeline",
+      "Support channels"
+    ],
+    "decisions": ["Project plan due Friday"],
+    "action_items": ["Prepare detailed project plan"],
+    "attendees": ["Nina", "Alice", "John from Globex"]
+  },
+  "organization": {
+    "id": "22222222-3333-4444-5555-666666666666",
+    "name": "Beta Solutions",
+    "type": "COMPANY",
+    "org_id": "22222222-3333-4444-5555-666666666666",
+    "description": "A provider of business workflow tools",
+    "industry": "SaaS"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "c3f4e5a6-7890-3456-bcde-cdef23456789",
+  "name": "Elizabeth Johnson",
+  "last_updated": "1704326400",
+  "last_communication": "1704320000",
+  "created_at": "1703800000",
+  "importing": false,
+  "photo": "https://example.com/photos/elizabeth_johnson.jpeg",
+  "emails": ["e.johnson@nextgenhealth.com"],
+  "is_me": false,
+  "location": "Chicago, Illinois",
+  "state": "Illinois",
+  "country_code": "US",
+  "phone_number": "+1-312-555-0421",
+  "research": [
+    {
+      "date": "1704310000",
+      "note": "Keynote speaker at Healthcare Summit 2023",
+      "source": "Event Website"
+    },
+    {
+      "date": "1704305000",
+      "note": "Interviewed on HealthTech Podcast",
+      "source": "Podcast"
+    }
+  ],
+  "summary": "Elizabeth is the Chief Operating Officer at NextGen Health, overseeing global operations and strategic partnerships. She has over 15 years of leadership experience in healthcare technology. Prior roles include VP of Operations at MediCore and Director at HealthSync. She holds an MBA from Kellogg School of Management.",
+  "long_summary": "In her role as COO, Elizabeth leads operational strategy, vendor management, and cross-border team integration. She has successfully scaled operations across Europe and Asia, managing budgets exceeding $200M. Elizabeth is passionate about leveraging AI for personalized medicine and has published articles in top industry journals.",
+  "linked_in": "https://linkedin.com/in/elizabethjohnson",
+  "linked_in_maybes": "ejohnson@nextgenhealth.com",
+  "linked_in_followers": 10400,
+  "org_id": "org-3c4d5e6f",
+  "social_media": {
+    "twitter": "@EJohnsonCOO",
+    "medium": "elizabethjohnson.blog"
+  }
+}

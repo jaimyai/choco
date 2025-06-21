@@ -1,0 +1,15 @@
+{
+  "id": "f7a8b9c0-d1e2-3f4a-5b6c-7d8e9f012345",
+  "name": "GreenByte Collective",
+  "photo": "https://example.com/logos/greenbyte.png",
+  "description": "GreenByte Collective is a small agency specializing in sustainable web and mobile app design. We help eco-friendly startups craft digital experiences that resonate with planet-conscious audiences.",
+  "websites": ["https://greenbyte.co"],
+  "industry": ["Design", "Sustainability"],
+  "location": "Portland, OR",
+  "type": "GROUP",
+  "created_at": 1704500000,
+  "org_id": "org-0f1e2d3c-4b5a-6d7e-8f90-123456abcdef",
+  "size": "Small",
+  "founded": 2018,
+  "funding": "Bootstrapped"
+}

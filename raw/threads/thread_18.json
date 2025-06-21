@@ -1,0 +1,39 @@
+{
+  "id": "c3d4e5f6-7890-12ab-cdef-345678901bcd",
+  "thread_id": "thread-0003",
+  "content": {
+    "emails": {
+      "initial": {
+        "from": "billing@paymenthub.com",
+        "to": ["client@business.com"],
+        "subject": "Invoice for Services Rendered",
+        "body": "Dear Client,\n\nPlease find attached the invoice for services rendered in February. The total amount due is $5,250. Payment is due within 30 days of receipt. If you have any questions, feel free to reach out.\n\nThank you for your business.\n\nSincerely,\nPaymentHub Billing Team",
+        "date": "2024-02-20T08:15:00Z"
+      },
+      "reminder": {
+        "from": "billing@paymenthub.com",
+        "to": ["client@business.com"],
+        "subject": "Reminder: Invoice #20240220 Due",
+        "body": "Hello,\n\nThis is a friendly reminder that invoice #20240220 is due tomorrow. Please ensure payment is processed to avoid any late fees. Let us know if you need another copy of the invoice.\n\nBest regards,\nPaymentHub",
+        "date": "2024-02-27T08:15:00Z"
+      }
+    }
+  },
+  "summary": {
+    "sentiment": "neutral"
+  },
+  "attachments": ["invoice_20240220.pdf"],
+  "subject": "Invoice for Services Rendered",
+  "org_id": "org-cccc-dddd-eeee-ffff",
+  "user_id": "user-3333-4444-5555-6666",
+  "type": "THREAD",
+  "date": "2024-02-27T08:15:00Z",
+  "organization": {
+    "id": "org-cccc-dddd-eeee-ffff",
+    "name": "PaymentHub",
+    "type": "COMPANY",
+    "org_id": "org-cccc-dddd-eeee-ffff",
+    "website": "https://www.paymenthub.com",
+    "employees": 150
+  }
+}

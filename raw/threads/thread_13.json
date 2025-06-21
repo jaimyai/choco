@@ -1,0 +1,50 @@
+{
+  "id": "a12d4b5c-6e78-49f0-ae12-3b456c7d89f0",
+  "thread_id": "thread-3k89012",
+  "content": {
+    "thread_id": "thread-3k89012",
+    "participants": ["sales@client.com", "pm@company.com"],
+    "messages": [
+      {
+        "from": "pm@company.com",
+        "to": ["sales@client.com"],
+        "subject": "Client Proposal Submission",
+        "body": "Dear Client,\\nPlease find attached our comprehensive proposal for the upcoming project. It includes timelines, deliverables, and cost estimates. We believe our solution aligns with your business goals and provides a scalable platform for growth. Let me know if you have any questions or require further adjustments.\\nBest regards,\\nProject Manager",
+        "date": "2024-03-05T10:15:00Z"
+      },
+      {
+        "from": "sales@client.com",
+        "to": ["pm@company.com"],
+        "subject": "Re: Client Proposal Submission",
+        "body": "Hello,\\nThank you for the detailed proposal. We will review it internally and get back to you with feedback by next week. Looking forward to our collaboration.\\nKind regards,\\nClient Sales Team",
+        "date": "2024-03-05T11:00:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "sentiment": "positive"
+  },
+  "attachments": [
+    {
+      "filename": "proposal.pdf",
+      "size": 125034
+    },
+    {
+      "filename": "terms.txt",
+      "size": 2048
+    }
+  ],
+  "subject": "Client Proposal Submission",
+  "org_id": "org-uuid-3456",
+  "user_id": "user-uuid-4567",
+  "type": "THREAD",
+  "date": "2024-03-05T10:15:00Z",
+  "organization": {
+    "id": "org-uuid-3456",
+    "name": "Gamma Enterprises",
+    "type": "COMPANY",
+    "org_id": "org-uuid-3456",
+    "website": "https://www.gammaenterprises.com",
+    "employees": 250
+  }
+}

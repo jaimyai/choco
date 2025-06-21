@@ -1,0 +1,54 @@
+{
+  "id": "e5b6c7d8-9012-5678-def0-ef4567890abc",
+  "name": "Sara Patel",
+  "last_updated": "1704153600",
+  "last_communication": "1704150000",
+  "created_at": "1703600000",
+  "importing": false,
+  "photo": "https://example.com/photos/sara_patel.png",
+  "emails": [
+    {
+      "email": "sara.patel@datainsights.io",
+      "type": "work",
+      "verified": true
+    },
+    {
+      "email": "s.patel@yahoo.com",
+      "type": "personal",
+      "verified": false
+    }
+  ],
+  "is_me": false,
+  "location": "Austin, Texas",
+  "state": "Texas",
+  "country_code": "US",
+  "phone_number": "+1-512-555-0312",
+  "research": {
+    "notes": "Published paper on time-series forecasting in Journal of Data Science, 2022.",
+    "sources": ["Google Scholar", "University Database"],
+    "last_researched": "1704152000"
+  },
+  "summary": "Sara Patel is a Data Scientist at DataInsights, specializing in machine learning and predictive analytics. She works on large-scale data pipelines and model deployment. Previous experience includes roles at CodeAnalytics and DeepLearn Labs.",
+  "long_summary": {
+    "background": "With 5 years in data science, Sara has built end-to-end ML solutions for e-commerce and healthcare.",
+    "expertise": ["Python", "TensorFlow", "Big Data"],
+    "projects": ["Customer churn prediction", "Real-time demand forecasting"]
+  },
+  "linked_in": "https://linkedin.com/in/sarapatel-ds",
+  "linked_in_maybes": "sara.patel@outlook.com",
+  "linked_in_followers": 2100,
+  "org_id": "org-5e6f7g8h",
+  "education": [
+    {
+      "degree": "MSc Data Science",
+      "institution": "UT Austin",
+      "year": 2019
+    },
+    {
+      "degree": "BSc Computer Science",
+      "institution": "Georgia Tech",
+      "year": 2017
+    }
+  ],
+  "skills": ["Machine Learning", "Data Engineering", "Statistical Analysis"]
+}

@@ -1,0 +1,10 @@
+{
+  "data": [
+    "The event Technical Architecture Presentation was about conducting a technical architecture review covering system overview, data flow, and integration points.",
+    "The event Technical Architecture Presentation included a discussion on a database sharding strategy that plans to shard data by region and by customer segment to optimize performance.",
+    "The event Technical Architecture Presentation covered a solution for cross-shard transactions using an orchestrator service that manages distributed transactions with compensation patterns.",
+    "The event Technical Architecture Presentation covered a microservices design in which each service is containerized and communicates over gRPC.",
+    "The event Technical Architecture Presentation specified expected service-to-service latency under normal load under 5 milliseconds and up to 20 milliseconds during load spikes.",
+    "The event Technical Architecture Presentation addressed security measures including encrypting data at rest using AES-256 on all storage volumes."
+  ]
+}

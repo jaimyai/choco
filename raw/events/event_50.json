@@ -1,0 +1,55 @@
+{
+  "id": "e3f4a5b6-c7d8-90e1-f234-567890abcdef",
+  "eid": "evt-1005",
+  "user_id": "e5f6a7b8-90c1-def2-3456-7890abcdef12",
+  "org_id": "org-567890ab-cdef-2345-6789-0abcdef12345",
+  "title": "Brainstorming Session: Q2 Marketing",
+  "duration": 7200,
+  "start_time": "2024-06-01T10:00:00Z",
+  "end_time": "2024-06-01T12:00:00Z",
+  "is_owner": true,
+  "recording_mode": "manual",
+  "connectedEntityIds": ["market-team", "sales-team", "design-team"],
+  "link": "https://meet.google.com/brainstorm-q2",
+  "agenda": [
+    "Set objectives",
+    "Idea generation",
+    "Prioritize concepts",
+    "Assign follow-ups"
+  ],
+  "content": {
+    "transcript": "We gathered to brainstorm marketing strategies for Q2. Ideas included influencer partnerships, email campaign optimizations, webinar series, and updated social media tactics. Each team member pitched concepts and we discussed potential ROI and resource allocation.",
+    "notes": [
+      "Influencer budget approved",
+      "Webinar series to launch in April",
+      "Email templates to be A/B tested"
+    ],
+    "participants": [
+      "Alice (Marketing)",
+      "Bob (Sales)",
+      "Carol (Design)",
+      "Dave (Analytics)"
+    ]
+  },
+  "type": "EVENT",
+  "summary": {
+    "key_points": ["Influencer partnerships", "Webinar series plan"],
+    "decisions": [
+      "Allocate 30% budget to influencers",
+      "Schedule first webinar for April 15"
+    ],
+    "action_items": [
+      "Carol to design webinar promo",
+      "Bob to finalize influencer list"
+    ],
+    "attendees": 4
+  },
+  "organization": {
+    "id": "org-567890ab-cdef-2345-6789-0abcdef12345",
+    "name": "Forward Marketing",
+    "type": "COMPANY",
+    "org_id": "org-567890ab-cdef-2345-6789-0abcdef12345",
+    "industry": "Marketing & Advertising",
+    "location": "Chicago, IL"
+  }
+}

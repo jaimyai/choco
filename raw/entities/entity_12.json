@@ -1,0 +1,41 @@
+{
+  "id": "c2b4d6e8-f90a-23d4-b567-426655440001",
+  "name": "Brandon Lee",
+  "last_updated": "1705000000",
+  "last_communication": "1705100000",
+  "created_at": "1703000000",
+  "importing": false,
+  "photo": "https://example.com/photos/brandon.jpg",
+  "emails": [
+    {
+      "email": "brandon.lee@innoventures.com",
+      "type": "work",
+      "verified": true
+    },
+    {
+      "email": "blee.personal@gmail.com",
+      "type": "personal",
+      "verified": false
+    }
+  ],
+  "is_me": false,
+  "location": "New York, NY",
+  "state": "NY",
+  "country_code": "US",
+  "phone_number": "+1-212-555-0199",
+  "research": {
+    "notes": "Met at TechCrunch Disrupt, expressed interest in seed round.",
+    "sources": ["TechCrunch", "LinkedIn"],
+    "last_researched": "1704000000"
+  },
+  "summary": {
+    "title": "Venture Partner",
+    "company": "Innoventures Capital",
+    "industry": "Venture Capital",
+    "experience": 12
+  },
+  "linked_in": "https://linkedin.com/in/brandonlee",
+  "linked_in_maybes": "blee.invest@example.com",
+  "linked_in_followers": 2200,
+  "org_id": "org-223e4567-e89b-12d3-a456-426614174001"
+}

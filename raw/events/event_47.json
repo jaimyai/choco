@@ -1,0 +1,58 @@
+{
+  "id": "a9f8e7c6-b5d4-3c2b-1a0f-9e8d7c6b5a4f",
+  "eid": "evt-1002",
+  "user_id": "b2c3d4e5-6789-0abc-def1-234567890abc",
+  "org_id": "org-23456789-0abc-def1-2345-67890abcdef1",
+  "title": "Client Project Kickoff",
+  "duration": 3600,
+  "start_time": "2024-03-10T14:00:00Z",
+  "end_time": "2024-03-10T15:00:00Z",
+  "is_owner": false,
+  "recording_mode": "auto",
+  "connectedEntityIds": [
+    {
+      "id": "client-001",
+      "name": "GlobalTech",
+      "role": "Client"
+    },
+    {
+      "id": "proj-789",
+      "name": "Project Phoenix",
+      "role": "Project"
+    }
+  ],
+  "link": "https://meet.google.com/kickoff-456",
+  "content": {
+    "transcript": "Welcome to the project kickoff. We discussed goals, timelines, and responsibilities. Action items were assigned to team leads.",
+    "notes": [
+      "Define project scope",
+      "Set up dev environment",
+      "Schedule follow-up call"
+    ],
+    "participants": ["Jane Doe", "John Smith", "Alice Johnson"]
+  },
+  "type": "EVENT",
+  "summary": {
+    "key_points": [
+      "Project scope agreed",
+      "Timeline set to Q3",
+      "Resources allocated"
+    ],
+    "decisions": ["Use React for frontend", "AWS for hosting"],
+    "action_items": [
+      "John to prepare architecture diagram",
+      "Jane to set up repository"
+    ],
+    "attendees": 3
+  },
+  "recording_url": "https://records.company.com/meet/evt-1002",
+  "organization": {
+    "id": "org-23456789-0abc-def1-2345-67890abcdef1",
+    "name": "Innovate Solutions",
+    "type": "COMPANY",
+    "org_id": "org-23456789-0abc-def1-2345-67890abcdef1",
+    "description": "A software consultancy focusing on enterprise solutions.",
+    "industry": "Information Technology",
+    "location": "New York, NY"
+  }
+}

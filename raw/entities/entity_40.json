@@ -1,0 +1,32 @@
+{
+  "id": "5d6e8efa-0a7b-4f53-cf34-5e0a1b2c3333",
+  "name": "Emily Davis",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photos/emily.jpg",
+  "emails": ["emily.davis@vcfirm.com", "e.davis@gmail.com"],
+  "is_me": false,
+  "location": "Boston, MA",
+  "state": "MA",
+  "country_code": "US",
+  "phone_number": "+1-555-7890",
+  "research": [
+    {
+      "topic": "Seed funding trends",
+      "notes": "Focus on biotech and AI startups."
+    },
+    {
+      "topic": "Contact history",
+      "notes": "Met at VC Summit 2023"
+    }
+  ],
+  "summary": "Associate at VenturePlus Capital, specializing in early-stage investments.",
+  "long_summary": "Emily evaluates startups in biotech and AI sectors, conducts due diligence, and supports portfolio companies with mentorship and networking.",
+  "linked_in": "https://linkedin.com/in/emilydavis",
+  "linked_in_maybes": "emilyd@maybe.vc",
+  "linked_in_followers": 560,
+  "org_id": "org-5555",
+  "interests": ["Venture Capital", "Startups", "Bioinformatics"]
+}

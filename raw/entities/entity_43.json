@@ -1,0 +1,36 @@
+{
+  "id": "b1ec30a7-2d58-4a5f-8c7c-0a5d2e8bf8a1",
+  "name": "John Doe",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photos/john.jpg",
+  "emails": ["john.doe@example.com"],
+  "is_me": false,
+  "location": "Chicago, IL",
+  "state": "IL",
+  "country_code": "US",
+  "phone_number": "+1-312-555-0199",
+  "research": [
+    {
+      "contact_date": "2023-11-12",
+      "notes": "Discussed Q4 marketing strategy"
+    },
+    {
+      "contact_date": "2024-01-20",
+      "notes": "Sent follow-up email with campaign results"
+    },
+    {
+      "contact_date": "2024-03-05",
+      "notes": "Scheduled product demo"
+    }
+  ],
+  "summary": "Mid-Level Marketing Manager with 5 years of experience in digital campaigns.",
+  "long_summary": "John has led cross-channel marketing initiatives at two Fortune 500 firms and one tech startup. He specializes in SEO, PPC, and content marketing strategies that drive lead generation. He recently managed a $1M ad budget and achieved a 25% increase in monthly qualified leads. John holds an MBA from Northwestern University. He is adept at data analysis, A/B testing, and marketing automation tools.",
+  "linked_in": "https://linkedin.com/in/johndoe-marketing",
+  "linked_in_maybes": "j.doe@example.com",
+  "linked_in_followers": 980,
+  "org_id": "eebdeac8-c8e9-4bb1-9cda-36f1ed6924a2",
+  "interests": ["Travel", "Photography", "Hiking"]
+}

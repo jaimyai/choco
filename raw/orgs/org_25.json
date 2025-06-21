@@ -1,0 +1,16 @@
+{
+  "id": "9f8e7d6c-5b4a-3c2d-1e0f-9a8b7c6d5e4f",
+  "name": "BrightMart Retail Team",
+  "photo": "https://example.com/logos/brightmart.png",
+  "description": "A dynamic team dedicated to enhancing the in-store customer experience through innovative merchandising and personalized service.",
+  "websites": ["https://brightmart.com/team"],
+  "industry": ["Retail", "Customer Service"],
+  "location": "Seattle, WA",
+  "type": "TEAM",
+  "created_at": 1705000000,
+  "org_id": "4d3c2b1a-0f9e-8d7c-6b5a-4c3d2e1f0a9b",
+  "social_media": {
+    "instagram": "@brightmart_team",
+    "facebook": "BrightMart Team"
+  }
+}

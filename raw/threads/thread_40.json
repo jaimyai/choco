@@ -1,0 +1,55 @@
+{
+  "id": "5e6f7a8b-9c0d-ef12-3456-7890abcdef12",
+  "thread_id": "thread-3344-5566-7788-99aa-bbccddeeff00",
+  "content": {
+    "emails": [
+      {
+        "from": "ceo@globalcorp.com",
+        "to": ["all@globalcorp.com"],
+        "subject": "All-Hands Meeting Announcement",
+        "body": "Dear Team, we are holding an all-hands meeting next Wednesday at 10am in the main auditorium. Please review the agenda attached.",
+        "date": "2024-05-01T08:00:00Z"
+      },
+      {
+        "from": "hr@globalcorp.com",
+        "to": ["all@globalcorp.com"],
+        "subject": "Re: All-Hands Meeting Announcement",
+        "body": "Looking forward to it. Will there be a virtual dial-in option?",
+        "date": "2024-05-02T09:15:00Z"
+      },
+      {
+        "from": "ceo@globalcorp.com",
+        "to": ["hr@globalcorp.com"],
+        "subject": "Re: All-Hands Meeting Announcement",
+        "body": "Yes, a Zoom link will be shared shortly.",
+        "date": "2024-05-02T12:30:00Z"
+      },
+      {
+        "from": "ceo@globalcorp.com",
+        "to": ["all@globalcorp.com"],
+        "subject": "Reminder: All-Hands Meeting",
+        "body": "This is a reminder for tomorrow's meeting. Please find the dial-in information here.",
+        "date": "2024-05-04T16:45:00Z"
+      }
+    ]
+  },
+  "summary": {},
+  "attachments": [
+    {
+      "filename": "agenda.docx",
+      "type": "docx",
+      "size_kb": 75
+    }
+  ],
+  "subject": "All-Hands Meeting Announcement",
+  "org_id": "org-5555-6666-7777-8888-999999999999",
+  "user_id": "user-5555-6666-7777-8888-000000000000",
+  "type": "THREAD",
+  "date": "2024-05-05T08:20:00Z",
+  "organization": {
+    "id": "org-5555-6666-7777-8888-999999999999",
+    "name": "GlobalCorp",
+    "type": "COMPANY",
+    "org_id": "org-5555-6666-7777-8888-999999999999"
+  }
+}

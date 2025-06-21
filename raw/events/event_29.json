@@ -1,0 +1,53 @@
+{
+  "id": "d4e5f6a7-b8c9-d0e1-f2a3-b4c5d6e7f8g9",
+  "eid": "evt-004",
+  "user_id": "44444444-5555-6666-7777-888888888888",
+  "org_id": "org-22334455-6677-8899-aabb-ccddeeff0011",
+  "title": "Product Manager Interview",
+  "duration": 3600,
+  "start_time": "2024-05-04T14:00:00Z",
+  "end_time": "2024-05-04T15:00:00Z",
+  "is_owner": false,
+  "recording_mode": "manual",
+  "connectedEntityIds": [
+    {
+      "id": "int-001",
+      "name": "Hiring Manager",
+      "role": "Interviewer"
+    },
+    {
+      "id": "cand-123",
+      "name": "Jane Doe",
+      "role": "Candidate"
+    }
+  ],
+  "link": "https://zoom.us/j/987654321",
+  "participants": [
+    {
+      "id": "int-001",
+      "role": "Interviewer"
+    },
+    {
+      "id": "cand-123",
+      "role": "Candidate"
+    }
+  ],
+  "transcript_format": "vtt",
+  "content": {
+    "transcript": "Interviewer: Tell me about a time you led a cross-functional team. Candidate: In my last role, I coordinated between engineering, design, and marketing to launch a new feature. Interviewer: How did you handle conflicting priorities? Candidate: I set up regular alignment meetings and used data to drive decisions. Interviewer: What metrics did you track? Candidate: We monitored adoption rates, user feedback, and engagement metrics."
+  },
+  "type": "EVENT",
+  "summary": {
+    "action_items": [
+      "Provide candidate feedback to HR",
+      "Schedule technical writing test"
+    ],
+    "attendees": ["Hiring Manager", "Jane Doe"]
+  },
+  "organization": {
+    "id": "org-22334455-6677-8899-aabb-ccddeeff0011",
+    "name": "InnoVentures",
+    "type": "COMPANY",
+    "org_id": "org-22334455-6677-8899-aabb-ccddeeff0011"
+  }
+}

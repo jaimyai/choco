@@ -1,0 +1,19 @@
+{
+  "id": "a3bb189e-8bf9-3888-9912-ace4e6543002",
+  "name": "MedCore Health Systems",
+  "photo": "https://example.com/logos/medcore.png",
+  "description": "MedCore Health Systems is a global leader in healthcare and medical technology solutions. With over 25 years of experience, we design and manufacture high-quality diagnostic equipment for hospitals and clinics worldwide. Our integrated health software platforms streamline patient care and improve outcomes. We partner with research institutions to advance medical innovation and implement telemedicine solutions that connect patients with specialists remotely. Our extensive global network ensures timely support and training. We are committed to sustainability and operate under strict ethical standards. Continuous improvement and patient-centric care are at the core of our operations.",
+  "websites": ["https://medcorehealth.com", "https://care.medcorehealth.com"],
+  "industry": {
+    "primary": "Healthcare",
+    "secondary": "Medical Devices"
+  },
+  "location": "Boston, MA",
+  "type": "COMPANY",
+  "created_at": 1701500000,
+  "org_id": "c8c4a7f2-39fb-4c16-9f0e-d3d8bfae2cb3",
+  "social_media": {
+    "twitter": "@MedCoreHealth",
+    "linkedin": "company/medcore-health"
+  }
+}

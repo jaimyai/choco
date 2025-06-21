@@ -1,0 +1,38 @@
+{
+  "id": "c3f4g5h6-7890-12cd-ef01-34567890abcd",
+  "name": "Robert Johnson",
+  "last_updated": "1704190000",
+  "last_communication": "1704193600",
+  "created_at": "1704050000",
+  "importing": false,
+  "photo": "https://example.com/photos/robert_johnson.jpg",
+  "emails": ["robert.johnson@enterpriseinc.com"],
+  "is_me": false,
+  "location": "Seattle, WA",
+  "state": "WA",
+  "country_code": "US",
+  "phone_number": "+1-206-555-0789",
+  "research": [
+    {
+      "date": "2023-12-01",
+      "contacted": true,
+      "notes": "Initial email sent."
+    },
+    {
+      "date": "2023-12-15",
+      "contacted": false,
+      "notes": "Follow-up due"
+    }
+  ],
+  "summary": "Chief Technology Officer",
+  "long_summary": "Robert is a seasoned executive with over 20 years leading tech teams in Fortune 500 companies. He specializes in digital transformation, cloud migration, and building scalable architectures for global operations.",
+  "linked_in": "https://linkedin.com/in/robertjohnson",
+  "linked_in_maybes": "rjohnson@icloud.com",
+  "linked_in_followers": 2300,
+  "org_id": "org-34567890-12cd-ef01-3456-7890abcdef",
+  "social_media": {
+    "twitter": "@PTExecutive",
+    "github": "robertJT"
+  },
+  "interests": ["AI", "Blockchain", "Open Source"]
+}

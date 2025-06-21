@@ -1,0 +1,34 @@
+{
+  "id": "f7e8d9c0-b1a2-3e4f-5a6b-7c8d9e0f1a2b",
+  "name": "Global Scholars",
+  "photo": "https://media.globalscholars.org/logo.png",
+  "description": {
+    "values": "Excellence, inclusivity, and global citizenship.",
+    "mission": "To provide accessible, high-quality education to learners around the world.",
+    "history": "Since its establishment in 2005, Global Scholars has partnered with universities and governments to launch online degree programs and professional development courses."
+  },
+  "websites": [
+    "https://globalscholars.org",
+    "https://learning.globalscholars.org"
+  ],
+  "industry": "Education",
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "address": "456 University Ave"
+  },
+  "type": "INSTITUTION",
+  "created_at": 1672444800,
+  "org_id": "11223344-5566-7788-99aa-bbccddeeff00",
+  "contact_info": {
+    "email": "info@globalscholars.org",
+    "phone": "+1-617-555-7890"
+  },
+  "social_media": {
+    "twitter": "@globalscholars",
+    "linkedin": "linkedin.com/company/global-scholars"
+  },
+  "size": "500-1000 students",
+  "founded": 2005
+}

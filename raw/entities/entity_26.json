@@ -1,0 +1,26 @@
+{
+  "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "name": "John Doe",
+  "last_updated": "1704050000",
+  "last_communication": "1704051000",
+  "created_at": "1704049000",
+  "importing": false,
+  "photo": "https://example.com/photos/john_doe.jpg",
+  "emails": ["john.doe@startup.io"],
+  "is_me": false,
+  "location": "San Francisco, California",
+  "state": "California",
+  "country_code": "US",
+  "phone_number": "+1-415-555-0123",
+  "research": "Met at TechCrunch Disrupt, interested in AI startups.",
+  "summary": "Founder & CEO at Startup.io, building AI-powered analytics platforms.",
+  "long_summary": "John Doe is the co-founder and CEO of Startup.io, where he has led the company from ideation to a Series A funded startup. He has a background in data science and previously worked at Tech giants developing scalable machine learning systems. Under his leadership, Startup.io has grown to over 50 employees and secured partnerships with Fortune 500 companies.",
+  "linked_in": "https://linkedin.com/in/johndoe",
+  "linked_in_maybes": "johndoe@gmail.com",
+  "linked_in_followers": 2300,
+  "org_id": "a1f0e2d3-58aa-4372-a567-6e02b2c3d119",
+  "social_media": {
+    "twitter": "https://twitter.com/johndoe",
+    "github": "https://github.com/johndoe"
+  }
+}

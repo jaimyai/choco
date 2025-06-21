@@ -1,0 +1,46 @@
+{
+  "id": "a12f3e4c-5678-4ebc-9012-abcdef123456",
+  "name": "Nebula AI Labs",
+  "photo": "https://example.com/logos/nebula.png",
+  "description": {
+    "overview": "Nebula AI Labs develops decentralized AI solutions for edge devices.",
+    "mission": "To democratize AI by optimizing performance and privacy.",
+    "values": ["Innovation", "Transparency", "User Empowerment"],
+    "history": "Founded in 2018 by researchers from UC Berkeley, Nebula AI Labs has released two open-source frameworks."
+  },
+  "websites": [
+    {
+      "url": "https://nebula.ai",
+      "type": "primary",
+      "primary": true
+    },
+    {
+      "url": "https://docs.nebula.ai",
+      "type": "documentation",
+      "primary": false
+    }
+  ],
+  "industry": {
+    "primary": "Technology",
+    "secondary": "Artificial Intelligence"
+  },
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "address": "450 Market St, Suite 120"
+  },
+  "type": "COMPANY",
+  "size": "51-200",
+  "founded": 2018,
+  "funding": {
+    "seed": 2500000,
+    "series_a": 10000000
+  },
+  "social_media": {
+    "twitter": "@nebula_ai",
+    "linkedin": "linkedin.com/company/nebula-ai"
+  },
+  "created_at": 1701987200,
+  "org_id": "org-9012abcd-3456-7890-efab-cdef12345678"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "3d5e6f7a-8b9c-4d0e-1f2a-5b6c7d8e9f01",
+  "thread_id": "thread-2222-3333-4444-5555",
+  "content": {
+    "emails": [
+      {
+        "from": "pm@tech-solutions.com",
+        "to": ["team@tech-solutions.com"],
+        "subject": "Project Phoenix Update",
+        "body": "Team,\nHere's the weekly update on Project Phoenix. We've completed the UI module and started backend integration. See attached docs for details.",
+        "date": "2024-07-10T14:00:00Z"
+      },
+      {
+        "from": "lead@tech-solutions.com",
+        "to": ["pm@tech-solutions.com"],
+        "subject": "Re: Project Phoenix Update",
+        "body": "Thanks for the update. Please prioritize API authentication this week and prepare a demo for Friday.",
+        "date": "2024-07-10T16:45:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": ["UI module completed", "Backend integration started"],
+    "action_items": [
+      "Prioritize API authentication",
+      "Schedule demo on Friday"
+    ],
+    "sentiment": "positive"
+  },
+  "attachments": [
+    {
+      "filename": "UI_Specs.docx",
+      "size_kb": 120
+    },
+    {
+      "filename": "IntegrationPlan.xlsx",
+      "size_kb": 340
+    }
+  ],
+  "subject": "Project Phoenix Update",
+  "org_id": "org-5555-6666-7777-8888",
+  "user_id": "user-eeee-ffff-0000-1111",
+  "type": "THREAD",
+  "date": "2024-07-10T14:00:00Z",
+  "organization": {
+    "id": "org-5555-6666-7777-8888",
+    "name": "Tech Solutions Ltd",
+    "type": "COMPANY",
+    "org_id": "org-5555-6666-7777-8888",
+    "description": "A software development firm specializing in cloud solutions.",
+    "industry": "Software",
+    "location": "San Francisco, CA"
+  }
+}

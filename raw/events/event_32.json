@@ -1,0 +1,51 @@
+{
+  "id": "c1a2b3d4-e5f6-7a8b-9c0d-e1f2a3b4c5d6",
+  "eid": "evt-2002",
+  "user_id": "a1b2c3d4-e5f6-7a8b-9c0d-e1f2a3b4c5d6",
+  "org_id": "o9h8g7f6-e5d4-c3b2-a1f0-9e8d7c6b5a4f",
+  "title": "Client Kickoff Call",
+  "duration": 2700,
+  "start_time": "2024-02-15T14:00:00Z",
+  "end_time": "2024-02-15T14:45:00Z",
+  "is_owner": false,
+  "recording_mode": "auto",
+  "connectedEntityIds": [
+    {
+      "id": "lead-001",
+      "name": "Alice Johnson",
+      "role": "Project Lead"
+    },
+    {
+      "id": "acct-002",
+      "name": "Global Corp",
+      "role": "Client"
+    }
+  ],
+  "link": "https://meet.google.com/def-hijm-nop",
+  "content": {
+    "transcript": "Welcome everyone to the project kickoff. We reviewed the objectives, timelines, and deliverables for the next quarter. Each stakeholder introduced themselves and outlined their responsibilities. We discussed potential risks and mitigation strategies. The team agreed on weekly progress updates and a shared documentation space.",
+    "notes": "Main objectives defined, risk register template shared.",
+    "participants": ["Alice Johnson", "Bob Smith", "Carol Lee"]
+  },
+  "type": "EVENT",
+  "summary": {
+    "key_points": ["Define project scope", "Assign initial tasks"],
+    "decisions": ["Use Agile methodology"],
+    "action_items": [
+      "Alice to set up next meeting",
+      "Bob to draft requirements doc"
+    ],
+    "attendees": ["Alice Johnson", "Bob Smith", "Carol Lee"]
+  },
+  "recording_url": "https://recordings.example.com/12345",
+  "transcript_format": "text",
+  "organization": {
+    "id": "o9h8g7f6-e5d4-c3b2-a1f0-9e8d7c6b5a4f",
+    "name": "Global Solutions Inc",
+    "type": "COMPANY",
+    "description": "Enterprise software consulting",
+    "industry": "Consulting",
+    "location": "New York, NY",
+    "org_id": "o9h8g7f6-e5d4-c3b2-a1f0-9e8d7c6b5a4f"
+  }
+}

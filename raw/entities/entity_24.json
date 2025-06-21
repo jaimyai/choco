@@ -1,0 +1,45 @@
+{
+  "id": "d4g56kl7-8m9n-0o1p-2q3r-4s5t6u7v8w9x",
+  "name": "Michael Thompson",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photo4.jpg",
+  "emails": [
+    {
+      "email": "michael@enterpriseltd.com",
+      "type": "work",
+      "verified": true
+    }
+  ],
+  "is_me": false,
+  "location": "New York, NY",
+  "state": "NY",
+  "country_code": "US",
+  "phone_number": "+1-555-1011",
+  "research": {
+    "notes": "Quarterly check-in scheduled; discussed potential partnership.",
+    "sources": ["Email", "Zoom", "CRM Notes"],
+    "last_researched": "1704000000"
+  },
+  "summary": {
+    "title": "Chief Operations Officer",
+    "company": "Enterprise Ltd",
+    "industry": "Logistics",
+    "experience": 20
+  },
+  "long_summary": "Michael has over 20 years of experience in supply chain and operations management. He oversees global logistics for a Fortune 500 company, implementing Lean Six Sigma practices that reduced costs by 15%. Michael holds certifications in PMP and Supply Chain Professional. He is a frequent speaker at industry conferences and advises startups on scaling operations.",
+  "linked_in": "https://linkedin.com/in/mthompsonops",
+  "linked_in_followers": 5400,
+  "social_media": {
+    "twitter": "https://twitter.com/mthompsonops"
+  },
+  "skills": [
+    "Operations Management",
+    "Process Improvement",
+    "Lean Six Sigma",
+    "Strategic Planning"
+  ],
+  "org_id": "f5g6h7i8-9j0k-1l2m-3n4o-5p6q7r8s9t0u"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "f23b8e7d-6c4a-4c2b-b8a9-4f7be6c3d1a5",
+  "eid": "evt-1003",
+  "user_id": "user-abc12345-def6-7890-gh12-ijk345lmn678",
+  "org_id": "org-2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+  "title": "Software Engineer Interview",
+  "duration": 2700,
+  "start_time": "2024-03-01T10:30:00Z",
+  "end_time": "2024-03-01T11:15:00Z",
+  "is_owner": true,
+  "recording_mode": "auto",
+  "connectedEntityIds": ["cand-123", "hr-456"],
+  "link": "https://meet.google.com/interview-1234",
+  "content": [
+    {
+      "speaker": "Interviewer",
+      "text": "Good morning, thanks for joining us.",
+      "timestamp": "2024-03-01T10:30:10Z"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "Good morning, happy to be here.",
+      "timestamp": "2024-03-01T10:30:25Z"
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "Tell me about your experience with Python.",
+      "timestamp": "2024-03-01T10:31:00Z"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "I have five years of experience developing backend services in Python, primarily with Django and Flask frameworks.",
+      "timestamp": "2024-03-01T10:31:45Z"
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "How do you handle tight deadlines?",
+      "timestamp": "2024-03-01T10:33:10Z"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "I prioritize tasks based on impact and feasibility, and communicate proactively with stakeholders if timelines need adjustment.",
+      "timestamp": "2024-03-01T10:33:50Z"
+    }
+  ],
+  "type": "EVENT",
+  "summary": {
+    "key_points": [
+      "Python backend development",
+      "Experience with Django and Flask",
+      "Proactive communication"
+    ],
+    "decisions": ["Proceed to coding challenge"],
+    "action_items": ["Send coding test link", "Schedule technical panel"],
+    "attendees": ["Interviewer", "Candidate"]
+  },
+  "organization": {
+    "id": "org-2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+    "name": "DevSolutions Inc.",
+    "type": "COMPANY",
+    "org_id": "org-2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q"
+  },
+  "transcript_format": "speakered"
+}

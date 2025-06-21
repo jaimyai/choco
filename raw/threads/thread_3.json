@@ -1,0 +1,60 @@
+{
+  "id": "abcd1234-ef56-7890-abcd-1234567890ef",
+  "thread_id": "thread-3333-4444-5555-6666",
+  "content": {
+    "thread_id": "thread-3333-4444-5555-6666",
+    "participants": [
+      "coordinator@enterprise-inc.com",
+      "teamlead@enterprise-inc.com",
+      "hr@enterprise-inc.com",
+      "ceo@enterprise-inc.com"
+    ],
+    "emails": [
+      {
+        "from": "coordinator@enterprise-inc.com",
+        "to": ["teamlead@enterprise-inc.com"],
+        "cc": ["hr@enterprise-inc.com"],
+        "subject": "Scheduling Q3 Kickoff Meeting",
+        "body": "Can we schedule the Q3 kickoff meeting for next Tuesday at 10am? Please confirm your availability.",
+        "date": "2024-07-20T08:00:00Z"
+      },
+      {
+        "from": "teamlead@enterprise-inc.com",
+        "to": ["coordinator@enterprise-inc.com"],
+        "bcc": ["ceo@enterprise-inc.com"],
+        "subject": "Re: Scheduling Q3 Kickoff Meeting",
+        "body": "Next Tuesday works for me. I've blocked the time.",
+        "date": "2024-07-20T09:15:00Z"
+      },
+      {
+        "from": "coordinator@enterprise-inc.com",
+        "to": ["team@enterprise-inc.com"],
+        "subject": "Fwd: Scheduling Q3 Kickoff Meeting",
+        "body": "Meeting scheduled for July 23, 10am in Conference Room A.\nAgenda to follow.",
+        "date": "2024-07-20T09:30:00Z"
+      },
+      {
+        "from": "hr@enterprise-inc.com",
+        "to": ["coordinator@enterprise-inc.com"],
+        "subject": "Re: Fwd: Scheduling Q3 Kickoff Meeting",
+        "body": "Please include remote dial-in details.",
+        "date": "2024-07-20T10:00:00Z"
+      }
+    ]
+  },
+  "summary": {},
+  "attachments": [],
+  "subject": "Scheduling Q3 Kickoff Meeting",
+  "org_id": "org-9999-8888-7777-6666",
+  "user_id": "user-2222-3333-4444-5555",
+  "type": "THREAD",
+  "date": "2024-07-20T08:00:00Z",
+  "organization": {
+    "id": "org-9999-8888-7777-6666",
+    "name": "Enterprise Inc",
+    "type": "COMPANY",
+    "org_id": "org-9999-8888-7777-6666",
+    "website": "https://enterprise-inc.com",
+    "employees": 1200
+  }
+}

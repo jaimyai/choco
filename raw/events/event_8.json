@@ -1,0 +1,50 @@
+{
+  "id": "c3d4e5f6-a7b8-49c0-1234-cdef34567890",
+  "eid": "evt-003",
+  "user_id": "u3-45-6789-01bc-def234567890",
+  "org_id": "org-9999-0000-aaaa-bbbb",
+  "title": "Technical Presentation: Microservices Architecture",
+  "duration": 5400,
+  "start_time": "2024-04-10T10:30:00Z",
+  "end_time": "2024-04-10T12:00:00Z",
+  "is_owner": true,
+  "recording_mode": "manual",
+  "connectedEntityIds": ["arch-001", "tech-456", "repo-789"],
+  "link": "https://meet.google.com/pqr-stuv-wxy",
+  "content": [
+    {
+      "timestamp": "00:01",
+      "speaker": "Presenter",
+      "text": "Welcome to the microservices architecture talk."
+    },
+    {
+      "timestamp": "00:45",
+      "speaker": "Presenter",
+      "text": "We will cover benefits and challenges of distributed systems."
+    },
+    {
+      "timestamp": "15:20",
+      "speaker": "Audience",
+      "text": "How do we handle service discovery?"
+    },
+    {
+      "timestamp": "30:00",
+      "speaker": "Presenter",
+      "text": "We use a registry like Eureka or Consul."
+    },
+    {
+      "timestamp": "45:10",
+      "speaker": "Presenter",
+      "text": "Let's dive into circuit breaker patterns."
+    }
+  ],
+  "type": "EVENT",
+  "summary": "Covered key microservices patterns including service discovery, load balancing, and resilience strategies.",
+  "organization": {
+    "id": "org-9999-0000-aaaa-bbbb",
+    "name": "NextGen Tech",
+    "type": "STARTUP",
+    "org_id": "org-9999-0000-aaaa-bbbb",
+    "industry": "Information Technology"
+  }
+}

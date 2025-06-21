@@ -1,0 +1,10 @@
+{
+  "data": [
+    "The note \"API Endpoint Design Spec\" outlines the design of new REST API endpoints for authentication, user data management, and error handling.",
+    "The note \"API Endpoint Design Spec\" specifies the use of OAuth2 bearer tokens for authentication.",
+    "The note \"API Endpoint Design Spec\" documents authentication endpoints including /auth/login and /auth/refresh.",
+    "The note \"API Endpoint Design Spec\" defines user data endpoints including GET /users/{id} and POST /users to create new users.",
+    "The note \"API Endpoint Design Spec\" standardizes error handling by using standard error codes and JSON responses with error messages.",
+    "The note \"API Endpoint Design Spec\" provides a design outline to guide the technical implementation of the company's new REST API."
+  ]
+}

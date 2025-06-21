@@ -1,0 +1,42 @@
+{
+  "id": "abc12345-67de-89f0-12ab-34567890cdef",
+  "name": "Alice Lee",
+  "last_updated": "1704400000",
+  "last_communication": "1704400500",
+  "created_at": "1704390000",
+  "importing": false,
+  "photo": "https://example.com/photos/alice_lee.jpg",
+  "emails": ["alice.lee@consulting.co"],
+  "is_me": false,
+  "location": "Los Angeles, California",
+  "state": "California",
+  "country_code": "US",
+  "phone_number": "+1-310-555-0184",
+  "research": [
+    {
+      "project": "Onboarding",
+      "notes": "Initial call scheduled",
+      "date": "1704385000"
+    },
+    {
+      "project": "Follow-up",
+      "notes": "Sent introduction deck",
+      "date": "1704392000"
+    }
+  ],
+  "summary": {
+    "title": "Business Analyst",
+    "company": "Consulting Co",
+    "industry": "Management Consulting",
+    "experience": "2 years"
+  },
+  "long_summary": "Alice Lee is an early-career business analyst at Consulting Co, where she assists with data analysis, market research, and report generation. She recently graduated with a degree in economics and is proficient in SQL and Tableau. Alice is seeking to deepen her expertise in strategic consulting and client engagement.",
+  "linked_in": "https://linkedin.com/in/alicelee",
+  "linked_in_maybes": "alice.lee@hotmail.com",
+  "linked_in_followers": 120,
+  "org_id": "fedcba09-8765-4321-0fed-cba987654321",
+  "social_media": {
+    "linkedin": "https://linkedin.com/in/alicelee",
+    "twitter": "https://twitter.com/alicelee_consult"
+  }
+}

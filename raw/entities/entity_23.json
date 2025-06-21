@@ -1,0 +1,32 @@
+{
+  "id": "c3f45ij6-7k8l-9m0n-1o2p-3q4r5s6t7u8v",
+  "name": "Emily Davis",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photo3.jpg",
+  "emails": ["emily.d@consultco.com", "edavis.consult@gmail.com"],
+  "is_me": false,
+  "location": "Chicago, IL",
+  "state": "IL",
+  "country_code": "US",
+  "phone_number": "+1-555-0789",
+  "research": [
+    {
+      "date": "1703900000",
+      "summary": "Spoke on digital transformation."
+    },
+    {
+      "date": "1703820000",
+      "summary": "Shared insights on cloud migration."
+    }
+  ],
+  "summary": "Emily is a mid-level business consultant with a focus on digital transformation and operations optimization. She has led engagements in manufacturing, finance, and retail sectors. Known for her data-driven approach and cross-functional team collaboration.",
+  "interests": ["Cycling", "Photography", "AI Ethics"],
+  "education": [
+    "MBA, Wharton School",
+    "B.A. Economics, University of Michigan"
+  ],
+  "org_id": "d4e5f6g7-8h9i-0j1k-2l3m-4n5o6p7q8r9s"
+}

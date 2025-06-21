@@ -1,0 +1,40 @@
+{
+  "id": "f57b8d9e-2c1a-4e37-bb54-9c8af4c6d3b2",
+  "eid": "evt-004",
+  "user_id": "e34f5a67-8901-4bcd-9e01-2345678f4abc",
+  "org_id": "org-4567-890a-bcde-f123",
+  "title": "Senior Developer Interview",
+  "duration": 5400,
+  "start_time": "2024-05-20T11:00:00Z",
+  "end_time": "2024-05-20T12:30:00Z",
+  "is_owner": false,
+  "recording_mode": "auto",
+  "connectedEntityIds": [
+    {
+      "id": "cand-123",
+      "name": "Alice Johnson",
+      "role": "Candidate"
+    },
+    {
+      "id": "intv-456",
+      "name": "Bob Lee",
+      "role": "Interviewer"
+    }
+  ],
+  "link": "https://meet.google.com/ijk-lmno-pqr",
+  "content": "Interviewer: Can you walk us through your experience with Java concurrency? Candidate: I have used ExecutorService and CompletableFuture extensively, along with various synchronization mechanisms when needed. Interviewer: How do you approach debugging race conditions? Candidate: I rely on thread dumps and logging to isolate threads, and often use testing frameworks like JUnit to reproduce concurrency issues. Interviewer: Describe your design pattern preferences. Candidate: I frequently utilize the Producer-Consumer and Singleton patterns for resource management. Interviewer: Thank you for your insights.",
+  "type": "EVENT",
+  "participants": ["Alice Johnson", "Bob Lee"],
+  "summary": {
+    "decisions": ["Proceed to technical task assignment"],
+    "action_items": ["Send coding challenge by 2024-05-22"],
+    "interviewers": ["Bob Lee"],
+    "candidate": "Alice Johnson"
+  },
+  "organization": {
+    "id": "org-4567-890a-bcde-f123",
+    "name": "NextGen Software",
+    "type": "COMPANY",
+    "org_id": "org-4567-890a-bcde-f123"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "d4e5f6a7-b8c9-40d1-2345-def456789012",
+  "eid": "evt-004",
+  "user_id": "u4-56-7890-12cd-ef3456789012",
+  "org_id": "org-2222-3333-4444-5555",
+  "title": "UX Design Workshop",
+  "duration": 7200,
+  "start_time": "2024-05-15T13:00:00Z",
+  "end_time": "2024-05-15T15:00:00Z",
+  "is_owner": false,
+  "recording_mode": "auto",
+  "connectedEntityIds": [
+    {
+      "id": "ux-101",
+      "name": "Wireframes",
+      "role": "tool"
+    },
+    {
+      "id": "ux-202",
+      "name": "Prototype",
+      "role": "tool"
+    }
+  ],
+  "link": "https://meet.google.com/ghi-jklm-nop",
+  "content": "In this workshop, we explored user personas, created journey maps, and sketched low-fidelity wireframes. Participants provided feedback on interface flows and prioritized features based on user impact. We used breakout rooms for brainstorming and reconvened to share findings. The session ended with an evaluation of each design sketch and action items for iteration.",
+  "type": "EVENT",
+  "agenda": [
+    "Introduction",
+    "Persona Mapping",
+    "Wireframing",
+    "Feedback Session",
+    "Next Steps"
+  ],
+  "participants": ["Emily Clark", "Michael Brown", "Sara Lopez", "Raj Patel"],
+  "transcript_format": "plain_text",
+  "summary": {
+    "key_points": [
+      "Defined three user personas",
+      "Created initial wireframes",
+      "Gathered peer feedback"
+    ],
+    "action_items": [
+      "Emily to refine persona documents",
+      "Michael to update wireframes",
+      "Sara to prepare usability test plan"
+    ]
+  },
+  "organization": {
+    "id": "org-2222-3333-4444-5555",
+    "name": "Creative Minds Co.",
+    "type": "COMPANY",
+    "org_id": "org-2222-3333-4444-5555",
+    "description": "Design consultancy specializing in UX/UI",
+    "industry": "Design",
+    "location": "San Francisco, CA"
+  }
+}

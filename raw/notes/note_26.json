@@ -1,0 +1,16 @@
+{
+  "id": "0a1b2c3d-4e5f-6789-0abc-def123456789",
+  "org_id": "123e4567-e89b-12d3-a456-426614174000",
+  "user_id": "user-1111-2222-3333-444455556666",
+  "title": "Pay Electricity Bill",
+  "content": "Remember to pay the electricity bill before the 15th to avoid late fees.",
+  "timestamp": "2024-06-10T09:15:00Z",
+  "summary": "Quick reminder to handle monthly utilities.",
+  "type": "NOTE",
+  "organization": {
+    "id": "123e4567-e89b-12d3-a456-426614174000",
+    "name": "Solaris Energy",
+    "type": "COMPANY",
+    "org_id": "123e4567-e89b-12d3-a456-426614174000"
+  }
+}

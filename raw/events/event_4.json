@@ -1,0 +1,46 @@
+{
+  "id": "d4e5f6a7-b8c9-0123-def0-456789012345",
+  "eid": "evt-004",
+  "user_id": "44444444-5555-6666-7777-888888888888",
+  "org_id": "dddddddd-eeee-ffff-0000-111111111111",
+  "title": "Client Sync Call",
+  "duration": 5400,
+  "start_time": "2024-02-20T11:30:00Z",
+  "end_time": "2024-02-20T13:00:00Z",
+  "is_owner": false,
+  "recording_mode": "manual",
+  "connectedEntityIds": [
+    {
+      "id": "client-xyz",
+      "name": "XYZ Corp",
+      "role": "client"
+    },
+    {
+      "id": "sales",
+      "name": "Sales Team",
+      "role": "internal"
+    }
+  ],
+  "link": "https://meet.google.com/ddd-eeee-ffff",
+  "content": {
+    "transcript": "The sales lead introduced the new product features. The client asked about pricing tiers and volume discounts. The team provided an overview of support options. Questions on implementation timeline were addressed, with an estimated go-live in Q3. The client agreed to review the proposal by next week.",
+    "notes": "New features discussed; Pricing and discounts clarified; Implementation timeline set.",
+    "participants": ["Frank", "Gina", "Hank"]
+  },
+  "recording_url": "https://recordings.example.com/meeting123",
+  "type": "EVENT",
+  "summary": {
+    "decisions": ["Proceed with Q3 deployment", "Client to provide formal RFP"],
+    "action_items": [
+      "Gina to send revised proposal",
+      "Hank to prepare volume discount schedule"
+    ],
+    "attendees": ["Frank", "Gina", "Hank"]
+  },
+  "organization": {
+    "id": "dddddddd-eeee-ffff-0000-111111111111",
+    "name": "Global Ventures",
+    "type": "COMPANY",
+    "org_id": "dddddddd-eeee-ffff-0000-111111111111"
+  }
+}

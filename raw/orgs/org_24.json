@@ -1,0 +1,21 @@
+{
+  "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "name": "FinCon Summit 2024",
+  "photo": "https://example.com/logos/fincon2024.png",
+  "description": "FinCon Summit 2024 brings together finance professionals, fintech innovators, and investors for a three-day event featuring keynote speeches, panel discussions, and networking workshops. Attendees will explore the latest trends in digital banking, blockchain, and investment strategies. The summit also includes a startup pitch competition and an expo showcasing cutting-edge financial technologies.",
+  "websites": ["https://finconsummit.com", "https://tickets.finconsummit.com"],
+  "industry": "Finance",
+  "location": {
+    "address": "Convention Center, 456 Elm St",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA"
+  },
+  "type": "CONFERENCE",
+  "created_at": 1710000000,
+  "org_id": "a9876b54-321c-4d5e-9f8a-7b6c5d4e3a2f",
+  "contact_info": {
+    "email": "info@finconsummit.com",
+    "phone": "+1-312-555-0199"
+  }
+}

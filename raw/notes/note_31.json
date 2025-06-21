@@ -1,0 +1,35 @@
+{
+  "id": "3f29c7e4-56a1-4f9b-8c3d-1eae2f5bc123",
+  "org_id": "9b7d2a1f-3c4e-4b5a-9f8d-7c6b5a4e3d2c",
+  "user_id": "a1b2c3d4-e5f6-7a8b-9c0d-e1f2a3b4c5d6",
+  "title": "Q2 Product Sync Meeting",
+  "content": {
+    "text": "Discussed features for Q2 release, timeline adjustments, and resource allocation.",
+    "format": "rich-text",
+    "tags": ["meeting", "product", "Q2"]
+  },
+  "timestamp": "2024-06-01T09:00:00Z",
+  "summary": {
+    "key_points": [
+      "Finalize feature list by June 10",
+      "Allocate two additional engineers",
+      "Update roadmap document"
+    ],
+    "action_items": [
+      "Alice to draft requirements spec",
+      "Bob to update project plan"
+    ],
+    "follow_up": "Next sync on June 15"
+  },
+  "type": "NOTE",
+  "organization": {
+    "id": "9b7d2a1f-3c4e-4b5a-9f8d-7c6b5a4e3d2c",
+    "name": "Tech Innovators Inc.",
+    "type": "COMPANY",
+    "org_id": "9b7d2a1f-3c4e-4b5a-9f8d-7c6b5a4e3d2c",
+    "description": "Leading developer of AI-driven solutions.",
+    "industry": "Technology"
+  },
+  "tags": ["Q2", "sync", "product"],
+  "priority": "High"
+}

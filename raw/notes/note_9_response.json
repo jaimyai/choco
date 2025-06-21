@@ -1,0 +1,10 @@
+{
+  "data": [
+    "The note titled API Rate Limiting Spec documents an API rate limiting policy that enforces a limit of 100 requests per minute per user.",
+    "The note titled API Rate Limiting Spec specifies that the API should return an HTTP 429 status code when a user exceeds the rate limit.",
+    "The note titled API Rate Limiting Spec identifies the /v1/users and /v1/orders endpoints as subjects of the rate limiting policy.",
+    "The note titled API Rate Limiting Spec recommends implementing middleware to enforce rate limiting in the API.",
+    "The note titled API Rate Limiting Spec includes an action item to write unit tests to validate the rate limiting functionality.",
+    "The note titled API Rate Limiting Spec includes a follow-up action to conduct load testing on the staging environment."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+  "org_id": "c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f",
+  "user_id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+  "title": "New Marketing Campaign Strategy",
+  "content": "We launched the initial draft of the marketing campaign. Social media ads are live, and email outreach is scheduled for next week. The design team provided final creatives. Awaiting analytics to measure engagement.",
+  "timestamp": "2024-03-05T16:20:00Z",
+  "summary": {
+    "progress": "Social media phase started",
+    "next_steps": ["Monitor ad performance", "Finalize email template"],
+    "risks": "Low initial click-through rate possible."
+  },
+  "type": "NOTE",
+  "related_entities": ["john.doe@marketmakers.com", "Campaign #Q2LAUNCH"],
+  "category": "Marketing",
+  "organization": {
+    "id": "c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f",
+    "name": "MarketMakers",
+    "type": "COMPANY",
+    "org_id": "c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f",
+    "description": "Innovative marketing firm.",
+    "industry": "Advertising"
+  }
+}

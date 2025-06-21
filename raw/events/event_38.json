@@ -1,0 +1,81 @@
+{
+  "id": "f65b6f3b-4fc7-4f3a-bd9b-1bf4f3b2c6d7",
+  "eid": "evt-003",
+  "user_id": "a1b2c3d4-e5f6-4a7b-8c9d-e0f1a2b3c4d5",
+  "org_id": "a1a2a3a4-b5b6-4c7d-e8f9-0123456789ab",
+  "title": "Software Engineer Interview",
+  "duration": 5400,
+  "start_time": "2024-04-01T14:00:00Z",
+  "end_time": "2024-04-01T15:30:00Z",
+  "is_owner": true,
+  "recording_mode": "on_demand",
+  "connectedEntityIds": ["cand-001", "team-frontend"],
+  "link": "https://meet.google.com/jkl-mnop-qrs",
+  "content": [
+    {
+      "speaker": "Interviewer",
+      "text": "Welcome and thank you for joining today."
+    },
+    {
+      "speaker": "Candidate",
+      "text": "Thank you for having me."
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "Can you describe a challenging project you worked on?"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "I led the development of a high-traffic microservices system."
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "What technologies did you use?"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "Primarily Docker, Kubernetes, and AWS Lambda."
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "How did you ensure system reliability?"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "We implemented circuit breakers and extensive monitoring."
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "Can you discuss a time you solved a critical bug?"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "We traced a memory leak to a third-party library and issued a patch."
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "Great. Any questions for us?"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "What does success look like in this role?"
+    }
+  ],
+  "type": "EVENT",
+  "summary": {
+    "key_points": [
+      "Microservices project",
+      "Use of Docker and Kubernetes",
+      "Reliability strategies"
+    ],
+    "action_items": ["Schedule follow-up technical task"],
+    "attendees": ["Interviewer", "Candidate"]
+  },
+  "participants": ["Interviewer", "Candidate"],
+  "organization": {
+    "id": "a1a2a3a4-b5b6-4c7d-e8f9-0123456789ab",
+    "name": "NextGen Tech",
+    "type": "COMPANY",
+    "org_id": "a1a2a3a4-b5b6-4c7d-e8f9-0123456789ab"
+  }
+}

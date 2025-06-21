@@ -1,0 +1,42 @@
+{
+  "id": "1122aabb-3344-5566-7788-99aabbccdde0",
+  "org_id": "999e8888-7777-6666-5555-444333222111",
+  "user_id": "user-1010-2020-3030-4040405050",
+  "title": "Annual Tech Expo Preparations",
+  "content": [
+    {
+      "bullet": "Book venue by July 1st"
+    },
+    {
+      "bullet": "Finalize speaker list with bios"
+    },
+    {
+      "bullet": "Design and print marketing materials"
+    },
+    {
+      "bullet": "Set up online registration portal"
+    }
+  ],
+  "timestamp": "2024-06-08T08:00:00Z",
+  "summary": {
+    "key_points": [
+      "Venue shortlist ready",
+      "5 keynote speakers confirmed",
+      "Marketing designs drafted"
+    ],
+    "action_items": [
+      "Send venue quotes",
+      "Approve speaker contracts",
+      "Launch email campaign"
+    ],
+    "follow_up": "Review progress in weekly status call"
+  },
+  "type": "NOTE",
+  "organization": {
+    "id": "999e8888-7777-6666-5555-444333222111",
+    "name": "ExpoWorld Events",
+    "type": "COMPANY",
+    "org_id": "999e8888-7777-6666-5555-444333222111",
+    "description": "Event management and exhibition services"
+  }
+}

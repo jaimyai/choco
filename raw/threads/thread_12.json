@@ -1,0 +1,42 @@
+{
+  "id": "e834f676-1c2a-4f9e-bbb9-f9f175d146e7",
+  "thread_id": "thread-2h56789",
+  "content": {
+    "emails": [
+      {
+        "from": "john@example.com",
+        "to": ["team@example.com"],
+        "cc": ["manager@example.com"],
+        "subject": "Weekly Project Update",
+        "body": "Hello Team,\\nHere is the update on our project this week. We successfully completed module A and performed initial tests. Module B planning is underway and the outline is attached. Please review and share feedback.",
+        "date": "2024-03-01T16:45:00Z"
+      },
+      {
+        "from": "sarah@example.com",
+        "to": ["john@example.com"],
+        "subject": "Re: Weekly Project Update",
+        "body": "Thanks John,\\nGreat work on module A. I'll review the outline and get back with comments by end of the day.",
+        "date": "2024-03-01T17:10:00Z"
+      }
+    ],
+    "participants": ["john@example.com", "team@example.com"],
+    "cc": ["manager@example.com"]
+  },
+  "summary": {
+    "key_points": ["Completed module A", "Starting module B"],
+    "action_items": ["Draft module B spec", "Schedule review meeting"]
+  },
+  "attachments": ["moduleA-report.pdf", "moduleB-outline.docx"],
+  "subject": "Weekly Project Update",
+  "org_id": "org-uuid-2345",
+  "user_id": "user-uuid-3456",
+  "type": "THREAD",
+  "date": "2024-03-01T16:45:00Z",
+  "organization": {
+    "id": "org-uuid-2345",
+    "name": "Beta Solutions",
+    "type": "COMPANY",
+    "org_id": "org-uuid-2345",
+    "description": "Software development firm"
+  }
+}

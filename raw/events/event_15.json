@@ -1,0 +1,36 @@
+{
+  "id": "6e7f8d9c-0a1b-2c3d-4e5f-6g7h8i9j0k1l",
+  "eid": "evt-1005",
+  "user_id": "user-99aabbcc-ddeeff00-1122-3344-556677889900",
+  "org_id": "org-4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+  "title": "Product Brainstorm Workshop",
+  "duration": 7200,
+  "start_time": "2024-03-10T08:00:00Z",
+  "end_time": "2024-03-10T10:00:00Z",
+  "is_owner": true,
+  "recording_mode": "manual",
+  "connectedEntityIds": ["idea-101", "tool-202", "team-303"],
+  "link": "https://meet.google.com/workshop-4567",
+  "content": {
+    "notes": "The workshop began with icebreaker exercises to encourage creativity. Teams generated over 50 product feature ideas. Participants voted on top concepts and formed small groups to flesh out details. The final session summarized prototypes and gathered feedback for next steps.",
+    "participants": ["Dana White", "Evan Green", "Fiona Black", "George Kim"]
+  },
+  "type": "EVENT",
+  "summary": "Brainstormed new product features, voted on top concepts, and defined prototype plans.",
+  "organization": {
+    "id": "org-4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+    "name": "NextGen Products",
+    "type": "COMPANY",
+    "org_id": "org-4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+    "description": "Innovative consumer electronics startup",
+    "industry": "Electronics",
+    "location": "San Francisco, CA"
+  },
+  "agenda": [
+    "Icebreakers",
+    "Idea generation",
+    "Voting",
+    "Prototype brainstorming"
+  ],
+  "participants": ["Dana White", "Evan Green", "Fiona Black", "George Kim"]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+  "org_id": "b2c3d4e5-6f7a-8b9c-0d1e-f234567890ab",
+  "user_id": "22222222-3333-4444-5555-666666666666",
+  "title": "Project Alpha Kickoff",
+  "content": {
+    "text": "- Define project scope\n- Assign roles and responsibilities\n- Establish timeline and milestones",
+    "format": "markdown",
+    "tags": ["project", "kickoff", "alpha"]
+  },
+  "timestamp": "2024-03-01T14:00:00Z",
+  "summary": {
+    "key_points": ["Scope defined", "Roles assigned"],
+    "action_items": ["Send calendar invites", "Share project documentation"],
+    "follow_up": "Prepare budget proposal"
+  },
+  "type": "NOTE",
+  "organization": {
+    "id": "b2c3d4e5-6f7a-8b9c-0d1e-f234567890ab",
+    "name": "Alpha Solutions LLC",
+    "description": "A startup focused on AI-driven analytics",
+    "industry": "Technology",
+    "type": "COMPANY",
+    "org_id": "b2c3d4e5-6f7a-8b9c-0d1e-f234567890ab",
+    "location": "New York"
+  }
+}

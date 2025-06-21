@@ -1,0 +1,34 @@
+{
+  "id": "123e4567-e89b-12d3-a456-426614174000",
+  "eid": "evt-004",
+  "user_id": "555e4567-e89b-12d3-a456-426614174111",
+  "org_id": "123e4567-e89b-12d3-a456-426614174001",
+  "title": "Q1 Sales Presentation",
+  "duration": 7200,
+  "start_time": "2024-01-25T10:00:00Z",
+  "end_time": "2024-01-25T12:00:00Z",
+  "is_owner": false,
+  "recording_mode": "auto",
+  "connectedEntityIds": [
+    {
+      "id": "sales-team",
+      "name": "Sales Team",
+      "role": "Audience"
+    }
+  ],
+  "link": "https://meet.google.com/pqr-stuv-wxy",
+  "recording_url": "https://drive.google.com/presentation-recording",
+  "agenda": ["Introduction", "Performance Review", "Market Analysis", "Q&A"],
+  "content": "The presentation began with an overview of Q1 sales figures, highlighting a 15% increase in overall revenue. We then analyzed performance across key markets, noting exceptional growth in Europe. The team discussed competitive positioning and upcoming product launches. Finally, projected targets for Q2 were outlined with associated strategies.",
+  "type": "EVENT",
+  "summary": "Presented Q1 sales figures, highlighted key markets, projected Q2 targets. Attendees asked about pricing strategy.",
+  "organization": {
+    "id": "123e4567-e89b-12d3-a456-426614174001",
+    "name": "Global Sales Inc",
+    "type": "COMPANY",
+    "org_id": "123e4567-e89b-12d3-a456-426614174001",
+    "description": "Leading sales organization",
+    "industry": "Sales & Marketing",
+    "location": "San Francisco, USA"
+  }
+}

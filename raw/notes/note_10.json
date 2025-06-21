@@ -1,0 +1,22 @@
+{
+  "id": "d9a7c6b5-3f21-4e9d-b987-1c2d3e4f5a6b",
+  "org_id": "55555555-6666-7777-8888-999999999999",
+  "user_id": "523e4567-e89b-12d3-a456-426614174004",
+  "title": "Annual Charity Run Planning",
+  "content": [
+    "Decide route map by May",
+    "Reach out to local sponsors",
+    "Set up registration webpage"
+  ],
+  "timestamp": "2024-05-18T11:00:00Z",
+  "summary": "Plan route, sponsors, and registration for charity run.",
+  "type": "NOTE",
+  "tags": ["event", "charity", "planning"],
+  "event_date": "2024-09-10",
+  "organization": {
+    "id": "55555555-6666-7777-8888-999999999999",
+    "name": "HealthFirst Foundation",
+    "type": "COMPANY",
+    "org_id": "55555555-6666-7777-8888-999999999999"
+  }
+}

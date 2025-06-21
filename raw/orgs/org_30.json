@@ -1,0 +1,28 @@
+{
+  "id": "b9c8d7e6-a5f4-3b2c-1d0e-9f8a7b6c5d4e",
+  "name": "Open Source Robotics Collective",
+  "photo": "https://example.com/logos/osrc.png",
+  "description": "A collaborative group advancing open source hardware and software for robotics enthusiasts and professionals.",
+  "websites": [
+    {
+      "url": "https://osrc.io",
+      "type": "official",
+      "primary": true
+    },
+    {
+      "url": "https://github.com/osrc",
+      "type": "repository",
+      "primary": false
+    }
+  ],
+  "industry": ["Manufacturing", "Robotics"],
+  "location": "Berlin, Germany",
+  "type": "GROUP",
+  "created_at": 1688000000,
+  "org_id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+  "funding": {
+    "round": "Series A",
+    "amount": 2000000,
+    "currency": "USD"
+  }
+}

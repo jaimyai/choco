@@ -1,0 +1,60 @@
+{
+  "id": "a12f0e32-d4b5-451c-8bb4-7a5f6c170a91",
+  "eid": "evt-1002",
+  "user_id": "user-d3f4c9b0-2c8e-4d3f-9b8c-1ed2f3a4b5c6",
+  "org_id": "org-7f8e9d0c-1b2a-3c4d-5e6f-7a8b9c0d1e2f",
+  "title": "Client Integration Call",
+  "duration": 3600,
+  "start_time": "2024-02-20T14:00:00Z",
+  "end_time": "2024-02-20T15:00:00Z",
+  "is_owner": false,
+  "recording_mode": "auto",
+  "connectedEntityIds": [
+    {
+      "id": "client-001",
+      "name": "Globex Corp",
+      "role": "Client"
+    },
+    {
+      "id": "service-002",
+      "name": "Payment API",
+      "role": "Service"
+    }
+  ],
+  "link": "https://meet.google.com/xyz-uvw-rst",
+  "content": {
+    "transcript": "Hello everyone, thank you for joining the call. We reviewed the API integration timeline and discussed key milestones. The client expressed concerns about budget and resource allocation. We agreed to draft a revised proposal by Friday.",
+    "notes": "- Integration timeline set to 3 weeks\n- Budget review scheduled for next Tuesday\n- Follow-up call on Monday",
+    "participants": ["Alice Johnson", "Bob Smith", "Charlie Lee"]
+  },
+  "type": "EVENT",
+  "summary": {
+    "key_points": [
+      "API integration plan",
+      "Budget constraints",
+      "Resource allocation"
+    ],
+    "decisions": ["Extend timeline to 3 weeks", "Schedule budget review"],
+    "action_items": [
+      "Draft revised proposal by Friday",
+      "Prepare budget overview"
+    ],
+    "attendees": ["Alice Johnson", "Bob Smith", "Charlie Lee"]
+  },
+  "organization": {
+    "id": "org-7f8e9d0c-1b2a-3c4d-5e6f-7a8b9c0d1e2f",
+    "name": "Globex Corp",
+    "type": "COMPANY",
+    "org_id": "org-7f8e9d0c-1b2a-3c4d-5e6f-7a8b9c0d1e2f",
+    "description": "Multinational tech company",
+    "industry": "Technology"
+  },
+  "agenda": [
+    "Introduction",
+    "Timeline discussion",
+    "Budget review",
+    "Next steps"
+  ],
+  "recording_url": "https://storage.googleapis.com/meetings/evt-1002/recording.mp4",
+  "participants": ["Alice Johnson", "Bob Smith", "Charlie Lee"]
+}

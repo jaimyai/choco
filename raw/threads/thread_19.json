@@ -1,0 +1,37 @@
+{
+  "id": "d4e5f6g7-8901-23ab-cdef-456789012cde",
+  "thread_id": "thread-0004",
+  "content": {
+    "emails": [
+      {
+        "from": "events@eventify.com",
+        "to": ["team@eventify.com"],
+        "cc": ["hr@eventify.com"],
+        "bcc": ["legal@eventify.com"],
+        "subject": "Team Outing Planning",
+        "body": "Good morning team,\n\nWe’re planning a team outing next month and would like your input on activities. Options include a cooking class, an escape room, or a half-day hike. Please reply with your preference by end of this week.\n\nCheers,\nEventify Events Team",
+        "date": "2024-05-10T11:00:00Z"
+      },
+      {
+        "from": "team@eventify.com",
+        "to": ["events@eventify.com"],
+        "subject": "Re: Team Outing Planning",
+        "body": "Hi,\n\nI vote for the escape room — looks fun and will test our teamwork. Thanks for organizing!\n\nBest,\nThe Team",
+        "date": "2024-05-11T09:15:00Z"
+      }
+    ]
+  },
+  "summary": {},
+  "attachments": [],
+  "subject": "Team Outing Planning",
+  "org_id": "org-dddd-eeee-ffff-0000",
+  "user_id": "user-4444-5555-6666-7777",
+  "type": "THREAD",
+  "date": "2024-05-11T09:15:00Z",
+  "organization": {
+    "id": "org-dddd-eeee-ffff-0000",
+    "name": "Eventify",
+    "type": "COMPANY",
+    "org_id": "org-dddd-eeee-ffff-0000"
+  }
+}

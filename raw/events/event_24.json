@@ -1,0 +1,44 @@
+{
+  "id": "9d8c7b6a-5e4f-3210-9887-6a5b4c3d2e1f",
+  "eid": "evt-4004",
+  "user_id": "0a1b2c3d-4e5f-6789-0abc-def123456789",
+  "org_id": "1122aabb-ccdd-3344-eeff-556677889900",
+  "title": "Q2 Technical Presentation",
+  "duration": 5400,
+  "start_time": "2024-05-20T16:00:00Z",
+  "end_time": "2024-05-20T17:30:00Z",
+  "is_owner": false,
+  "recording_mode": "manual",
+  "connectedEntityIds": ["tech-900", "team-101"],
+  "link": "https://meet.google.com/mno-pqrs-tuv",
+  "content": {
+    "transcript": "Welcome to the Q2 technical presentation. Today we cover API enhancements and infrastructure upgrades. We will review performance benchmarks. The team will discuss migration plans. A live demo of the new feature was shown. Questions were answered at the end.",
+    "slidesReviewed": [
+      "API Architecture",
+      "Infrastructure Roadmap",
+      "Performance Metrics"
+    ],
+    "participants": ["Engineering Leads", "QA Team"]
+  },
+  "type": "EVENT",
+  "summary": {
+    "key_points": [
+      "API v2 released",
+      "Infrastructure upgrades scheduled",
+      "Performance improved by 30%"
+    ],
+    "decisions": ["Start migration in July", "Allocate budget for new servers"],
+    "action_items": ["Ops to prepare servers", "Dev to finalize tests"],
+    "attendees": ["Engineering Leads", "Project Managers"]
+  },
+  "recording_url": "https://recordings.service.com/9d8c7b6a",
+  "organization": {
+    "id": "1122aabb-ccdd-3344-eeff-556677889900",
+    "name": "Delta Innovations",
+    "type": "COMPANY",
+    "org_id": "1122aabb-ccdd-3344-eeff-556677889900",
+    "description": "Innovating next-gen software solutions",
+    "industry": "Software",
+    "location": "San Francisco, CA"
+  }
+}

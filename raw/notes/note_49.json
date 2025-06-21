@@ -1,0 +1,29 @@
+{
+  "id": "5d41402a-bb6a-4f41-8f3a-1c2d3e4b5a6c",
+  "org_id": "abcdef12-3456-7890-abcd-ef1234567890",
+  "user_id": "0abc1234-def5-6789-0abc-123def456789",
+  "title": "New Project: AI Chatbot Concept",
+  "content": [
+    {
+      "paragraph": "We are exploring an AI-driven chatbot to improve customer support."
+    },
+    {
+      "bullets": [
+        "Integrate with existing CRM",
+        "24/7 availability",
+        "Multi-language support"
+      ]
+    }
+  ],
+  "timestamp": "2024-05-10T11:20:00Z",
+  "summary": "Initial brainstorming for AI chatbot project focusing on integration and features.",
+  "type": "NOTE",
+  "related_entities": ["CRM System", "Support Team"],
+  "organization": {
+    "id": "abcdef12-3456-7890-abcd-ef1234567890",
+    "name": "NextGen Solutions",
+    "type": "COMPANY",
+    "org_id": "abcdef12-3456-7890-abcd-ef1234567890",
+    "description": "Innovative consulting firm"
+  }
+}

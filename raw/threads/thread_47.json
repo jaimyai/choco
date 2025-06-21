@@ -1,0 +1,52 @@
+{
+  "id": "1f2e3d4c-5b6a-7c8e-9d0f-1a2b3c4d5e6f",
+  "thread_id": "2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d",
+  "content": {
+    "emails": [
+      {
+        "from": "pm@globalsolutions.com",
+        "to": ["client@client.com"],
+        "subject": "Project kickoff meeting",
+        "body": "Hello,\\nI'd like to schedule our project kickoff meeting next week. Are you available on Tuesday or Wednesday?\\nBest,\\nJohn",
+        "date": "2024-06-09T10:00:00Z"
+      },
+      {
+        "from": "client@client.com",
+        "to": ["pm@globalsolutions.com"],
+        "subject": "Re: Project kickoff meeting",
+        "body": "Hi John,\\nTuesday works for me at 2 PM. Let's loop in our manager as well.\\nRegards,\\nSara",
+        "date": "2024-06-09T12:30:00Z"
+      }
+    ],
+    "cc": ["manager@example.com"],
+    "participants": ["pm@example.com", "client@example.com"]
+  },
+  "summary": {
+    "key_points": ["Discuss scope", "Agree timeline"],
+    "action_items": ["Set up follow-up", "Assign tasks"],
+    "sentiment": "positive"
+  },
+  "attachments": [
+    {
+      "filename": "agenda.pdf",
+      "size": 102400
+    },
+    {
+      "filename": "minutes.docx",
+      "size": 204800
+    }
+  ],
+  "subject": "Project kickoff meeting",
+  "org_id": "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
+  "user_id": "3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b",
+  "type": "THREAD",
+  "date": "2024-06-09T14:00:00Z",
+  "organization": {
+    "id": "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
+    "name": "Global Solutions",
+    "type": "PARTNER",
+    "org_id": "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
+    "website": "https://globalsolutions.example.com",
+    "location": "New York, USA"
+  }
+}

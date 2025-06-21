@@ -1,0 +1,35 @@
+{
+  "id": "b2c3d4e5-f6a7-8901-bc23-de45ef678901",
+  "org_id": "org-2222-3333-4444-5555abcd5678",
+  "user_id": "user-1111-2222-3333-444455556666",
+  "title": "Client Kickoff Meeting",
+  "content": {
+    "text": "Discussed project goals, timeline, and deliverables.",
+    "format": "rich_text",
+    "tags": ["client", "kickoff", "meeting"]
+  },
+  "timestamp": "2024-02-12T14:30:00Z",
+  "summary": {
+    "key_points": [
+      "Project scope defined",
+      "Budget approved",
+      "Timeline set for Q2"
+    ],
+    "action_items": [
+      "Send meeting minutes",
+      "Set up Jira board",
+      "Assign roles"
+    ],
+    "follow_up": "Schedule next progress review in two weeks"
+  },
+  "type": "NOTE",
+  "organization": {
+    "id": "org-2222-3333-4444-5555abcd5678",
+    "name": "Global Solutions Ltd.",
+    "type": "COMPANY",
+    "org_id": "org-2222-3333-4444-5555abcd5678",
+    "description": "Provides enterprise software solutions",
+    "industry": "Software"
+  },
+  "related_entities": ["project-1234", "client-5678"]
+}

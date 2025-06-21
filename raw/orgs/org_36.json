@@ -1,0 +1,36 @@
+{
+  "id": "3f1e5c2d-8a4f-45a9-9b3d-0b2a4c7d8e9f",
+  "name": "Novus AI Labs",
+  "photo": "https://example.com/logos/novus-ai.png",
+  "description": "Novus AI Labs develops cutting-edge artificial intelligence solutions for enterprises across various industries, focusing on natural language processing, computer vision, and predictive analytics.",
+  "websites": [
+    {
+      "url": "https://novusailabs.com",
+      "type": "official",
+      "primary": true
+    },
+    {
+      "url": "https://github.com/novus-ai",
+      "type": "github",
+      "primary": false
+    }
+  ],
+  "industry": {
+    "primary": "Technology",
+    "secondary": "Artificial Intelligence"
+  },
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA"
+  },
+  "type": "COMPANY",
+  "created_at": 1685000000,
+  "org_id": "4e2d1c3b-9a8f-7b6c-5d4e-3f2a1b0c9d8e",
+  "founded": 2018,
+  "size": "50-200 employees",
+  "funding": {
+    "seed": 500000,
+    "series_a": 3000000
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "c4f76b9e-1faa-4bcb-9a70-5579b6d7d679",
+  "name": "Dr. Helena Patel",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photos/helena.jpg",
+  "emails": [
+    {
+      "email": "helena.patel@consultpro.com",
+      "type": "work",
+      "verified": true
+    }
+  ],
+  "is_me": false,
+  "location": "Boston, MA",
+  "state": "MA",
+  "country_code": "US",
+  "phone_number": "+1-617-555-0111",
+  "research": "Analyzed client satisfaction surveys and delivered whitepaper on organizational transformation.",
+  "summary": {
+    "title": "Senior Executive Consultant",
+    "company": "ConsultPro Advisors",
+    "industry": "Management Consulting",
+    "experience": "15+ years"
+  },
+  "long_summary": {
+    "background": "PhD in Organizational Psychology",
+    "expertise": "Change management, leadership development, strategic planning",
+    "achievements": "Authored 3 industry publications, led 10+ multi-million dollar transformation programs"
+  },
+  "linked_in": "https://linkedin.com/in/drhelenapatel",
+  "linked_in_maybes": "h.patel@consultpro.com",
+  "linked_in_followers": 3400,
+  "org_id": "5a9f0bd3-2c3e-4e0a-a37f-b5e606c6a5d2",
+  "social_media": {
+    "twitter": "@DrHelenaP",
+    "blog": "helena-consulting.com"
+  },
+  "skills": ["Executive Coaching", "Project Management", "Data Analysis"]
+}

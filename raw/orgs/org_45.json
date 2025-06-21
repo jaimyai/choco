@@ -1,0 +1,22 @@
+{
+  "id": "fedcba98-7654-3210-ffed-cba987654321",
+  "name": "DevCon 2024",
+  "photo": "https://example.com/logos/devcon2024.png",
+  "description": "DevCon 2024 is the premier annual conference for software developers, bringing together top industry experts for workshops, keynotes, and networking. Attendees will gain insights into the latest trends in cloud computing, AI, and cybersecurity.",
+  "websites": [
+    {
+      "url": "https://devcon2024.com",
+      "type": "official",
+      "primary": true
+    }
+  ],
+  "industry": "Technology",
+  "location": "Austin, TX",
+  "type": "CONFERENCE",
+  "created_at": 1702000000,
+  "org_id": "11223344-5566-7788-99aa-bbccddeeff00",
+  "contact_info": {
+    "email": "info@devcon2024.com",
+    "phone": "+1-800-123-4567"
+  }
+}

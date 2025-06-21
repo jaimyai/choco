@@ -1,0 +1,26 @@
+{
+  "id": "c9a1f3bc-4f5e-4e1d-8a23-0e9f2d1b7a45",
+  "thread_id": "thread-1d23456",
+  "content": {
+    "emails": {
+      "from": "alice@example.com",
+      "to": ["bob@example.com"],
+      "subject": "Quick Update on Q2 Targets",
+      "body": "Hi Bob,\\nThe Q2 targets have been updated as per our last meeting. The new figures are in the attached agenda.",
+      "date": "2024-02-15T09:30:00Z"
+    }
+  },
+  "summary": {},
+  "attachments": ["agenda.docx"],
+  "subject": "Quick Update on Q2 Targets",
+  "org_id": "org-uuid-1234",
+  "user_id": "user-uuid-2345",
+  "type": "THREAD",
+  "date": "2024-02-15T09:30:00Z",
+  "organization": {
+    "id": "org-uuid-1234",
+    "name": "Alpha Corp",
+    "type": "COMPANY",
+    "org_id": "org-uuid-1234"
+  }
+}

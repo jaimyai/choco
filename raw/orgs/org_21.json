@@ -1,0 +1,38 @@
+{
+  "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "name": "NovaTech Innovations",
+  "photo": "https://example.com/logos/novatech.png",
+  "description": {
+    "overview": "NovaTech Innovations is a next-generation technology startup specializing in AI-driven solutions for enterprise clients.",
+    "mission": "To empower businesses with intelligent automation and data-driven insights.",
+    "values": ["Innovation", "Integrity", "Customer-Centricity"]
+  },
+  "websites": [
+    {
+      "url": "https://novatech.io",
+      "type": "main",
+      "primary": true
+    },
+    {
+      "url": "https://blog.novatech.io",
+      "type": "blog",
+      "primary": false
+    }
+  ],
+  "industry": ["Technology", "Artificial Intelligence"],
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "address": "123 Market St"
+  },
+  "type": "COMPANY",
+  "created_at": 1699995600,
+  "org_id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+  "founded": 2018,
+  "size": "51-200",
+  "funding": {
+    "stage": "Series B",
+    "amount": 25000000
+  }
+}

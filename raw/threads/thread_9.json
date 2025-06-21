@@ -1,0 +1,42 @@
+{
+  "id": "9b8c7d6e-4444-5555-6666-777788889999",
+  "thread_id": "thread-dddd-4444",
+  "content": {
+    "emails": [
+      {
+        "from": "designer@uxstudio.com",
+        "to": ["manager@product.com"],
+        "cc": ["lead@uxstudio.com"],
+        "subject": "Feedback on UI Mockups",
+        "body": "Hi,\n\nPlease find my comments on the latest UI mockups attached. I think the color palette on page 4 could use more contrast for accessibility.\n\nBest,\nDesigner",
+        "date": "2024-04-12T12:00:00Z"
+      },
+      {
+        "from": "manager@product.com",
+        "to": ["designer@uxstudio.com", "lead@uxstudio.com"],
+        "cc": [],
+        "subject": "Re: Feedback on UI Mockups",
+        "body": "Thanks for the feedback. I'll review the palette choices and loop in the branding team.",
+        "date": "2024-04-12T15:45:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "sentiment": "constructive",
+    "action_items": ["Refine color palette", "Consult branding team"]
+  },
+  "attachments": [],
+  "subject": "Feedback on UI Mockups",
+  "org_id": "org-2222-3333",
+  "user_id": "user-kkkk-llll-mmmm",
+  "type": "THREAD",
+  "date": "2024-04-12T15:45:00Z",
+  "organization": {
+    "id": "org-2222-3333",
+    "name": "Product Co.",
+    "type": "COMPANY",
+    "org_id": "org-2222-3333",
+    "industry": "Software",
+    "location": "San Francisco, CA"
+  }
+}

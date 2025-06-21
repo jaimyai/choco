@@ -1,0 +1,39 @@
+{
+  "id": "c8f4b2d1-5e47-4a9b-a123-4b5c6d7e8f90",
+  "org_id": "44444444-5555-6666-7777-888888888888",
+  "user_id": "423e4567-e89b-12d3-a456-426614174003",
+  "title": "API Rate Limiting Spec",
+  "content": {
+    "text": "# API Rate Limiting\nWe need to implement rate limiting at 100 requests/minute per user.\n\n{\"rate_limit\":100}\n",
+    "format": "markdown",
+    "tags": ["api", "rate-limit", "spec"],
+    "related_endpoints": ["/v1/users", "/v1/orders"]
+  },
+  "timestamp": "2024-04-22T16:15:00Z",
+  "summary": {
+    "key_points": ["100 req/min per user", "Return 429 on limit breach"],
+    "action_items": ["Implement middleware", "Write unit tests"],
+    "follow_up": "Load test on staging"
+  },
+  "type": "NOTE",
+  "category": "Technical Documentation",
+  "related_entities": [
+    {
+      "type": "Endpoint",
+      "id": "/v1/users"
+    },
+    {
+      "type": "Endpoint",
+      "id": "/v1/orders"
+    }
+  ],
+  "organization": {
+    "id": "44444444-5555-6666-7777-888888888888",
+    "org_id": "44444444-5555-6666-7777-888888888888",
+    "name": "NextGen API Labs",
+    "type": "COMPANY",
+    "description": "Specializes in API development and performance optimization.",
+    "industry": "Technology",
+    "headquarters": "New York"
+  }
+}

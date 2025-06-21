@@ -1,0 +1,52 @@
+{
+  "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "eid": "evt-2002",
+  "user_id": "abcd1234-ef56-7890-ab12-cd34ef56gh78",
+  "org_id": "789a4567-b12c-34d5-e678-90123f45gh67",
+  "title": "Client Strategy Call",
+  "duration": 3600,
+  "start_time": "2024-03-01T14:00:00Z",
+  "end_time": "2024-03-01T15:00:00Z",
+  "is_owner": false,
+  "recording_mode": "auto",
+  "connectedEntityIds": [
+    {
+      "id": "client-001",
+      "name": "Acme Inc.",
+      "role": "client"
+    },
+    {
+      "id": "proj-789",
+      "name": "Website Redesign",
+      "role": "project"
+    }
+  ],
+  "link": "https://meet.google.com/def-hijk-lmn",
+  "content": {
+    "transcript": "Welcome to the client strategy call. We discussed timelines and deliverables. Client requested a revised proposal by next week. Budget constraints were addressed. We agreed on bi-weekly check-ins.",
+    "notes": "Follow up on budget details. Send proposal draft.",
+    "participants": ["Alice Johnson", "Bob Lee", "Client Rep"]
+  },
+  "type": "EVENT",
+  "summary": {
+    "key_points": [
+      "Timeline agreed",
+      "Proposal due next week",
+      "Bi-weekly meetings"
+    ],
+    "decisions": ["Proceed with initial draft", "Use standard billing rates"],
+    "action_items": ["Alice to draft proposal", "Bob to send budget breakdown"],
+    "attendees": ["Alice Johnson", "Bob Lee", "Client Rep"]
+  },
+  "recording_url": "https://recordings.service.com/f47ac10b",
+  "transcript_format": "text",
+  "organization": {
+    "id": "789a4567-b12c-34d5-e678-90123f45gh67",
+    "name": "Beta Solutions",
+    "type": "COMPANY",
+    "org_id": "789a4567-b12c-34d5-e678-90123f45gh67",
+    "description": "Leading provider of IT consulting services",
+    "industry": "Information Technology",
+    "location": "New York, NY"
+  }
+}

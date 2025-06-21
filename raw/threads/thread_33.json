@@ -1,0 +1,50 @@
+{
+  "id": "123e4567-e89b-12d3-a456-426614174000",
+  "thread_id": "223e4567-e89b-12d3-a456-426614174001",
+  "content": {
+    "emails": [
+      {
+        "from": "alice@consulting.com",
+        "to": ["bob@enterprise.com"],
+        "subject": "Proposal for Q3 Initiative",
+        "body": "Dear Bob, please find attached the proposal for our Q3 initiative.",
+        "date": "2024-02-10T08:15:00Z"
+      },
+      {
+        "from": "bob@enterprise.com",
+        "to": ["alice@consulting.com"],
+        "subject": "Re: Proposal for Q3 Initiative",
+        "body": "Thank you, Alice. Reviewing and will revert with comments.",
+        "date": "2024-02-10T10:00:00Z"
+      },
+      {
+        "from": "alice@consulting.com",
+        "to": ["bob@enterprise.com"],
+        "subject": "Re: Proposal for Q3 Initiative",
+        "body": "Sure, let me know if you have any questions. Meanwhile, I’ll prepare the detailed timeline.",
+        "date": "2024-02-10T11:30:00Z"
+      },
+      {
+        "from": "bob@enterprise.com",
+        "to": ["alice@consulting.com"],
+        "subject": "Re: Proposal for Q3 Initiative",
+        "body": "Sounds good. Let's schedule a call next week to go through specifics.",
+        "date": "2024-02-10T12:00:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "sentiment": "positive"
+  },
+  "attachments": ["proposal.pdf", "timeline.xlsx"],
+  "subject": "Proposal for Q3 Initiative",
+  "org_id": "323e4567-e89b-12d3-a456-426614174002",
+  "user_id": "423e4567-e89b-12d3-a456-426614174003",
+  "type": "THREAD",
+  "date": "2024-02-10T08:15:00Z",
+  "organization": {
+    "id": "323e4567-e89b-12d3-a456-426614174002",
+    "name": "Enterprise Co",
+    "type": "COMPANY"
+  }
+}

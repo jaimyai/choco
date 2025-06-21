@@ -1,0 +1,68 @@
+{
+  "id": "2b3c4d5e-6f7a-8b9c-0def-1234567890ab",
+  "thread_id": "thread-9876-5432-10fe-dcba-0987654321ab",
+  "content": {
+    "emails": [
+      {
+        "from": "pm@innovatech.com",
+        "to": ["devteam@innovatech.com"],
+        "cc": ["lead@innovatech.com"],
+        "subject": "Project Phoenix: Weekly Update",
+        "body": "Good morning team,\nHere are the updates for this week: completed module integration, testing underway, no major blockers.",
+        "date": "2024-02-22T08:00:00Z"
+      },
+      {
+        "from": "alice@innovatech.com",
+        "to": ["pm@innovatech.com"],
+        "subject": "Re: Project Phoenix: Weekly Update",
+        "body": "Thanks for the update. API endpoint tests passed 95% of cases, working on edge cases now.",
+        "date": "2024-02-25T12:15:00Z"
+      },
+      {
+        "from": "pm@innovatech.com",
+        "to": ["devteam@innovatech.com"],
+        "bcc": ["cto@innovatech.com"],
+        "subject": "Re: Project Phoenix: Weekly Update",
+        "body": "Great work everyone. Please prepare your test reports by Monday.",
+        "date": "2024-03-01T17:45:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": [
+      "Module integration done",
+      "Testing at 95%",
+      "Prepare test reports"
+    ],
+    "action_items": ["Finalize edge case tests", "Compile weekly report"],
+    "sentiment": "neutral"
+  },
+  "attachments": [
+    {
+      "filename": "integration_report.xlsx",
+      "size_kb": 120,
+      "type": "spreadsheet"
+    },
+    {
+      "filename": "test_summary.pdf",
+      "size_kb": 500,
+      "type": "pdf"
+    }
+  ],
+  "subject": "Project Phoenix: Weekly Update",
+  "org_id": "org-2222-3333-4444-5555-666666666666",
+  "user_id": "user-2222-3333-4444-5555-777777777777",
+  "type": "THREAD",
+  "date": "2024-03-01T17:45:00Z",
+  "organization": {
+    "id": "org-2222-3333-4444-5555-666666666666",
+    "name": "Innovatech Solutions",
+    "type": "COMPANY",
+    "org_id": "org-2222-3333-4444-5555-666666666666",
+    "description": "Leading provider of tech integration services",
+    "industry": "Technology",
+    "location": "San Francisco, CA",
+    "website": "https://www.innovatech.com",
+    "employees": 250
+  }
+}

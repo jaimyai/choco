@@ -1,0 +1,30 @@
+{
+  "id": "e5f6a7b8-c9d0-1e2f-3a4b-5c6d7e8f9a0b",
+  "name": "Global Academy of Arts and Sciences",
+  "photo": "https://example.com/logos/globalacademy.png",
+  "description": "The Global Academy of Arts and Sciences offers interdisciplinary programs that bridge creative expression with scientific inquiry. Established to nurture critical thinking and artistic innovation, the academy provides undergraduate, graduate, and professional development courses. Students engage in collaborative research, studio workshops, and international exchange programs. Faculty members are renowned practitioners and scholars committed to mentorship and discovery. The campus features state-of-the-art laboratories, galleries, and performance spaces. Alumni have gone on to lead groundbreaking projects in research institutions, galleries, and technology firms.",
+  "websites": [
+    {
+      "url": "https://globalacademy.edu",
+      "type": "official",
+      "primary": true
+    },
+    {
+      "url": "https://portal.globalacademy.edu",
+      "type": "student_portal",
+      "primary": false
+    }
+  ],
+  "industry": "Education",
+  "location": {
+    "city": "London",
+    "state": "N/A",
+    "country": "United Kingdom",
+    "address": "10 Regent Street"
+  },
+  "type": "INSTITUTION",
+  "created_at": 1678905600,
+  "org_id": "f1e2d3c4-b5a6-7d8f-9012-3a4b5c6d7e8f",
+  "founded": 1954,
+  "size": "2000+ students"
+}

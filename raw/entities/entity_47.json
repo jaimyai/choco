@@ -1,0 +1,38 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440001",
+  "name": "Jane Smith",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photo2.jpg",
+  "emails": [
+    {
+      "email": "jane.smith@startup.com",
+      "type": "work",
+      "verified": true
+    }
+  ],
+  "is_me": false,
+  "location": "New York, NY",
+  "state": "NY",
+  "country_code": "US",
+  "phone_number": "+1-212-555-0199",
+  "research": {
+    "notes": "Met at TechCrunch Disrupt 2023. Company valuation pivoted in Q4.",
+    "sources": ["Crunchbase", "Company PR"],
+    "last_researched": "1704067200"
+  },
+  "summary": {
+    "title": "Co-founder & CEO",
+    "company": "InnovateX",
+    "industry": "Healthcare Tech",
+    "experience": 12
+  },
+  "social_media": {
+    "twitter": "@janesmith",
+    "medium": "janesmithwrites.com"
+  },
+  "interests": ["biotech", "AI", "entrepreneurship"],
+  "org_id": "org-uuid-2"
+}

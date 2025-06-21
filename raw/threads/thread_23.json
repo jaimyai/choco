@@ -1,0 +1,60 @@
+{
+  "id": "c3d4e5f6-a7b8-9c0d-1e2f-3a4b5c6d7e8f",
+  "thread_id": "thread-3333-4444-5555",
+  "content": {
+    "emails": [
+      {
+        "from": "sales@example.com",
+        "to": ["client@example.com"],
+        "subject": "Proposal for Client X",
+        "body": "Dear Client X,\n\nThank you for your interest. Attached is our comprehensive proposal covering all features, timelines, and pricing.",
+        "date": "2024-04-05T07:20:00Z"
+      },
+      {
+        "from": "client@example.com",
+        "to": ["sales@example.com"],
+        "subject": "Re: Proposal for Client X",
+        "body": "Thank you for the detailed proposal. We have a few questions regarding timeline adjustments.",
+        "date": "2024-04-05T10:45:00Z"
+      },
+      {
+        "from": "sales@example.com",
+        "to": ["client@example.com"],
+        "subject": "Re: Proposal for Client X - Timeline",
+        "body": "Hello,\n\nWe can adjust the timeline to meet your deadlines. Please see the revised schedule in the attachment.",
+        "date": "2024-04-05T15:30:00Z"
+      },
+      {
+        "from": "client@example.com",
+        "to": ["sales@example.com"],
+        "subject": "Re: Proposal for Client X - Finalizing",
+        "body": "The revised schedule works. Please send the final contract.",
+        "date": "2024-04-06T09:00:00Z"
+      },
+      {
+        "from": "sales@example.com",
+        "to": ["client@example.com"],
+        "subject": "Final Contract Attached",
+        "body": "Dear Client X,\n\nAttached is the final contract. Let me know if you need any further changes.\n\nBest regards,\nSales Team",
+        "date": "2024-04-06T11:15:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "sentiment": "positive"
+  },
+  "attachments": [],
+  "subject": "Comprehensive Proposal for Client X",
+  "org_id": "org-3456-7890",
+  "user_id": "user-3333-4444",
+  "type": "THREAD",
+  "date": "2024-04-06T11:15:00Z",
+  "organization": {
+    "id": "org-3456-7890",
+    "name": "Initech",
+    "type": "COMPANY",
+    "org_id": "org-3456-7890",
+    "website": "https://www.initech.com",
+    "employees": 500
+  }
+}

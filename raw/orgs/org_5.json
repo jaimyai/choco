@@ -1,0 +1,14 @@
+{
+  "id": "9f8e7d6c-5b4a-3e2f-1a0b-1c2d3e4f5a6b",
+  "name": "PixelWave Studio",
+  "photo": "https://media.pixelwave.studio/logo.svg",
+  "description": "PixelWave Studio is a boutique creative agency specializing in branding, UI/UX design, and digital marketing for small to mid-sized businesses.",
+  "websites": ["https://pixelwave.studio"],
+  "industry": "Design",
+  "location": "Portland, OR",
+  "type": "TEAM",
+  "created_at": 1700001111,
+  "org_id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+  "founded": 2016,
+  "size": "10-25"
+}

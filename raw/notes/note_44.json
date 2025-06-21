@@ -1,0 +1,21 @@
+{
+  "id": "d4e5f6a7-b8c9-0123-de45-f67890123456",
+  "org_id": "org-4444-5555-6666-7777abcd3456",
+  "user_id": "user-2222-3333-4444-555566667777",
+  "title": "Mobile App Gamification Concept",
+  "content": {
+    "text": "Introduce badges and leaderboards to increase user engagement.",
+    "format": "markdown",
+    "tags": ["product", "engagement", "gamification"]
+  },
+  "timestamp": "2024-02-18T16:45:00Z",
+  "summary": "Concept for adding gamification features to the mobile app to boost retention.",
+  "type": "NOTE",
+  "organization": {
+    "id": "org-4444-5555-6666-7777abcd3456",
+    "name": "AppWorks Studio",
+    "type": "COMPANY",
+    "org_id": "org-4444-5555-6666-7777abcd3456",
+    "industry": "Mobile Development"
+  }
+}

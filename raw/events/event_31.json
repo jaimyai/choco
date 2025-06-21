@@ -1,0 +1,23 @@
+{
+  "id": "b3a5f9a1-8d3c-4f97-aec2-5f4b2d1f8c6e",
+  "eid": "evt-1001",
+  "user_id": "d2e8f0b3-1f2a-4a3f-9c8b-7a5e6d4f3b2c",
+  "org_id": "o6d2e9f1-3c4b-4c2a-9d7e-8a1c5b3f2d0g",
+  "title": "Daily Standup Meeting",
+  "duration": 900,
+  "start_time": "2024-03-12T09:00:00Z",
+  "end_time": "2024-03-12T09:15:00Z",
+  "is_owner": true,
+  "recording_mode": "manual",
+  "connectedEntityIds": ["task-101", "task-102"],
+  "link": "https://meet.google.com/xyz-abcq-pqr",
+  "content": "Quick updates from each team member. John reported progress on feature A. Maria is blocked on bug B and will follow up after this standup. All agree to prioritize the user authentication module today.",
+  "type": "EVENT",
+  "summary": "Team shared concise updates, identified a blocker on bug B, plan to focus on authentication module.",
+  "organization": {
+    "id": "o6d2e9f1-3c4b-4c2a-9d7e-8a1c5b3f2d0g",
+    "name": "Tech Innovators",
+    "type": "COMPANY",
+    "org_id": "o6d2e9f1-3c4b-4c2a-9d7e-8a1c5b3f2d0g"
+  }
+}

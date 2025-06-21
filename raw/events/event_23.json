@@ -1,0 +1,46 @@
+{
+  "id": "3c1f8e2b-a59f-4e6d-bb22-8d4a7cde5f21",
+  "eid": "evt-3003",
+  "user_id": "2468ace0-bdf1-2345-6789-abcdef012345",
+  "org_id": "456d7890-ab12-cd34-ef56-7890ab12cd34",
+  "title": "Senior Developer Interview",
+  "duration": 4500,
+  "start_time": "2024-04-10T11:00:00Z",
+  "end_time": "2024-04-10T12:15:00Z",
+  "is_owner": true,
+  "recording_mode": "auto",
+  "connectedEntityIds": ["cand-321", "hr-432"],
+  "link": "https://meet.google.com/hij-klmn-opq",
+  "content": [
+    {
+      "speaker": "Interviewer",
+      "text": "Can you explain your design for a scalable service?"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "I would use microservices with autoscaling and a load balancer to distribute traffic."
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "How would you handle data consistency?"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "We can use distributed transactions or eventual consistency with conflict resolution."
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "What caching strategy would you implement?"
+    }
+  ],
+  "type": "EVENT",
+  "summary": "Interviewed candidate on system design and problem solving. Recommended follow-up.",
+  "agenda": "Introduction, Technical Questions, Behavioral Questions",
+  "participants": ["John Doe", "Jane Smith"],
+  "organization": {
+    "id": "456d7890-ab12-cd34-ef56-7890ab12cd34",
+    "name": "Gamma Tech",
+    "type": "COMPANY",
+    "org_id": "456d7890-ab12-cd34-ef56-7890ab12cd34"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "f5e7a912-c23d-56f7-e890-426655440004",
+  "name": "Emma Thompson",
+  "last_updated": "1704800000",
+  "last_communication": "1704900000",
+  "created_at": "1703800000",
+  "importing": false,
+  "photo": "https://example.com/photos/emma.jpg",
+  "emails": ["emma.thompson@consultco.com"],
+  "is_me": false,
+  "location": "Seattle, WA",
+  "state": "WA",
+  "country_code": "US",
+  "phone_number": "+1-206-555-0145",
+  "research": {
+    "notes": "Reviewed whitepaper on cloud migration published by ConsultCo.",
+    "sources": ["Company database", "Industry journals"],
+    "last_researched": "1704700000"
+  },
+  "summary": "Senior IT Consultant specializing in cloud infrastructure and cybersecurity.",
+  "linked_in": "https://linkedin.com/in/emmathompson",
+  "linked_in_followers": 1200,
+  "linked_in_maybes": "emma_t@consultco.com",
+  "org_id": "org-523e4567-e89b-12d3-a456-426614174004",
+  "interests": ["Cloud Computing", "Blockchain", "DevOps"],
+  "social_media": {
+    "twitter": "@emma_thompson",
+    "github": "emmathompson"
+  }
+}

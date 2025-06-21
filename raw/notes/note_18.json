@@ -1,0 +1,29 @@
+{
+  "id": "11111111-2222-3333-4444-555555555555",
+  "org_id": "33333333-4444-5555-6666-777777777777",
+  "user_id": "99999999-aaaa-bbbb-cccc-dddddddddddd",
+  "title": "Onboarding Checklist Meeting",
+  "content": [
+    {
+      "heading": "Introductions",
+      "body": "Meet the new team members."
+    },
+    {
+      "heading": "Training Schedule",
+      "body": "Review software tutorials and timelines."
+    },
+    {
+      "heading": "HR Policies",
+      "body": "Discuss company benefits and leave policies."
+    }
+  ],
+  "timestamp": "2024-04-01T11:00:00Z",
+  "summary": "Outlined steps to onboard new hires, assigned mentors, and scheduled training sessions.",
+  "type": "NOTE",
+  "organization": {
+    "id": "33333333-4444-5555-6666-777777777777",
+    "name": "HR Solutions",
+    "type": "COMPANY",
+    "org_id": "33333333-4444-5555-6666-777777777777"
+  }
+}

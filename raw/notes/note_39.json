@@ -1,0 +1,20 @@
+{
+  "id": "6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
+  "org_id": "d4e5f6a7-8b9c-0d1e-2f3a-4567890abcde",
+  "user_id": "44444444-5555-6666-7777-888888888888",
+  "title": "Interview Feedback for Jane Doe",
+  "content": "Jane demonstrated strong technical skills in Python and data analysis. She communicated clearly and showed a collaborative mindset. Recommend moving to final interview round.",
+  "timestamp": "2024-02-28T16:20:00Z",
+  "summary": "Positive interview feedback with recommendation to proceed.",
+  "type": "NOTE",
+  "organization": {
+    "id": "d4e5f6a7-8b9c-0d1e-2f3a-4567890abcde",
+    "name": "Hiring Hub",
+    "description": "Specializes in talent acquisition",
+    "industry": "Recruitment",
+    "type": "COMPANY",
+    "org_id": "d4e5f6a7-8b9c-0d1e-2f3a-4567890abcde"
+  },
+  "related_entities": ["Jane Doe", "John Smith"],
+  "tags": ["interview", "feedback"]
+}

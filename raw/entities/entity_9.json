@@ -1,0 +1,30 @@
+{
+  "id": "f9e8d7c6-b5a4-3f21-0e9d-8c7b6a5d4e3f",
+  "name": "David Chen",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://cdn.example.com/profiles/davidchen.png",
+  "emails": ["david.chen@enterprisex.com"],
+  "is_me": false,
+  "location": "Seattle, WA",
+  "state": "WA",
+  "country_code": "US",
+  "phone_number": "+1-555-0189",
+  "research": {
+    "notes": "Reviewed Enterprisex Q3 report for tech leadership overview",
+    "sources": ["SEC filings", "Company website"],
+    "last_researched": "2023-12-02"
+  },
+  "summary": "Senior Software Engineer specializing in backend systems with a focus on scalable microservices architecture.",
+  "long_summary": "David Chen has over a decade of experience building high-performance backend systems for Fortune 500 companies. He started his career at FinTech Solutions, where he developed payment processing modules handling millions of transactions per day. Later, he joined CloudWave Inc. as a lead engineer, architecting microservices that improved system uptime by 99.9%. David holds a Master's in Computer Science from MIT. He is proficient in Go, Java, and Python and contributes to several open-source projects. In his current role at EnterpriseX, he leads a team of 12 engineers in developing cloud-native applications. Outside of work, David mentors at local coding bootcamps and speaks at industry conferences. He published a whitepaper on scalable event-driven architectures in 2022.",
+  "linked_in": "https://linkedin.com/in/davidchen",
+  "linked_in_maybes": "dchen@maybelinked.com",
+  "linked_in_followers": 1200,
+  "org_id": "org-uuid-4",
+  "social_media": {
+    "twitter": "@davidchen",
+    "github": "david-chen"
+  }
+}

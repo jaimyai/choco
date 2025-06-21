@@ -1,0 +1,41 @@
+{
+  "id": "7f9c8d3e-1abc-4f00-bc72-9a1b2c3d4e5f",
+  "org_id": "9a7b6c5d-3e2f-1a4b-0c8d-7e6f5a4b3c2d",
+  "user_id": "d4e5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+  "title": "Q1 Planning Meeting",
+  "content": [
+    {
+      "section": "Attendees",
+      "items": ["Alice", "Bob", "Charlie"]
+    },
+    {
+      "section": "Discussion",
+      "items": ["Budget allocation", "Marketing strategy", "Hiring plan"]
+    },
+    {
+      "section": "Decisions",
+      "items": [
+        "Allocate 30% budget to marketing",
+        "Hire two frontend developers"
+      ]
+    }
+  ],
+  "timestamp": "2024-02-15T09:30:00Z",
+  "summary": {
+    "key_points": ["Budget distribution finalized", "Hiring plan approved"],
+    "action_items": [
+      "Alice to draft job postings",
+      "Bob to finalize vendor contracts"
+    ],
+    "follow_up": "Review draft postings next week"
+  },
+  "type": "NOTE",
+  "organization": {
+    "id": "9a7b6c5d-3e2f-1a4b-0c8d-7e6f5a4b3c2d",
+    "name": "Tech Innovators Inc.",
+    "type": "COMPANY",
+    "org_id": "9a7b6c5d-3e2f-1a4b-0c8d-7e6f5a4b3c2d",
+    "description": "A leading software solutions provider",
+    "industry": "Software"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "abcdef12-3456-7890-abcd-ef1234567890",
+  "org_id": "44444444-5555-6666-7777-888888888888",
+  "user_id": "11112222-3333-4444-5555-666666666666",
+  "title": "Team Offsite Agenda",
+  "content": "- Welcome and introductions\n- Strategy workshop\n- Team-building activities\n- Lunch break\n- Feedback session",
+  "timestamp": "2024-04-15T16:00:00Z",
+  "summary": {
+    "action_items": ["Book venue", "Prepare materials"],
+    "follow_up": "Confirm final attendee list"
+  },
+  "type": "NOTE",
+  "organization": {
+    "id": "44444444-5555-6666-7777-888888888888",
+    "name": "Sales Region West",
+    "type": "COMPANY",
+    "org_id": "44444444-5555-6666-7777-888888888888",
+    "description": "Regional sales office.",
+    "location": "Headquarters Campus"
+  },
+  "related_entities": [
+    {
+      "type": "Event",
+      "id": "evt-7890"
+    }
+  ],
+  "priority": "Medium"
+}

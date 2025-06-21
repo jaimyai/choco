@@ -1,0 +1,52 @@
+{
+  "id": "e1f2a3b4-5c6d-7e8f-9012-3456789abcde",
+  "thread_id": "f1e2d3c4-b5a6-7980-1234-5a6b7c8d9e0f",
+  "content": {
+    "thread_id": "f1e2d3c4-b5a6-7980-1234-5a6b7c8d9e0f",
+    "participants": ["lead@startup.com", "dev@startup.com"],
+    "cc": ["manager@startup.com"],
+    "emails": [
+      {
+        "from": "lead@startup.com",
+        "to": ["dev@startup.com"],
+        "subject": "Weekly Project Update",
+        "body": "Hi Dev team, here is the weekly update on our project. We completed the API integration and started UX testing.",
+        "date": "2024-03-18T15:00:00Z"
+      },
+      {
+        "from": "dev@startup.com",
+        "to": ["lead@startup.com"],
+        "subject": "Re: Weekly Project Update",
+        "body": "Thanks for the update. UX testing is proceeding well. I'll share results by end of day.",
+        "date": "2024-03-18T17:00:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": ["API integration completed", "UX testing started"],
+    "action_items": ["Review UX feedback", "Plan next sprint"]
+  },
+  "attachments": [
+    {
+      "filename": "update.docx",
+      "size_kb": 120,
+      "type": "document"
+    },
+    {
+      "filename": "chart.png",
+      "size_kb": 345,
+      "type": "image"
+    }
+  ],
+  "subject": "Weekly Project Update",
+  "org_id": "7d8e9f0a-1b2c-3d4e-5f6a-7b8c9d0e1f2a",
+  "user_id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+  "type": "THREAD",
+  "date": "2024-03-18T17:30:00Z",
+  "organization": {
+    "id": "7d8e9f0a-1b2c-3d4e-5f6a-7b8c9d0e1f2a",
+    "name": "Startup Inc",
+    "type": "COMPANY",
+    "industry": "Software"
+  }
+}

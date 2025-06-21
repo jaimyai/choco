@@ -1,0 +1,51 @@
+{
+  "id": "b2d34gh5-2c3d-4e5f-8a4b-2c3d4e5f6a7b",
+  "name": "Robert Smith",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photo2.jpg",
+  "emails": [
+    {
+      "email": "robert@innovateinc.com",
+      "type": "work",
+      "verified": true
+    },
+    {
+      "email": "rsmith.personal@gmail.com",
+      "type": "personal",
+      "verified": false
+    }
+  ],
+  "is_me": false,
+  "location": "Boston, MA",
+  "state": "MA",
+  "country_code": "US",
+  "phone_number": "+1-555-0456",
+  "research": {
+    "notes": "Founder of second startup currently raising Series A.",
+    "sources": ["Crunchbase", "Twitter"],
+    "last_researched": "1703980800"
+  },
+  "summary": {
+    "title": "Founder & CEO",
+    "company": "Innovate Inc",
+    "industry": "Healthcare Tech",
+    "experience": 8
+  },
+  "long_summary": {
+    "background": "Robert started his career as a software engineer at MedSoft.",
+    "expertise": "Product strategy, fundraising, team leadership",
+    "achievements": "Raised $10M in seed, scaled to 50 employees"
+  },
+  "skills": ["Fundraising", "Product Management", "Leadership"],
+  "education": ["B.S. Computer Science, Stanford University"],
+  "social_media": {
+    "twitter": "https://twitter.com/rsmith",
+    "github": "https://github.com/robertsmith"
+  },
+  "linked_in": "https://linkedin.com/in/robertsmith",
+  "linked_in_followers": 2300,
+  "org_id": "e3f4g5h6-7i8j-9k0l-1m2n-3o4p5q6r7s8t"
+}

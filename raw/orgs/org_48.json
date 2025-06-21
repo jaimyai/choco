@@ -1,0 +1,34 @@
+{
+  "id": "c34e5a6b-7890-4dbc-1234-cdef34567890",
+  "name": "FinTech Innovators Summit 2024",
+  "photo": "https://example.com/logos/fintechsummit.png",
+  "description": {
+    "overview": "The FinTech Innovators Summit brings together industry leaders, startups, and investors.",
+    "mission": "To foster collaboration and showcase breakthroughs in financial technology.",
+    "format": "Hybrid",
+    "history": "Since its inception in 2016, the summit has grown to welcome over 5,000 attendees annually."
+  },
+  "websites": [
+    {
+      "url": "https://ftinnovate.com",
+      "type": "registration",
+      "primary": true
+    },
+    {
+      "url": "https://ftinnovate.com/schedule",
+      "type": "schedule",
+      "primary": false
+    }
+  ],
+  "industry": ["Finance", "Technology", "Startup"],
+  "location": {
+    "city": "New York",
+    "state": "NY",
+    "country": "USA"
+  },
+  "type": "CONFERENCE",
+  "founded": 2016,
+  "size": "Annual event",
+  "created_at": 1703152000,
+  "org_id": "org-1234cdef-5678-9012-abcd-ef3456789012"
+}

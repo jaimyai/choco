@@ -1,0 +1,22 @@
+{
+  "id": "fedcba98-7654-3210-ffe0-dcba98765432",
+  "org_id": "222e3333-a444-b555-c666-777888999000",
+  "user_id": "user-2222-3333-4444-555566667777",
+  "title": "API Rate Limiting Spec",
+  "content": {
+    "text": "Define per-user rate limits:\n1. 1,000 requests/hour\n2. Burst capacity up to 100 requests in 60 seconds\n3. Return HTTP 429 on limit breach\nFallback: queue requests for 5 minutes",
+    "format": "text"
+  },
+  "timestamp": "2024-06-09T11:20:00Z",
+  "summary": "Outlined rate limits and fallback mechanisms.",
+  "type": "NOTE",
+  "priority": "High",
+  "related_entities": ["API Gateway", "User Service", "RateLimiter"],
+  "organization": {
+    "id": "222e3333-a444-b555-c666-777888999000",
+    "name": "CloudBridge Systems",
+    "type": "COMPANY",
+    "org_id": "222e3333-a444-b555-c666-777888999000",
+    "industry": "Cloud Services"
+  }
+}

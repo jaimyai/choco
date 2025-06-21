@@ -1,0 +1,67 @@
+{
+  "id": "e7890f12-3456-4a7b-c890-5d123f678abc",
+  "thread_id": "thread-5m78901",
+  "content": {
+    "emails": [
+      {
+        "from": "lead@marketing.com",
+        "to": ["team@marketing.com"],
+        "subject": "Marketing Strategy Discussion",
+        "body": "Hi Team,\\nAs we prepare for the next quarter, we need to refine our marketing strategy. First, we should analyze the latest customer insights from our survey. Second, let's brainstorm campaign ideas that target emerging segments. Third, we must allocate budget across channels more effectively. Finally, outline metrics to measure the success of each initiative. I have attached last quarter's performance report and the draft presentation. Please review and come prepared with ideas.",
+        "date": "2024-03-15T14:20:00Z"
+      },
+      {
+        "from": "anna@marketing.com",
+        "to": ["lead@marketing.com"],
+        "subject": "Re: Marketing Strategy Discussion",
+        "body": "Thanks for the overview. I will review the documents and gather some data on the new segments. See you at the meeting.",
+        "date": "2024-03-15T15:00:00Z"
+      },
+      {
+        "from": "lead@marketing.com",
+        "to": ["team@marketing.com"],
+        "subject": "Re: Marketing Strategy Discussion",
+        "body": "Great, Anna. Additionally, please coordinate with the design team for creative assets. We also need input from the analytics department on performance benchmarks.",
+        "date": "2024-03-15T15:30:00Z"
+      },
+      {
+        "from": "mike@analytics.com",
+        "to": ["lead@marketing.com", "team@marketing.com"],
+        "subject": "Re: Marketing Strategy Discussion",
+        "body": "Hello all,\\nI've attached the latest performance benchmarks. Let me know if you need deeper analysis on any specific channel.\\nBest,\\nMike",
+        "date": "2024-03-15T16:00:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": [
+      "Analyze customer insights",
+      "Brainstorm campaigns",
+      "Allocate budget",
+      "Define metrics"
+    ],
+    "action_items": [
+      "Review performance report",
+      "Coordinate with design",
+      "Obtain analytics input"
+    ],
+    "sentiment": "mixed"
+  },
+  "attachments": ["report.xlsx", "presentation.pptx", "minutes.docx"],
+  "subject": "Marketing Strategy Discussion",
+  "org_id": "org-uuid-5678",
+  "user_id": "user-uuid-6789",
+  "type": "THREAD",
+  "date": "2024-03-15T14:20:00Z",
+  "organization": {
+    "id": "org-uuid-5678",
+    "name": "Epsilon Marketing",
+    "type": "COMPANY",
+    "org_id": "org-uuid-5678",
+    "description": "Full-service marketing agency",
+    "industry": "Advertising",
+    "location": "New York, NY",
+    "website": "https://www.epsilonmarketing.com",
+    "employees": 120
+  }
+}

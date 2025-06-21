@@ -1,0 +1,41 @@
+{
+  "id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+  "thread_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+  "content": {
+    "initial_email": {
+      "from": "sales@innovatex.com",
+      "to": ["client@newclient.com"],
+      "subject": "Client onboarding details",
+      "body": "Hello and welcome,\\nAttached are the onboarding documents and next steps for our engagement. Please review the contract and provide the signed copy. We'll schedule a kickoff call once received.\\nLooking forward to working together!\\nBest,\\nTeam Innovatex",
+      "date": "2024-06-06T10:30:00Z"
+    },
+    "participants": ["sales@innovatex.com", "client@newclient.com"],
+    "cc": [],
+    "bcc": []
+  },
+  "summary": {
+    "sentiment": "positive"
+  },
+  "attachments": [
+    {
+      "filename": "contract.pdf",
+      "uploaded_by": "sales@innovatex.com",
+      "uploaded_at": "2024-06-06T10:35:00Z"
+    }
+  ],
+  "subject": "Client onboarding details",
+  "org_id": "6d5c4b3a-2f1e-0d9c-8b7a-6f5e4d3c2b1a",
+  "user_id": "9f8e7d6c-5b4a-3c2d-1e0f-9a8b7c6d5e4f",
+  "type": "THREAD",
+  "date": "2024-06-06T10:30:00Z",
+  "organization": {
+    "id": "6d5c4b3a-2f1e-0d9c-8b7a-6f5e4d3c2b1a",
+    "name": "Innovatex Consulting",
+    "type": "COMPANY",
+    "org_id": "6d5c4b3a-2f1e-0d9c-8b7a-6f5e4d3c2b1a",
+    "website": "https://innovatex.com",
+    "employees": 250,
+    "industry": "Consulting",
+    "location": "London, UK"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "d2e3f4a5-b6c7-8d90-efab-1234567890cd",
+  "eid": "evt-1004",
+  "user_id": "d4e5f6a7-890b-cdef-1234-567890abcdef",
+  "org_id": "org-4567890a-bcde-f123-4567-890abcdef123",
+  "title": "UX Designer Interview",
+  "duration": 3600,
+  "start_time": "2024-05-20T16:00:00Z",
+  "end_time": "2024-05-20T17:00:00Z",
+  "is_owner": false,
+  "recording_mode": "auto",
+  "connectedEntityIds": [
+    {
+      "id": "cand-321",
+      "name": "Emily Clark",
+      "role": "Candidate"
+    },
+    {
+      "id": "int-654",
+      "name": "Mark Lee",
+      "role": "Interviewer"
+    }
+  ],
+  "link": "https://meet.google.com/interview-321",
+  "participants": [
+    {
+      "name": "Emily Clark",
+      "role": "Candidate"
+    },
+    {
+      "name": "Mark Lee",
+      "role": "Interviewer"
+    }
+  ],
+  "content": "Interviewer: Can you walk me through your design process? Candidate: I start with user research and personas, then wireframes and prototypes. We discussed portfolio pieces, user testing experiences, approach to accessibility, collaboration with developers, and handling design criticism. Candidate provided examples of past projects including a mobile app redesign that increased engagement by 20%. We covered tools such as Sketch, Figma, and Adobe XD. The interview concluded with a discussion on team culture and next steps.",
+  "type": "EVENT",
+  "summary": {
+    "key_points": [
+      "Strong user research skills",
+      "Proficient in Figma and Sketch",
+      "Experience with accessibility standards"
+    ],
+    "action_items": ["Follow up with design challenge", "Send feedback to HR"]
+  },
+  "recording_url": "https://records.company.com/meet/evt-1004",
+  "organization": {
+    "id": "org-4567890a-bcde-f123-4567-890abcdef123",
+    "name": "Creative Minds Agency",
+    "type": "COMPANY",
+    "org_id": "org-4567890a-bcde-f123-4567-890abcdef123",
+    "description": "Specializes in user-centered design solutions",
+    "location": "San Francisco, CA"
+  }
+}

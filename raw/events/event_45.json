@@ -1,0 +1,47 @@
+{
+  "id": "e8127cbf-1234-4de5-9f6a-7b8c9d0e1f2a",
+  "eid": "evt-005",
+  "user_id": "f56d7e89-0123-4abc-8def-567890abcdef",
+  "org_id": "org-5678-90ab-cdef-1234",
+  "title": "Product Brainstorm Workshop",
+  "duration": 7200,
+  "start_time": "2024-06-15T13:00:00Z",
+  "end_time": "2024-06-15T15:00:00Z",
+  "is_owner": true,
+  "recording_mode": "off",
+  "connectedEntityIds": ["prod-team", "design-team", "marketers"],
+  "link": "https://meet.google.com/stu-vwxy-zab",
+  "content": {
+    "notes": "- Ideation on new features\n- User persona alignment\n- Prioritization matrix created",
+    "participants": ["Emma Watson", "Liam Smith", "Olivia Johnson"]
+  },
+  "type": "EVENT",
+  "summary": {
+    "key_points": [
+      "Generated 30+ feature ideas",
+      "Aligned on top personas",
+      "Set MVP scope"
+    ],
+    "action_items": [
+      "Emma to draft wireframes",
+      "Liam to research user surveys",
+      "Olivia to prepare ROI analysis"
+    ],
+    "attendees": ["Emma Watson", "Liam Smith", "Olivia Johnson"]
+  },
+  "agenda": [
+    "Welcome and goals",
+    "Idea generation",
+    "Persona session",
+    "Prioritization",
+    "Wrap-up"
+  ],
+  "organization": {
+    "id": "org-5678-90ab-cdef-1234",
+    "name": "Creative Solutions Ltd.",
+    "type": "COMPANY",
+    "org_id": "org-5678-90ab-cdef-1234",
+    "description": "Innovative product design agency",
+    "location": "San Francisco, CA"
+  }
+}

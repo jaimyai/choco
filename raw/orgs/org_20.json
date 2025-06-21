@@ -1,0 +1,16 @@
+{
+  "id": "c4d3e2f1-0a9b-8c7d-6e5f-4a3b2c1d0e9f",
+  "name": "ShadowWire",
+  "photo": "http://shadowwire.org/assets/logo.png",
+  "description": "ShadowWire is an underground collective specialized in cybersecurity research and ethical hacking. Founded by a group of veteran security analysts, the group has conducted numerous vulnerability assessments for both public and private sector clients. Over the years, ShadowWire has discovered critical zero-day exploits that have been responsibly disclosed to major software vendors. The organization operates with strict confidentiality and a rogue-coded ethos, emphasizing privacy and discretion. ShadowWire also hosts annual secret summits where members share techniques and collaboration opportunities. Their research papers have been published in esteemed security journals. Despite their clandestine nature, ShadowWire has contributed to developing several open-source security tools now widely used across the industry.",
+  "websites": ["http://shadowwire.org"],
+  "industry": "Cybersecurity",
+  "location": "Unknown",
+  "type": "GROUP",
+  "created_at": 1680393600,
+  "org_id": "0098f7e6-d5c4-b3a2-1098-7f6e5d4c3b2a",
+  "social_media": {
+    "x": "@shadowwire_official",
+    "pastebin": "pastebin.com/shadowwire"
+  }
+}

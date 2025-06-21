@@ -1,0 +1,44 @@
+{
+  "id": "3b4f6ce1-8d59-4e31-adef-7c8e2b5f2222",
+  "name": "Carol Lee",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photos/carol.jpg",
+  "emails": ["carol.lee@startup.io"],
+  "is_me": false,
+  "location": "Austin, TX",
+  "state": "TX",
+  "country_code": "US",
+  "phone_number": "+1-555-9012",
+  "research": [
+    {
+      "date": "2023-11-12",
+      "findings": "Active in angel investing."
+    },
+    {
+      "date": "2023-12-05",
+      "findings": "Interested in SaaS and fintech"
+    }
+  ],
+  "summary": "Founder and CEO of FinTech Solutions, focused on digital payment platforms.",
+  "long_summary": "Carol founded her first startup at age 24 and has since led multiple rounds of funding, raising over $10M. She mentors new entrepreneurs and speaks at industry events globally.",
+  "linked_in": "https://linkedin.com/in/carollee",
+  "linked_in_maybes": "cl@maybe.startup",
+  "linked_in_followers": 1250,
+  "org_id": "org-3333",
+  "education": [
+    {
+      "institution": "University of Texas",
+      "degree": "BBA Finance",
+      "year": 2012
+    },
+    {
+      "institution": "Stanford GSB",
+      "degree": "MBA",
+      "year": 2016
+    }
+  ],
+  "interests": ["Fintech", "Entrepreneurship", "Mentoring"]
+}

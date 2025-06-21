@@ -1,0 +1,31 @@
+{
+  "id": "a1b2c3d4-e5f6-7a8b-9c0d-e1f2a3b4c5d6",
+  "name": "Sophia Martínez",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://images.example.net/profiles/sophia.jpg",
+  "emails": ["sophia.martinez@example.es"],
+  "is_me": false,
+  "location": "Austin, TX",
+  "state": "TX",
+  "country_code": "US",
+  "phone_number": "+1-555-0167",
+  "research": [
+    {
+      "notes": "Met at Tech Summit 2023",
+      "date": "2023-11-15"
+    },
+    {
+      "notes": "Followed up on 2023-12-05, discussing potential partnership",
+      "date": "2023-12-05"
+    }
+  ],
+  "summary": "CTO at Globex Corporation",
+  "linked_in": "https://linkedin.com/in/sophiamartinez",
+  "linked_in_maybes": "sophia.marti@maybe.org",
+  "linked_in_followers": 3450,
+  "org_id": "org-uuid-3",
+  "interests": ["Cloud Infrastructure", "Distributed Systems", "Open Source"]
+}

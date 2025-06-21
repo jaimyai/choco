@@ -1,0 +1,23 @@
+{
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "eid": "evt-001",
+  "user_id": "11111111-2222-3333-4444-555555555555",
+  "org_id": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
+  "title": "Daily Standup",
+  "duration": 900,
+  "start_time": "2024-02-10T09:00:00Z",
+  "end_time": "2024-02-10T09:15:00Z",
+  "is_owner": true,
+  "recording_mode": "manual",
+  "connectedEntityIds": ["project-alpha", "dev-team"],
+  "link": "https://meet.google.com/aaa-bbbb-ccc",
+  "content": "Quick updates: Alice is finalizing the design mockups. Bob encountered a blocker in the API integration and will pair with Carol. Carol will review test plans today. Meeting ended with a note to update the ticket statuses.",
+  "type": "EVENT",
+  "summary": "Reviewed yesterday's tasks, identified blockers, and assigned actions for the day.",
+  "organization": {
+    "id": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
+    "name": "Tech Innovators Inc.",
+    "type": "COMPANY",
+    "org_id": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee"
+  }
+}

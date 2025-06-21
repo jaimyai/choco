@@ -1,0 +1,16 @@
+{
+  "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+  "org_id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
+  "user_id": "0f9e8d7c-6b5a-4e3f-2d1c-0b9a8f7e6d5c",
+  "title": "Weekly Reminder: Submit Reports",
+  "content": "Don't forget to submit your weekly progress reports by Friday EOD.",
+  "timestamp": "2024-03-08T08:00:00Z",
+  "summary": "Reminder to the team about weekly report deadline.",
+  "type": "NOTE",
+  "organization": {
+    "id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
+    "name": "Operations Dept",
+    "type": "DEPARTMENT",
+    "org_id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "0c5d6e7f-8a9b-4c1d-9e2f-777888999000",
+  "org_id": "33333333-4444-5555-6666-777777777777",
+  "user_id": "99999999-8888-7777-6666-555555555555",
+  "title": "API Integration Spec",
+  "content": [
+    {
+      "section": "Overview",
+      "body": "This document outlines the REST API integration points for the payment gateway."
+    },
+    {
+      "section": "Endpoints",
+      "body": "- POST /payments\n- GET /payments/{id}\n- PATCH /payments/{id}"
+    },
+    {
+      "section": "Authentication",
+      "body": "Uses OAuth2 with client credentials grant."
+    }
+  ],
+  "timestamp": "2024-01-20T11:45:00Z",
+  "summary": "Outlined API endpoints, authentication method, and request/response formats.",
+  "type": "NOTE",
+  "organization": {
+    "id": "33333333-4444-5555-6666-777777777777",
+    "name": "DevOps Team",
+    "type": "COMPANY",
+    "org_id": "33333333-4444-5555-6666-777777777777"
+  }
+}

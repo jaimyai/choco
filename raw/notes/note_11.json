@@ -1,0 +1,16 @@
+{
+  "id": "9b2d3f6a-7c4e-4a1d-8a7f-1234567890ab",
+  "org_id": "11111111-2222-3333-4444-555555555555",
+  "user_id": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
+  "title": "Monthly Report Reminder",
+  "content": "Don't forget to submit the monthly financial report by Friday.",
+  "timestamp": "2024-02-10T09:15:00Z",
+  "summary": "Reminder to complete the monthly financial report by deadline.",
+  "type": "NOTE",
+  "organization": {
+    "id": "11111111-2222-3333-4444-555555555555",
+    "name": "AlphaCorp",
+    "type": "COMPANY",
+    "org_id": "11111111-2222-3333-4444-555555555555"
+  }
+}

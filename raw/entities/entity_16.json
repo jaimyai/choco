@@ -1,0 +1,22 @@
+{
+  "id": "a1d2e3f4-5678-90ab-cdef-1234567890ab",
+  "name": "John Doe",
+  "last_updated": "1704172800",
+  "last_communication": "1704172800",
+  "created_at": "1704000000",
+  "importing": false,
+  "photo": "https://example.com/photos/john_doe.jpg",
+  "emails": ["john.doe@example.com"],
+  "is_me": false,
+  "location": "Boston, MA",
+  "state": "MA",
+  "country_code": "US",
+  "phone_number": "+1-617-555-0123",
+  "research": "Spoke at XYZ conference, potential candidate for outreach.",
+  "summary": "Junior Software Engineer",
+  "long_summary": "John is an entry-level software engineer with experience in backend development using Python and Node.js.",
+  "linked_in": "https://linkedin.com/in/johndoe",
+  "linked_in_maybes": "john.doe@gmail.com",
+  "linked_in_followers": 200,
+  "org_id": "org-12345678-90ab-cdef-1234-567890abcdef"
+}

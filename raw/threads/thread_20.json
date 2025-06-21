@@ -1,0 +1,89 @@
+{
+  "id": "e5f6g7h8-9012-34ab-cdef-567890123def",
+  "thread_id": "thread-0005",
+  "content": {
+    "thread_id": "thread-0005",
+    "participants": [
+      "alice.sales@enterprisenexus.com",
+      "bob.client@clientco.com",
+      "carol.pm@enterprisenexus.com"
+    ],
+    "emails": [
+      {
+        "from": "alice.sales@enterprisenexus.com",
+        "to": ["bob.client@clientco.com"],
+        "subject": "Comprehensive Proposal for Q3 Initiatives",
+        "body": "Hello Bob,\n\nI hope you’re doing well. Attached is our comprehensive proposal for Q3 initiatives, including detailed plans for the marketing campaign, resource allocation, and performance projections. We’ve outlined strategies to increase lead generation by 25% and improve conversion rates with targeted content. The proposed timeline spans from July through September, with key milestones highlighted. Please review and let us know if you have any questions or feedback.\n\nBest regards,\nAlice Sales",
+        "date": "2024-06-01T13:20:00Z"
+      },
+      {
+        "from": "carol.pm@enterprisenexus.com",
+        "to": ["alice.sales@enterprisenexus.com"],
+        "subject": "Re: Comprehensive Proposal for Q3 Initiatives",
+        "body": "Alice,\n\nThanks for sharing the proposal. I’ll coordinate internally to ensure the resource plan aligns with our capacity. I expect to have initial comments by tomorrow afternoon.\n\nThanks,\nCarol",
+        "date": "2024-06-01T15:00:00Z"
+      },
+      {
+        "from": "bob.client@clientco.com",
+        "to": ["alice.sales@enterprisenexus.com"],
+        "subject": "Re: Comprehensive Proposal for Q3 Initiatives",
+        "body": "Hi Alice,\n\nThank you for the detailed proposal. I appreciate the clarity on marketing strategies. One question: can we adjust the timeline to accelerate the lead gen phase by two weeks? Also, can you include a breakdown of the content creation budget? Overall this looks promising.\n\nRegards,\nBob",
+        "date": "2024-06-02T10:30:00Z"
+      },
+      {
+        "from": "alice.sales@enterprisenexus.com",
+        "to": ["bob.client@clientco.com"],
+        "subject": "Re: Comprehensive Proposal for Q3 Initiatives",
+        "body": "Bob,\n\nAbsolutely, we can accelerate the lead generation phase by two weeks and add a budget breakdown for content creation. I’m updating the proposal now and will send the revised version shortly.\n\nBest,\nAlice",
+        "date": "2024-06-02T14:45:00Z"
+      },
+      {
+        "from": "alice.sales@enterprisenexus.com",
+        "to": ["bob.client@clientco.com"],
+        "cc": ["carol.pm@enterprisenexus.com"],
+        "subject": "Updated Proposal for Q3 Initiatives",
+        "body": "Hi Bob,\n\nAttached is the revised proposal with the accelerated timeline and detailed budget breakdown for content creation. Let me know if this meets your expectations or if further tweaks are needed. Looking forward to your approval to move forward.\n\nThank you,\nAlice",
+        "date": "2024-06-03T11:00:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": [
+      "Lead gen phase accelerated",
+      "Budget breakdown added",
+      "Timeline updated"
+    ],
+    "action_items": [
+      "Review revised proposal",
+      "Confirm budget allocations",
+      "Schedule kickoff meeting"
+    ],
+    "sentiment": "positive"
+  },
+  "attachments": [
+    {
+      "filename": "Q3_Proposal_Initial.pdf",
+      "size": 345000
+    },
+    {
+      "filename": "Q3_Proposal_Revised.pdf",
+      "size": 367500
+    }
+  ],
+  "subject": "Comprehensive Proposal for Q3 Initiatives",
+  "org_id": "org-eeee-ffff-0000-1111",
+  "user_id": "user-5555-6666-7777-8888",
+  "type": "THREAD",
+  "date": "2024-06-03T11:00:00Z",
+  "organization": {
+    "id": "org-eeee-ffff-0000-1111",
+    "name": "Enterprise Nexus",
+    "type": "COMPANY",
+    "org_id": "org-eeee-ffff-0000-1111",
+    "description": "Consulting firm specializing in large-scale enterprise transformations.",
+    "industry": "Consulting",
+    "location": "New York, NY",
+    "website": "https://www.enterprisenexus.com",
+    "employees": 500
+  }
+}

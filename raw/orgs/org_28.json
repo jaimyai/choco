@@ -1,0 +1,19 @@
+{
+  "id": "d2e4f5a6-b7c8-9d01-2e3f-4a5b6c7d8e9f",
+  "name": "FinTech Connect Summit",
+  "photo": "https://example.com/logos/finconnect.jpg",
+  "description": "FinTech Connect Summit brings together industry leaders to discuss the future of digital banking, blockchain integration, and customer-centric financial solutions. Over two days, attendees will participate in panels, workshops, and networking events designed to foster collaboration and innovation.",
+  "websites": [
+    "https://finconnectsummit.com",
+    "https://tickets.finconnectsummit.com"
+  ],
+  "industry": ["Finance", "Technology"],
+  "location": "New York, NY",
+  "type": "CONFERENCE",
+  "created_at": 1690005600,
+  "org_id": "c3d4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+  "contact_info": {
+    "email": "info@finconnectsummit.com",
+    "phone": "+1-800-123-4567"
+  }
+}

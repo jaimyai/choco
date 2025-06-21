@@ -1,0 +1,22 @@
+{
+  "id": "b1a3c5d7-e89f-12d3-a456-426655440000",
+  "name": "Alice Johnson",
+  "last_updated": "1704067200",
+  "last_communication": "1704167200",
+  "created_at": "1703067200",
+  "importing": false,
+  "photo": "https://example.com/photos/alice.jpg",
+  "emails": ["alice.johnson@example.com", "ajohnson@startupco.com"],
+  "is_me": false,
+  "location": "San Francisco, CA",
+  "state": "CA",
+  "country_code": "US",
+  "phone_number": "+1-415-555-0101",
+  "research": "Contacted via email in January, awaiting response.",
+  "summary": "Early Stage Investor",
+  "long_summary": "Alice Johnson is a prominent early-stage investor focusing on fintech and healthtech startups. With over 15 years of venture capital experience, she has led investments in more than 30 companies, 12 of which have achieved successful exit events. Her expertise includes due diligence, market strategy, and growth advising.",
+  "linked_in": "https://linkedin.com/in/alicejohnson",
+  "linked_in_maybes": "alice_j@example.com",
+  "linked_in_followers": 3500,
+  "org_id": "org-123e4567-e89b-12d3-a456-426614174000"
+}

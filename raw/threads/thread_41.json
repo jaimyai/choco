@@ -1,0 +1,26 @@
+{
+  "id": "8f14e45f-e5e3-4f44-b1fd-1234567890ab",
+  "thread_id": "d3b07384-a058-4d92-b3c3-abcdef123456",
+  "content": {
+    "emails": {
+      "from": "jane.doe@acme.com",
+      "to": ["john.smith@acme.com"],
+      "subject": "Re: Meeting Confirmation",
+      "body": "Thanks for confirming the meeting time. See you at 2 PM in the main conference room.",
+      "date": "2024-02-15T09:00:00Z"
+    }
+  },
+  "summary": {},
+  "attachments": ["meeting-agenda.pdf"],
+  "subject": "Meeting Confirmation",
+  "org_id": "org-1a2b3c",
+  "user_id": "user-7890",
+  "type": "THREAD",
+  "date": "2024-02-15T09:00:00Z",
+  "organization": {
+    "id": "org-1a2b3c",
+    "name": "Acme Corp",
+    "type": "COMPANY",
+    "org_id": "org-1a2b3c"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1c2d3e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f",
+  "name": "Tech Innovators Summit 2024",
+  "photo": "https://example.com/logos/tis2024.png",
+  "description": "Tech Innovators Summit 2024 is an annual conference that brings together pioneers, entrepreneurs, and thought leaders in technology. Attendees will have the opportunity to engage in workshops, panel discussions, and networking events focusing on AI ethics, cybersecurity, and emerging startup ecosystems. The summit features keynote presentations from industry veterans, hands-on demonstrations of cutting-edge products, and mentorship sessions for early-stage founders. Throughout three days, participants can explore innovation pavilions, pitch competitions, and collaborate on open-source projects. The event aims to foster collaboration between academia, startups, and corporations, driving forward the next generation of technological breakthroughs. Special focus tracks include sustainable tech, healthtech solutions, and decentralized finance platforms. Past editions have attracted over 5,000 attendees from 50+ countries, making it a premier destination for technology enthusiasts worldwide.",
+  "websites": [
+    {
+      "url": "https://summit.techinnovators.com",
+      "type": "registration",
+      "primary": true
+    },
+    {
+      "url": "https://blog.techinnovators.com",
+      "type": "blog",
+      "primary": false
+    }
+  ],
+  "industry": "Technology",
+  "location": {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "address": "Downtown Expo Center, Hall B"
+  },
+  "type": "CONFERENCE",
+  "created_at": 1650000000,
+  "org_id": "f6e5d4c3-b2a1-0f9e-8d7c-6b5a4c3d2e1f",
+  "contact_info": {
+    "email": "contact@techinnovatorssummit.org",
+    "phone": "+1-312-555-0123"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "e5f6a7b8-c9d0-e1f2-a3b4-c5d6e7f8g9h0",
+  "eid": "evt-005",
+  "user_id": "55555555-6666-7777-8888-999999999999",
+  "org_id": "org-33445566-7788-99aa-bbcc-ddeeff001122",
+  "title": "Innovation Workshop",
+  "duration": 7200,
+  "start_time": "2024-05-05T10:00:00Z",
+  "end_time": "2024-05-05T12:00:00Z",
+  "is_owner": true,
+  "recording_mode": "auto",
+  "connectedEntityIds": ["team-lead", "facilitator", "note-taker"],
+  "link": "https://teams.microsoft.com/l/meetup-xyz",
+  "agenda": [
+    "Context setting",
+    "Ideation session",
+    "Idea clustering",
+    "Prioritization"
+  ],
+  "participants": [
+    {
+      "id": "team-lead",
+      "name": "Emma Li"
+    },
+    {
+      "id": "facilitator",
+      "name": "Carlos Ramirez"
+    },
+    {
+      "id": "note-taker",
+      "name": "Priya Patel"
+    }
+  ],
+  "content": "The workshop began with a brief overview of current product challenges. Participants brainstormed over thirty ideas in breakout groups. Each group presented its top three concepts, focusing on user engagement and scalability. We clustered similar ideas and voted on the most promising ones. The session concluded with the team prioritizing five key features for prototype development.",
+  "type": "EVENT",
+  "summary": "Brainstormed new product features and prioritized ideas for prototype development.",
+  "organization": {
+    "id": "org-33445566-7788-99aa-bbcc-ddeeff001122",
+    "name": "FutureLab",
+    "type": "COMPANY",
+    "org_id": "org-33445566-7788-99aa-bbcc-ddeeff001122"
+  }
+}

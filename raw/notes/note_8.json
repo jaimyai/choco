@@ -1,0 +1,31 @@
+{
+  "id": "b7d9e342-0c12-4d8f-b456-7c9e1f2a3b4c",
+  "org_id": "33333333-4444-5555-6666-777777777777",
+  "user_id": "323e4567-e89b-12d3-a456-426614174002",
+  "title": "Project Orion Update",
+  "content": [
+    {
+      "heading": "Progress",
+      "body": "Completed 60% of module development."
+    },
+    {
+      "heading": "Risks",
+      "body": "Potential delay due to resource reallocation."
+    },
+    {
+      "heading": "Next Steps",
+      "body": "Conduct performance testing and prepare deployment scripts."
+    }
+  ],
+  "timestamp": "2024-03-10T09:30:00Z",
+  "summary": "Module dev at 60%, risk of delay, testing next.",
+  "type": "NOTE",
+  "tags": ["project", "update", "orion"],
+  "priority": "Medium",
+  "organization": {
+    "id": "33333333-4444-5555-6666-777777777777",
+    "name": "EduNext Partners",
+    "type": "COMPANY",
+    "org_id": "33333333-4444-5555-6666-777777777777"
+  }
+}

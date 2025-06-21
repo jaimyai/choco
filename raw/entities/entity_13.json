@@ -1,0 +1,47 @@
+{
+  "id": "d3c5e7f9-a01b-34e5-c678-426655440002",
+  "name": "Carla Martinez",
+  "last_updated": "1704200000",
+  "last_communication": "1704300000",
+  "created_at": "1703200000",
+  "importing": false,
+  "photo": "https://example.com/photos/carla.jpg",
+  "emails": ["carla.martinez@examplecorp.com"],
+  "is_me": false,
+  "location": "Austin, TX",
+  "state": "TX",
+  "country_code": "US",
+  "phone_number": "+1-512-555-0110",
+  "research": [
+    {
+      "date": "2023-12-10",
+      "result": "Introductory call scheduled"
+    },
+    {
+      "date": "2024-01-05",
+      "result": "Sent proposal"
+    },
+    {
+      "date": "2024-02-20",
+      "result": "Follow-up pending"
+    }
+  ],
+  "summary": "Product Manager at ExampleCorp with focus on SaaS platforms and user experience optimization.",
+  "long_summary": "Carla Martinez oversees cross-functional teams to deliver enterprise software solutions. She has a track record of improving user retention by 30% through data-driven features. Skilled in Agile methodologies and stakeholder management.",
+  "linked_in": "https://linkedin.com/in/carlamartinez",
+  "linked_in_followers": 1800,
+  "org_id": "org-323e4567-e89b-12d3-a456-426614174002",
+  "skills": ["Product Strategy", "Agile", "UX Design", "Data Analysis"],
+  "education": [
+    {
+      "institution": "University of Texas",
+      "degree": "MBA",
+      "year": 2015
+    },
+    {
+      "institution": "Texas A&M",
+      "degree": "BS Computer Science",
+      "year": 2010
+    }
+  ]
+}

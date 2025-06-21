@@ -1,0 +1,29 @@
+{
+  "id": "123e4567-e89b-12d3-a456-426614174000",
+  "org_id": "22222222-3333-4444-5555-666666666666",
+  "user_id": "ffffffff-aaaa-bbbb-cccc-ddddeeeeffff",
+  "title": "Project X Kickoff Meeting",
+  "content": {
+    "text": "Discussed project scope, milestones, and responsibilities.",
+    "format": "markdown",
+    "tags": ["kickoff", "Project X", "meeting"]
+  },
+  "timestamp": "2024-03-05T14:30:00Z",
+  "summary": {
+    "key_points": ["Define scope", "Assign tasks", "Set deadlines"],
+    "action_items": ["Alice to draft timeline", "Bob to gather requirements"],
+    "follow_up": "Next meeting on 2024-03-12"
+  },
+  "type": "NOTE",
+  "organization": {
+    "id": "22222222-3333-4444-5555-666666666666",
+    "name": "Tech Solutions Inc.",
+    "type": "COMPANY",
+    "org_id": "22222222-3333-4444-5555-666666666666",
+    "description": "A software development firm specializing in cloud solutions.",
+    "industry": "Technology"
+  },
+  "tags": ["internal", "high-priority"],
+  "priority": "High",
+  "category": "Meeting"
+}

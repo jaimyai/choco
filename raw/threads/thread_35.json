@@ -1,0 +1,61 @@
+{
+  "id": "923e4567-e89b-12d3-a456-426614174008",
+  "thread_id": "a23e4567-e89b-12d3-a456-426614174009",
+  "content": {
+    "emails": [
+      {
+        "from": "sales@agency.com",
+        "to": ["client@bigco.com"],
+        "subject": "Project Kickoff and Requirements",
+        "body": "Hello Team, excited to start the project. Please review the attached requirements doc and provide feedback.",
+        "date": "2024-05-05T14:20:00Z"
+      },
+      {
+        "from": "client@bigco.com",
+        "to": ["sales@agency.com"],
+        "subject": "Re: Project Kickoff and Requirements",
+        "body": "Thanks for the document. Here are our comments: clarify section 3, extend timeline by 2 weeks.",
+        "date": "2024-05-05T15:00:00Z"
+      },
+      {
+        "from": "sales@agency.com",
+        "to": ["client@bigco.com"],
+        "subject": "Re: Project Kickoff and Requirements",
+        "body": "We will update section 3 and adjust the schedule. Delivery will be on May 20th.",
+        "date": "2024-05-05T16:10:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": [
+      "Review requirements document",
+      "Feedback on section 3",
+      "Timeline extension agreed"
+    ],
+    "sentiment": "positive"
+  },
+  "attachments": [
+    {
+      "filename": "requirements.pdf",
+      "uploaded_by": "sales@agency.com"
+    },
+    {
+      "filename": "terms.docx",
+      "uploaded_by": "sales@agency.com"
+    }
+  ],
+  "subject": "Project Kickoff and Requirements",
+  "org_id": "b23e4567-e89b-12d3-a456-42661417400a",
+  "user_id": "c23e4567-e89b-12d3-a456-42661417400b",
+  "type": "THREAD",
+  "date": "2024-05-05T14:20:00Z",
+  "organization": {
+    "id": "b23e4567-e89b-12d3-a456-42661417400a",
+    "name": "BigCo Corp",
+    "type": "CLIENT",
+    "org_id": "b23e4567-e89b-12d3-a456-42661417400a",
+    "website": "https://bigco.com",
+    "employees": 5000,
+    "location": "San Francisco, CA"
+  }
+}

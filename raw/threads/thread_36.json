@@ -1,0 +1,26 @@
+{
+  "id": "1a2b3c4d-5e6f-7a8b-9c0d-ef12345678901",
+  "thread_id": "thread-0001-2345-6789-0abc-def123456789",
+  "content": {
+    "emails": {
+      "from": "manager@example.com",
+      "to": ["team@example.com"],
+      "subject": "Meeting Request: Q1 Planning Session",
+      "body": "Hi team, can we schedule a planning session for Q1 next week? Please let me know your availability. Thanks!",
+      "date": "2024-02-15T09:30:00Z"
+    }
+  },
+  "summary": {},
+  "attachments": ["agenda.pdf"],
+  "subject": "Meeting Request: Q1 Planning Session",
+  "org_id": "org-1111-2222-3333-4444-555555555555",
+  "user_id": "user-1111-2222-3333-4444-666666666666",
+  "type": "THREAD",
+  "date": "2024-02-15T09:30:00Z",
+  "organization": {
+    "id": "org-1111-2222-3333-4444-555555555555",
+    "name": "AlphaCorp",
+    "type": "COMPANY",
+    "org_id": "org-1111-2222-3333-4444-555555555555"
+  }
+}

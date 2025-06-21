@@ -1,0 +1,29 @@
+{
+  "id": "a3c9b8f7-4d21-4bcd-a678-9e0a1b2c3d4e",
+  "org_id": "22222222-3333-4444-5555-666666666666",
+  "user_id": "223e4567-e89b-12d3-a456-426614174001",
+  "title": "Weekly Sync Meeting",
+  "content": {
+    "text": "Discuss project milestones and blockers.\nFinalize design specs.",
+    "format": "plain",
+    "tags": ["meeting", "sync"]
+  },
+  "timestamp": "2024-02-05T10:00:00Z",
+  "summary": {
+    "key_points": [
+      "Reviewed milestone 2",
+      "Identified blockers in API integration"
+    ],
+    "action_items": ["John to fix auth bug", "Anna to update UI mockups"],
+    "follow_up": "Next sync on Monday"
+  },
+  "type": "NOTE",
+  "organization": {
+    "id": "22222222-3333-4444-5555-666666666666",
+    "org_id": "22222222-3333-4444-5555-666666666666",
+    "name": "TechCorp Solutions",
+    "type": "COMPANY",
+    "description": "Leading provider of enterprise tech solutions.",
+    "industry": "Software"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "aab32389-2f02-47ea-9bdc-0fedcba98765",
+  "thread_id": "37b51d19-8fb8-4ab6-b401-fedcba987654",
+  "content": {
+    "emails": [
+      {
+        "from": "smith.manager@techsolutions.com",
+        "to": ["dev1@techsolutions.com", "dev2@techsolutions.com"],
+        "subject": "Project Alpha Kickoff",
+        "body": "Good morning team. We are excited to start Project Alpha next week. Please review the initial project charter attached. We will discuss milestones and deliverables in our kickoff call on Monday. Let me know if you have any questions beforehand.",
+        "date": "2024-03-01T08:00:00Z"
+      },
+      {
+        "from": "dev1@techsolutions.com",
+        "to": ["smith.manager@techsolutions.com"],
+        "cc": ["dev2@techsolutions.com"],
+        "subject": "Re: Project Alpha Kickoff",
+        "body": "Hi team. Thanks for the update. I have reviewed the charter and will prepare a list of questions ahead of the call. Looking forward to the kickoff.",
+        "date": "2024-03-01T09:15:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": ["Define milestones", "Assign tasks", "Set deadlines"],
+    "action_items": [
+      "Complete requirements doc by Mar 20",
+      "Schedule follow-up meeting"
+    ],
+    "sentiment": "positive"
+  },
+  "attachments": [
+    {
+      "filename": "project-plan.xlsx",
+      "size": 102400
+    },
+    {
+      "filename": "budget.pdf",
+      "size": 204800
+    }
+  ],
+  "subject": "Project Alpha Kickoff",
+  "org_id": "org-2b3c4d",
+  "user_id": "user-4567",
+  "type": "THREAD",
+  "date": "2024-03-01T08:00:00Z",
+  "organization": {
+    "id": "org-2b3c4d",
+    "name": "Tech Solutions Ltd",
+    "type": "COMPANY",
+    "org_id": "org-2b3c4d",
+    "description": "A leading provider of tech solutions",
+    "industry": "Software",
+    "website": "https://www.techsolutions.com"
+  }
+}

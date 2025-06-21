@@ -1,0 +1,37 @@
+{
+  "id": "d1e2f3a4-b5c6-d7e8-f9a0-b1c2d3e4f5a6",
+  "org_id": "c1d2e3f4-a5b6-7c8d-9e0f-1a2b3c4d5e6f",
+  "user_id": "g1h2i3j4-k5l6-m7n8-o9p0-q1r2s3t4u5v6",
+  "title": "Candidate Interview Notes",
+  "content": {
+    "format": "list",
+    "notes": [
+      "Candidate has 5 years of backend development experience.",
+      "Strong knowledge in Node.js and Python.",
+      "Excellent problem-solving skills demonstrated in coding test.",
+      "Limited experience with cloud platforms."
+    ]
+  },
+  "timestamp": "2024-06-01T09:00:00Z",
+  "summary": {
+    "key_points": [
+      "Backend developer with strong Node.js skills",
+      "Needs mentorship on cloud technologies"
+    ],
+    "action_items": [
+      "Send technical evaluation feedback",
+      "Schedule second interview with cloud architect"
+    ],
+    "follow_up": "Check candidate availability for next week"
+  },
+  "type": "NOTE",
+  "organization": {
+    "id": "c1d2e3f4-a5b6-7c8d-9e0f-1a2b3c4d5e6f",
+    "name": "Creative Labs LLC",
+    "type": "COMPANY",
+    "org_id": "c1d2e3f4-a5b6-7c8d-9e0f-1a2b3c4d5e6f",
+    "description": "Designs interactive media experiences.",
+    "industry": "Entertainment"
+  },
+  "related_entities": ["candidate-789", "recruiter-456"]
+}

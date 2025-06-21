@@ -1,0 +1,35 @@
+{
+  "id": "9b2d4f51-2020-4e10-9a6f-6a7ccc2e4aec",
+  "name": "Bob Lee",
+  "last_updated": "1704500000",
+  "last_communication": "1704586400",
+  "created_at": "1703707200",
+  "importing": false,
+  "photo": "https://example.com/photos/bob_lee.jpg",
+  "emails": [
+    {
+      "email": "bob.lee@venturex.com",
+      "type": "work",
+      "verified": true
+    }
+  ],
+  "is_me": false,
+  "location": "Palo Alto, CA",
+  "state": "CA",
+  "country_code": "US",
+  "phone_number": "+1-650-555-0199",
+  "research": "Investor in early-stage SaaS startups; backed four Series A rounds in the past two years.",
+  "summary": "Early Stage Investor",
+  "long_summary": "Bob has been investing in technology startups for over 8 years. He focuses on SaaS, AI, and enterprise software. He mentors founders through accelerator programs and speaks regularly at industry events.",
+  "linked_in": "https://linkedin.com/in/boblee",
+  "linked_in_maybes": "blee@venturex.com",
+  "linked_in_followers": 2500,
+  "org_id": "org-004",
+  "education": [
+    "M.B.A., Stanford Graduate School of Business",
+    "B.S., Electrical Engineering, MIT"
+  ],
+  "social_media": {
+    "twitter": "https://twitter.com/bobleeinvests"
+  }
+}

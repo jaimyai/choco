@@ -1,0 +1,36 @@
+{
+  "id": "c82e1adb-2b6f-4c9d-b781-d2f3a4b5c6d7",
+  "name": "GreenFuture Initiative",
+  "photo": "https://example.com/logos/greenfuture.png",
+  "description": {
+    "overview": "A nonprofit organization dedicated to environmental conservation and sustainable development.",
+    "mission": "To empower communities worldwide through education and green technology.",
+    "values": ["Integrity", "Innovation", "Collaboration", "Stewardship"],
+    "history": "Founded in 2005, GreenFuture Initiative has implemented over 200 projects in 30 countries."
+  },
+  "websites": [
+    {
+      "url": "https://greenfuture.org",
+      "type": "primary",
+      "primary": true
+    },
+    {
+      "url": "https://donate.greenfuture.org",
+      "type": "donation",
+      "primary": false
+    }
+  ],
+  "industry": ["Environmental Services", "Nonprofit"],
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA"
+  },
+  "type": "INSTITUTION",
+  "created_at": 1420070400,
+  "org_id": "org-987e6543-b21a-3c4d-e567-726551174001",
+  "funding": {
+    "grants": 2000000,
+    "donations": 500000
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "4c5d7df2-9e6a-4f42-bcef-6d9f3c7a1111",
+  "name": "David Nguyen",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photos/david.jpg",
+  "emails": [
+    {
+      "email": "david.nguyen@consult.com",
+      "type": "work",
+      "verified": true
+    }
+  ],
+  "is_me": false,
+  "location": "Seattle, WA",
+  "state": "WA",
+  "country_code": "US",
+  "phone_number": "+1-555-3456",
+  "research": {
+    "notes": "Had a 1-hour call on Docker and Kubernetes.",
+    "sources": ["LinkedIn InMail", "Conference talk recordings"],
+    "last_researched": "1704240000"
+  },
+  "summary": "Senior IT consultant with expertise in containerization and cloud migrations.",
+  "long_summary": {
+    "background": "Over 10 years in IT consulting across sectors.",
+    "expertise": "Kubernetes, Docker, AWS, GCP",
+    "achievements": "Helped migrate 50+ legacy applications to cloud; recognized as top consultant in 2021."
+  },
+  "linked_in": "https://linkedin.com/in/davidnguyen",
+  "linked_in_maybes": "dnguyen@maybe.io",
+  "linked_in_followers": 2300,
+  "org_id": "org-4444",
+  "social_media": {
+    "twitter": "@davidnguyen_it",
+    "github": "dnguyen"
+  }
+}

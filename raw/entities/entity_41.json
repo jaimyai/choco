@@ -1,0 +1,31 @@
+{
+  "id": "a3dcb4d2-b2f1-4d03-9c5a-2a1c9b32fabc",
+  "name": "Alicia Chen",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photos/alicia.jpg",
+  "emails": ["alicia.chen@venturecap.com", "a.chen@gmail.com"],
+  "is_me": false,
+  "location": "San Francisco, CA",
+  "state": "CA",
+  "country_code": "US",
+  "phone_number": "+1-415-555-0198",
+  "research": "Reviewed Q2 portfolio performance and original pitch decks.",
+  "summary": "Early Stage Investor at Venture Capital Firm focusing on tech startups.",
+  "long_summary": {
+    "background": "10 years in venture capital",
+    "expertise": "SaaS, AI, FinTech",
+    "achievements": "Led investments in 20+ seed rounds, 5 exits"
+  },
+  "linked_in": "https://linkedin.com/in/alicia-chen",
+  "linked_in_maybes": "alicia.chen@venturecap.com",
+  "linked_in_followers": 4200,
+  "org_id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+  "social_media": {
+    "twitter": "@aliciaVC",
+    "angelList": "alicia_chen"
+  },
+  "interests": ["AI", "Blockchain", "Sustainable Tech"]
+}

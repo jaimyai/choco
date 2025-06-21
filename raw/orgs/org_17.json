@@ -1,0 +1,35 @@
+{
+  "id": "d9b1c2a3-54e6-4f7a-b8c2-3d4e5f6a7b8c",
+  "name": "NovaBank",
+  "photo": "https://assets.novabank.com/logo.svg",
+  "description": {
+    "overview": "NovaBank is a leading financial institution offering a full suite of banking and investment services.",
+    "mission": "To empower individuals and businesses with innovative and secure financial solutions.",
+    "history": "Founded in 1952, NovaBank has grown from a local savings bank to a multinational corporation serving millions of customers worldwide."
+  },
+  "websites": [
+    {
+      "url": "https://www.novabank.com",
+      "type": "corporate",
+      "primary": true
+    },
+    {
+      "url": "https://invest.novabank.com",
+      "type": "investor-relations",
+      "primary": false
+    }
+  ],
+  "industry": {
+    "primary": "Finance",
+    "secondary": "FinTech"
+  },
+  "location": {
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "address": "123 Wall Street"
+  },
+  "type": "COMPANY",
+  "created_at": 1661990400,
+  "org_id": "0f1e2d3c-4b5a-6978-8c9d-e0f1a2b3c4d5"
+}

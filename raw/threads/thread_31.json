@@ -1,0 +1,25 @@
+{
+  "id": "4a1c9bde-1234-4e8b-9f47-9a6f7602d3e7",
+  "thread_id": "9f8c7b6a-2345-4d8f-9e7c-3b2a1b0c4d5e",
+  "content": {
+    "emails": {
+      "from": "pm@acme.com",
+      "to": ["team@example.com"],
+      "subject": "Meeting Request: Q2 Planning",
+      "body": "Hi team, please join me for a Q2 planning meeting tomorrow at 10 AM. Agenda attached.",
+      "date": "2024-03-15T09:00:00Z"
+    }
+  },
+  "summary": {},
+  "attachments": ["agenda.pdf"],
+  "subject": "Meeting Request: Q2 Planning",
+  "org_id": "5c2f1a3e-6789-4b0c-8a12-3d4e5f6a7b8c",
+  "user_id": "1d2e3f4a-5b6c-7d8e-9f0a-1b2c3d4e5f6a",
+  "type": "THREAD",
+  "date": "2024-03-15T09:00:00Z",
+  "organization": {
+    "id": "5c2f1a3e-6789-4b0c-8a12-3d4e5f6a7b8c",
+    "name": "Acme Corp",
+    "type": "COMPANY"
+  }
+}

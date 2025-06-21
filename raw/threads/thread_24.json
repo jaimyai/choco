@@ -1,0 +1,43 @@
+{
+  "id": "e5f6a7b8-c9d0-1e2f-3a4b-5c6d7e8f9a0b",
+  "thread_id": "thread-4444-5555-6666",
+  "content": {
+    "thread": {
+      "thread_id": "thread-4444-5555-6666",
+      "emails": [
+        {
+          "from": "john@example.com",
+          "to": ["sara@example.com"],
+          "subject": "Design Review Follow-up",
+          "body": "Hi Sara,\n\nThanks for the review today. Attached are the minutes and next steps.",
+          "date": "2024-05-10T14:00:00Z"
+        },
+        {
+          "from": "sara@example.com",
+          "to": ["john@example.com"],
+          "subject": "Re: Design Review Follow-up",
+          "body": "Thanks John, I'll review the minutes and get back to you by Monday.",
+          "date": "2024-05-10T15:30:00Z"
+        }
+      ]
+    }
+  },
+  "participants": ["john@example.com", "sara@example.com"],
+  "summary": {},
+  "attachments": ["minutes.pdf", "action_items.txt"],
+  "subject": "Re: Design Review Follow-up",
+  "org_id": "org-4567-8901",
+  "user_id": "user-4444-5555",
+  "type": "THREAD",
+  "date": "2024-05-10T15:30:00Z",
+  "organization": {
+    "id": "org-4567-8901",
+    "name": "Umbrella Corp",
+    "type": "COMPANY",
+    "org_id": "org-4567-8901",
+    "location": "Raccoon City",
+    "industry": "Biotechnology",
+    "description": "Leading biotech research",
+    "website": "https://umbrella.example.com"
+  }
+}

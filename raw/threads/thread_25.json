@@ -1,0 +1,51 @@
+{
+  "id": "f6a7b8c9-d0e1-2f3a-4b5c-6d7e8f9a0b1c",
+  "thread_id": "thread-5555-6666-7777",
+  "content": {
+    "emails": [
+      {
+        "from": "hr@example.com",
+        "to": ["team@example.com"],
+        "subject": "Team Retreat Planning",
+        "body": "Hello Team,\n\nWe are planning a retreat for the team next quarter. Please suggest dates and activities.",
+        "date": "2024-06-01T09:00:00Z"
+      },
+      {
+        "from": "team@example.com",
+        "to": ["hr@example.com"],
+        "subject": "Re: Team Retreat Planning",
+        "body": "Hi,\n\nPrefer dates between July 10-15. Activities: hiking, workshops, and team-building games.",
+        "date": "2024-06-01T10:15:00Z"
+      },
+      {
+        "from": "hr@example.com",
+        "to": ["team@example.com"],
+        "subject": "Re: Team Retreat Planning - Venue Options",
+        "body": "I've shortlisted two venues: Mountain Lodge Retreat and Lakeside Resort. Thoughts?",
+        "date": "2024-06-02T08:30:00Z"
+      },
+      {
+        "from": "team@example.com",
+        "to": ["hr@example.com"],
+        "subject": "Re: Team Retreat Planning - Final Preferences",
+        "body": "Lakeside Resort is preferred due to better facilities and budget compatibility.",
+        "date": "2024-06-02T11:45:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "action_items": ["Finalize date", "Book Lakeside Resort", "Prepare agenda"]
+  },
+  "attachments": ["presentation.pptx"],
+  "subject": "Team Retreat Planning",
+  "org_id": "org-5678-9012",
+  "user_id": "user-5555-6666",
+  "type": "THREAD",
+  "date": "2024-06-02T11:45:00Z",
+  "organization": {
+    "id": "org-5678-9012",
+    "name": "Stark Industries",
+    "type": "COMPANY",
+    "org_id": "org-5678-9012"
+  }
+}

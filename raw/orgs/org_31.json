@@ -1,0 +1,25 @@
+{
+  "id": "b47d0cde-8a1b-4f2f-9f3a-8d1b2c3e4f50",
+  "name": "Nimbus AI",
+  "photo": "https://example.com/logos/nimbus.png",
+  "description": "Nimbus AI develops intelligent automation tools that streamline business workflows with machine learning and natural language processing.",
+  "websites": ["https://nimbus.ai", "https://app.nimbus.ai"],
+  "industry": "Technology",
+  "location": "Austin, TX",
+  "type": "COMPANY",
+  "created_at": 1625097600,
+  "org_id": "org-123e4567-e89b-12d3-a456-426614174000",
+  "founded": 2018,
+  "size": "10-50 employees",
+  "social_media": [
+    {
+      "platform": "twitter",
+      "handle": "@NimbusAI",
+      "url": "https://twitter.com/NimbusAI"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://linkedin.com/company/nimbus-ai"
+    }
+  ]
+}

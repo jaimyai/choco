@@ -1,0 +1,12 @@
+{
+  "id": "eed117e8-3f5a-4d1e-9b2d-5aef0a8c2f9b",
+  "name": "NeuroSync AI",
+  "photo": "https://example.com/logos/neurosync.png",
+  "description": "NeuroSync AI is a startup leveraging machine learning to decode neural signals and power advanced brain-computer interfaces.",
+  "websites": ["https://neurosync.ai", "https://blog.neurosync.ai"],
+  "industry": "Technology",
+  "location": "San Francisco, CA",
+  "type": "COMPANY",
+  "created_at": 1706758400,
+  "org_id": "a3bf1c99-4e8d-4fbc-80ad-1bd8aab7a7c3"
+}

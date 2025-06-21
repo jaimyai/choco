@@ -1,0 +1,23 @@
+{
+  "id": "e3bb8fa0-df1a-4b32-9c04-2f4a7cb70961",
+  "eid": "evt-1001",
+  "user_id": "a1d2c3f4-5678-90ab-cdef-1234567890ab",
+  "org_id": "org-12345678-90ab-cdef-1234-567890abcdef",
+  "title": "Daily Standup Meeting",
+  "duration": 900,
+  "start_time": "2024-02-05T09:00:00Z",
+  "end_time": "2024-02-05T09:15:00Z",
+  "is_owner": true,
+  "recording_mode": "manual",
+  "connectedEntityIds": ["proj-abc123", "user-xyz456"],
+  "link": "https://meet.google.com/standup-123",
+  "content": "Quick check-in: team members shared status updates. Alice reported progress on the UI redesign. Bob raised a blocker on the API integration. Carol outlined next steps and deadlines.",
+  "type": "EVENT",
+  "summary": "Daily updates on tasks, blockers identified, and action items assigned.",
+  "organization": {
+    "id": "org-12345678-90ab-cdef-1234-567890abcdef",
+    "name": "Acme Corp",
+    "type": "COMPANY",
+    "org_id": "org-12345678-90ab-cdef-1234-567890abcdef"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "data": [
+    "The note 'Server Migration Reminder' outlines a scheduled server migration on April 20th that requires backing up all databases.",
+    "The note 'Server Migration Reminder' instructs notifying the devops team prior to carrying out the server migration.",
+    "The note 'Server Migration Reminder' emphasizes checking compatibility of custom scripts before the migration.",
+    "The note 'Server Migration Reminder' identifies sending a reminder email about the migration as a key action item.",
+    "The note 'Server Migration Reminder' identifies verifying script compatibility as a key action item.",
+    "The note 'Server Migration Reminder' calls for confirming backup integrity after completing the migration as a follow-up task."
+  ]
+}

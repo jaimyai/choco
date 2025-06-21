@@ -1,0 +1,49 @@
+{
+  "id": "c73e2a19-8f5b-4d2e-9c3a-1f7b6d8e4c2a",
+  "thread_id": "e1f2d3c4-b5a6-7d8e-9f0a-1b2c3d4e5f6a",
+  "content": {
+    "participants": [
+      "george@example.com",
+      "helen@example.com",
+      "ian@example.com"
+    ],
+    "cc": ["jenny@example.com"],
+    "bcc": ["kate@example.com"],
+    "emails": [
+      {
+        "from": "george@example.com",
+        "to": ["helen@example.com"],
+        "subject": "Weekly Sync Notes",
+        "body": "Helen,\n\nAttached are the notes from today's weekly sync. Please review and let me know if I missed anything.\n\nCheers,\nGeorge",
+        "date": "2024-04-02T11:00:00Z"
+      },
+      {
+        "from": "helen@example.com",
+        "to": ["george@example.com", "ian@example.com"],
+        "subject": "Re: Weekly Sync Notes",
+        "body": "Thanks, George. I added a comment about the deployment timeline. Ian, could you verify the server readiness?\n\nBest,\nHelen",
+        "date": "2024-04-02T11:15:00Z"
+      },
+      {
+        "from": "ian@example.com",
+        "to": ["helen@example.com", "george@example.com"],
+        "subject": "Re: Weekly Sync Notes",
+        "body": "Helen,\n\nServer is configured and undergoing stress tests today. Should be ready by end of day.\n\nIan",
+        "date": "2024-04-02T12:30:00Z"
+      }
+    ]
+  },
+  "summary": {},
+  "attachments": ["notes.txt", "diagram.png"],
+  "subject": "Weekly Sync Notes",
+  "org_id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+  "user_id": "1f2e3d4c-5b6a-7c8d-9e0f-1a2b3c4d5e6f",
+  "type": "THREAD",
+  "date": "2024-04-02T12:30:00Z",
+  "organization": {
+    "id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+    "name": "Gamma Technologies",
+    "type": "COMPANY",
+    "org_id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d"
+  }
+}

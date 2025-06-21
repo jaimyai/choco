@@ -1,0 +1,16 @@
+{
+  "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+  "org_id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+  "user_id": "9f8e7d6c-5b4a-3e2f-1d0c-9b8a7c6d5e4f",
+  "title": "Server Maintenance Reminder",
+  "content": "Ensure to reboot the database server on Sunday at 2 AM to apply security patches.",
+  "timestamp": "2024-02-10T14:30:00Z",
+  "summary": "Reminder to reboot and patch the database server.",
+  "type": "NOTE",
+  "organization": {
+    "id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
+    "name": "Acme Corp",
+    "type": "COMPANY",
+    "org_id": "0a1b2c3d-4e5f-6a7b-8c9d-0e1f2a3b4c5d"
+  }
+}

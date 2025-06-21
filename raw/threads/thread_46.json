@@ -1,0 +1,27 @@
+{
+  "id": "5d2f3b8e-8abc-4d7d-9e12-3a3c2a3b4c5d",
+  "thread_id": "7a9e4c1b-2f3d-4f6a-b7c8-9d0e1f2a3b4c",
+  "content": {
+    "email": {
+      "from": "teamlead@acme.com",
+      "to": ["devteam@acme.com"],
+      "subject": "Weekly team sync update",
+      "body": "Hi team,\\nHere's a quick update: we completed the API integration and started UI testing. Please share your test results by EOD tomorrow.\\nThanks,\\nAlice",
+      "date": "2024-06-10T09:15:00Z"
+    }
+  },
+  "summary": {},
+  "attachments": ["status.docx"],
+  "subject": "Weekly team sync update",
+  "org_id": "45f6b7e8-9a0b-4c1d-2e3f-4a5b6c7d8e9f",
+  "user_id": "a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+  "type": "THREAD",
+  "date": "2024-06-10T09:15:00Z",
+  "organization": {
+    "id": "45f6b7e8-9a0b-4c1d-2e3f-4a5b6c7d8e9f",
+    "name": "Acme Corp",
+    "type": "COMPANY",
+    "org_id": "45f6b7e8-9a0b-4c1d-2e3f-4a5b6c7d8e9f",
+    "industry": "Technology"
+  }
+}

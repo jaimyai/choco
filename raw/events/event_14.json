@@ -1,0 +1,36 @@
+{
+  "id": "5d6f7e8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a",
+  "eid": "evt-1004",
+  "user_id": "user-11122233-4455-6677-8899-aabbccddeeff",
+  "org_id": "org-3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+  "title": "Q1 Results Presentation",
+  "duration": 5400,
+  "start_time": "2024-03-05T13:00:00Z",
+  "end_time": "2024-03-05T14:30:00Z",
+  "is_owner": false,
+  "recording_mode": "stream",
+  "connectedEntityIds": [
+    {
+      "id": "slid-001",
+      "name": "Q1 Results",
+      "role": "SlideDeck"
+    },
+    {
+      "id": "vid-002",
+      "name": "Promo Video",
+      "role": "Media"
+    }
+  ],
+  "link": "https://meet.google.com/present-9876",
+  "content": "The presentation covered Q1 revenue growth, achieving a 15% increase compared to last year. We analyzed sales performance across regions, noting strong gains in EMEA and APAC markets. Marketing initiatives drove higher lead conversion rates. Challenges included supply chain delays affecting product availability. We concluded with a plan to optimize logistics and expand digital marketing efforts.",
+  "type": "EVENT",
+  "summary": "Delivered Q1 financial performance, regional sales analysis, and strategic initiatives for supply chain optimization.",
+  "organization": {
+    "id": "org-3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+    "name": "Initech",
+    "type": "COMPANY",
+    "org_id": "org-3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+    "location": "New York, USA"
+  },
+  "recording_url": "https://cdn.company.com/recordings/evt-1004.mp4"
+}

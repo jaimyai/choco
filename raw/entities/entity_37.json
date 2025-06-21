@@ -1,0 +1,47 @@
+{
+  "id": "2a3e5bdc-7f48-4d20-9cbe-8d7f1a6e9999",
+  "name": "Bob Smith",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photos/bob.jpg",
+  "emails": [
+    {
+      "email": "bsmith@corporate.com",
+      "type": "work",
+      "verified": true
+    },
+    {
+      "email": "bob.smith@gmail.com",
+      "type": "personal",
+      "verified": false
+    }
+  ],
+  "is_me": false,
+  "location": "San Francisco, CA",
+  "state": "CA",
+  "country_code": "US",
+  "phone_number": "+1-555-5678",
+  "research": {
+    "notes": "Met at conference. Prefers Zoom calls.",
+    "sources": ["Event 2023 brochure", "Referral from Sarah Lee"],
+    "last_researched": "1704153600"
+  },
+  "summary": {
+    "title": "Chief Technology Officer",
+    "company": "TechCorp",
+    "industry": "Enterprise Software",
+    "experience": "20 years"
+  },
+  "long_summary": {
+    "background": "Graduated from MIT with a degree in Computer Science.",
+    "expertise": "Cloud computing, cybersecurity, large-scale systems.",
+    "achievements": "Scaled platform to 1M users; Published 10 papers."
+  },
+  "linked_in": "https://linkedin.com/in/bobsmith",
+  "linked_in_maybes": "contact@maybebob.com",
+  "linked_in_followers": 4200,
+  "org_id": "org-2222",
+  "skills": ["Leadership", "Strategy", "Cloud Architecture"]
+}

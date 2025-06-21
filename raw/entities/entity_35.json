@@ -1,0 +1,44 @@
+{
+  "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "name": "Maria Garcia",
+  "last_updated": "1704600000",
+  "last_communication": "1704686400",
+  "created_at": "1703620800",
+  "importing": false,
+  "photo": "https://example.com/photos/maria_garcia.jpg",
+  "emails": ["maria.garcia@example.es"],
+  "is_me": false,
+  "location": "Madrid, Spain",
+  "country_code": "ES",
+  "phone_number": "+34-91-555-3344",
+  "research": [
+    {
+      "notes": "Spoke on consulting track at TechSummit 2021",
+      "sources": ["TechSummit archives"],
+      "last_researched": "1704500000"
+    },
+    {
+      "notes": "Published article on digital transformation",
+      "sources": ["Consulting Today"],
+      "last_researched": "1704550000"
+    }
+  ],
+  "summary": {
+    "title": "Management Consultant",
+    "company": "StratInsights",
+    "industry": "Consulting",
+    "experience": 7
+  },
+  "long_summary": {
+    "background": "Specializes in operational efficiency and digital strategy",
+    "expertise": "Large-scale transformation projects",
+    "achievements": "Improved client ROI by 30% on average over multiple engagements"
+  },
+  "org_id": "org-005",
+  "skills": ["Strategy", "Process Optimization", "Change Management"],
+  "education": [
+    "M.Sc. Management, ESADE Business School",
+    "B.A. Economics, Universidad Complutense de Madrid"
+  ],
+  "time_zone": "Europe/Madrid"
+}

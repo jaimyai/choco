@@ -1,0 +1,51 @@
+{
+  "id": "c1d2e3f4-a5b6-7890-cdef-1234567890ab",
+  "eid": "evt-1003",
+  "user_id": "c3d4e5f6-7890-abcd-ef12-34567890abcd",
+  "org_id": "org-34567890-abcd-ef12-3456-7890abcdef12",
+  "title": "API Integration Overview",
+  "duration": 5400,
+  "start_time": "2024-04-15T11:00:00Z",
+  "end_time": "2024-04-15T12:30:00Z",
+  "is_owner": true,
+  "recording_mode": "auto",
+  "connectedEntityIds": ["svc-api", "db-service", "auth-module"],
+  "link": "https://meet.google.com/api-overview-789",
+  "agenda": ["Introduction", "Authentication Flow", "Error Handling", "Q&A"],
+  "transcript_format": "segments",
+  "content": [
+    {
+      "start": "00:00",
+      "end": "02:15",
+      "text": "Introduction to the API architecture and use cases."
+    },
+    {
+      "start": "02:16",
+      "end": "10:00",
+      "text": "Deep dive into authentication mechanisms, OAuth 2.0 and JWT tokens."
+    },
+    {
+      "start": "10:01",
+      "end": "30:00",
+      "text": "Error handling strategies and best practices for retry logic."
+    },
+    {
+      "start": "30:01",
+      "end": "45:00",
+      "text": "Live demonstration of API calls and response parsing."
+    },
+    {
+      "start": "45:01",
+      "end": "90:00",
+      "text": "Open Q&A and discussion on integration challenges."
+    }
+  ],
+  "type": "EVENT",
+  "summary": "A technical presentation covering API design, authentication flows, error handling, and live demos.",
+  "organization": {
+    "id": "org-34567890-abcd-ef12-3456-7890abcdef12",
+    "name": "DevOps Hub",
+    "type": "COMPANY",
+    "org_id": "org-34567890-abcd-ef12-3456-7890abcdef12"
+  }
+}

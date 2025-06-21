@@ -1,0 +1,47 @@
+{
+  "id": "e4d6f801-b12c-45f6-d789-426655440003",
+  "name": "David Chen",
+  "last_updated": "1704500000",
+  "last_communication": "1704600000",
+  "created_at": "1703500000",
+  "importing": false,
+  "photo": "https://example.com/photos/david.jpg",
+  "emails": [
+    {
+      "email": "david.chen@globalcorp.com",
+      "type": "work",
+      "verified": true
+    }
+  ],
+  "is_me": false,
+  "location": "Chicago, IL",
+  "state": "IL",
+  "country_code": "US",
+  "phone_number": "+1-312-555-0177",
+  "research": [
+    {
+      "project": "Market Analysis for Q1",
+      "date": "2024-02-15",
+      "notes": "Received report from analytics team."
+    },
+    {
+      "project": "M&A Targets",
+      "date": "2024-03-10",
+      "notes": "Identified three potential companies."
+    }
+  ],
+  "summary": {
+    "title": "Chief Strategy Officer",
+    "company": "GlobalCorp",
+    "industry": "Manufacturing",
+    "experience": 20
+  },
+  "long_summary": {
+    "background": "Over 20 years in corporate strategy and operations leadership.",
+    "expertise": "M&A, strategic planning, organizational restructuring.",
+    "achievements": "Led three successful acquisitions totaling $2B in enterprise value, implemented cost-saving initiatives that reduced overhead by 15%."
+  },
+  "linked_in": "https://linkedin.com/in/davidchen",
+  "linked_in_followers": 2900,
+  "org_id": "org-423e4567-e89b-12d3-a456-426614174003"
+}

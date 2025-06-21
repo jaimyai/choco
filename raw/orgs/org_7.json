@@ -1,0 +1,39 @@
+{
+  "id": "c19d4e3b-a6b8-4b2e-9f4f-5d9123456abc",
+  "name": "Global Education Fund",
+  "photo": "https://example.com/logos/global-ed.png",
+  "description": {
+    "overview": "Global Education Fund supports access to schooling for underprivileged children worldwide.",
+    "mission": "To bridge the education gap through scholarships and community programs.",
+    "values": ["Equity", "Integrity", "Empowerment"],
+    "history": "Founded in 2005, we have funded over 10,000 students in 25 countries."
+  },
+  "websites": [
+    {
+      "url": "https://globaledfund.org",
+      "type": "primary",
+      "primary": true
+    },
+    {
+      "url": "https://donate.globaledfund.org",
+      "type": "donation",
+      "primary": false
+    }
+  ],
+  "industry": ["Education", "Nonprofit"],
+  "location": {
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "address": "123 Charity Way"
+  },
+  "type": "INSTITUTION",
+  "created_at": 1704200000,
+  "org_id": "org-7f6a8b9c-0123-4d56-8e90-9f8c3b7a2d4e",
+  "size": "Medium",
+  "founded": 2005,
+  "social_media": {
+    "twitter": "@globaledfund",
+    "linkedin": "company/global-ed-fund"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "eid": "evt-1001",
+  "user_id": "user-9c4f11a2-1cdf-4d1a-8cbe-2a14d6986b35",
+  "org_id": "org-1a2b3c4d-5e6f-7a8b-9c0d-e1f2a3b4c5d6",
+  "title": "Weekly Design Sync",
+  "duration": 1800,
+  "start_time": "2024-02-15T09:00:00Z",
+  "end_time": "2024-02-15T09:30:00Z",
+  "is_owner": true,
+  "recording_mode": "manual",
+  "connectedEntityIds": ["proj-123", "team-456"],
+  "link": "https://meet.google.com/abc-def-ghi",
+  "content": "Today we discussed project milestones and upcoming deadlines. Sarah updated the team on design progress. We agreed to review the prototype next week.",
+  "type": "EVENT",
+  "summary": "Weekly sync focused on design progress and upcoming deadlines.",
+  "organization": {
+    "id": "org-1a2b3c4d-5e6f-7a8b-9c0d-e1f2a3b4c5d6",
+    "name": "Acme Corp",
+    "type": "COMPANY",
+    "org_id": "org-1a2b3c4d-5e6f-7a8b-9c0d-e1f2a3b4c5d6"
+  }
+}

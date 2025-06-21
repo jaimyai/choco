@@ -1,0 +1,27 @@
+{
+  "id": "b12345de-1f23-45ab-89cd-0a12b345c678",
+  "name": "Greenfield Academy",
+  "photo": "https://example.com/logos/greenfield.png",
+  "description": {
+    "mission": "To provide accessible education to underserved communities.",
+    "history": "Founded in 1995 by educators passionate about inclusive learning. Over the years, Greenfield Academy has expanded to multiple campuses and online programs. We offer scholarships and community outreach programs to ensure no student is left behind. Our curriculum emphasizes STEM, arts, and social responsibility."
+  },
+  "websites": [
+    {
+      "url": "https://greenfieldacademy.org",
+      "type": "official",
+      "primary": true
+    }
+  ],
+  "industry": ["Education", "Nonprofit"],
+  "location": {
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA"
+  },
+  "type": "INSTITUTION",
+  "created_at": 1672502400,
+  "org_id": "e0c1d2f3-4a5b-6c7d-8e9f-0a1b2c3d4e5f",
+  "founded": 1995,
+  "size": "201-500"
+}

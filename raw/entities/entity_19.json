@@ -1,0 +1,40 @@
+{
+  "id": "d4g5h6i7-8901-23de-f012-4567890abcde",
+  "name": "Emily Chen",
+  "last_updated": "1704200000",
+  "last_communication": "1704203600",
+  "created_at": "1704120000",
+  "importing": false,
+  "photo": "https://example.com/photos/emily_chen.jpg",
+  "emails": [
+    {
+      "email": "emily.chen@startopia.vc",
+      "type": "work",
+      "verified": true
+    }
+  ],
+  "is_me": false,
+  "location": "San Francisco, CA",
+  "state": "CA",
+  "country_code": "US",
+  "phone_number": "+1-415-555-0912",
+  "research": [
+    {
+      "notes": "Portfolio includes 15 startups, focusing on enterprise SaaS.",
+      "last_researched": "1704150000"
+    }
+  ],
+  "summary": {
+    "title": "General Partner",
+    "company": "Startopia Ventures",
+    "industry": "Venture Capital",
+    "experience": 8
+  },
+  "long_summary": "Emily founded Startopia Ventures in 2016 with a focus on early-stage enterprise SaaS. She has led investments in multiple unicorns and serves on several boards. Her expertise spans fundraising, go-to-market strategy, and scaling operations.",
+  "linked_in": "https://linkedin.com/in/emilychenvc",
+  "linked_in_maybes": "ec_venture@gmail.com",
+  "linked_in_followers": 3200,
+  "org_id": "org-45678901-23de-f012-4567-890abcdef123",
+  "interests": ["Investing", "Mentorship", "Tech Startups"],
+  "education": ["BS Computer Science, MIT, 2008", "MBA, Stanford GSB, 2013"]
+}

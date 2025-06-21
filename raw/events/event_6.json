@@ -1,0 +1,23 @@
+{
+  "id": "a1b2c3d4-e5f6-47a8-9101-abcdef123456",
+  "eid": "evt-001",
+  "user_id": "u1-23-4567-89ab-cdef01234567",
+  "org_id": "org-1111-2222-3333-4444",
+  "title": "Daily Standup Meeting",
+  "duration": 900,
+  "start_time": "2024-02-01T09:00:00Z",
+  "end_time": "2024-02-01T09:15:00Z",
+  "is_owner": true,
+  "recording_mode": "none",
+  "connectedEntityIds": ["proj-123", "task-456"],
+  "link": "https://meet.google.com/xyz-abcx-123",
+  "content": "Team shared quick updates: Alice completed the API tests, Bob is working on frontend bugs, Carol will start on documentation.",
+  "type": "EVENT",
+  "summary": "All team members gave status updates. Blockers were addressed. Next meeting scheduled for tomorrow.",
+  "organization": {
+    "id": "org-1111-2222-3333-4444",
+    "name": "Tech Innovators Inc",
+    "type": "COMPANY",
+    "org_id": "org-1111-2222-3333-4444"
+  }
+}

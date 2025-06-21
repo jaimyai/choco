@@ -1,0 +1,27 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440003",
+  "name": "Emily Davis",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photo4.jpg",
+  "emails": ["emily.davis@consultingpro.com"],
+  "is_me": false,
+  "location": "Austin, TX",
+  "state": "TX",
+  "country_code": "US",
+  "phone_number": "+1-512-555-0147",
+  "research": "Analyzed project deliverables and client feedback from last engagement.",
+  "summary": {
+    "title": "Strategy Consultant",
+    "company": "Consulting Pro",
+    "industry": "Management Consulting",
+    "experience": 7
+  },
+  "long_summary": "Emily specializes in corporate strategy and operational improvement. She has led multi-million dollar transformation programs across finance and retail sectors. Known for data-driven recommendations and executive presentations. Published thought leadership on organizational change.",
+  "linked_in": "https://linkedin.com/in/emilydavis",
+  "linked_in_maybes": "e.davis@linkedin-maybe.com",
+  "linked_in_followers": 980,
+  "org_id": "org-uuid-4"
+}

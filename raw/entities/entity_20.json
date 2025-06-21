@@ -1,0 +1,31 @@
+{
+  "id": "e5h6i7j8-9012-34ef-0123456789ab",
+  "name": "Dr. Priya Kumar",
+  "last_updated": "1704210000",
+  "last_communication": "1704213600",
+  "created_at": "1704110000",
+  "importing": false,
+  "photo": "https://example.com/photos/priya_kumar.jpg",
+  "emails": ["priya.kumar@uniacademy.edu", "p.kumar.consult@gmail.com"],
+  "is_me": false,
+  "location": "Austin, TX",
+  "state": "TX",
+  "country_code": "US",
+  "phone_number": "+1-512-555-0234",
+  "research": {
+    "notes": "Authored 10 peer-reviewed papers in ML and data ethics.",
+    "sources": ["Google Scholar", "Scopus"],
+    "last_researched": "1704140000"
+  },
+  "summary": "Education Consultant",
+  "long_summary": {
+    "background": "Dr. Priya Kumar has over 15 years in educational research.",
+    "expertise": "Curriculum design, e-learning platforms",
+    "achievements": "Developed national standards for digital literacy; keynote speaker at EdTech 2023"
+  },
+  "linked_in": "https://linkedin.com/in/priyakumar",
+  "linked_in_maybes": "priya.academic@gmail.com",
+  "linked_in_followers": 540,
+  "org_id": "org-56789012-34ef-0123-4567-890abcdef234",
+  "skills": ["Curriculum Development", "Research", "Public Speaking"]
+}

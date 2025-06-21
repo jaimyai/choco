@@ -1,0 +1,17 @@
+{
+  "id": "0f1e2d3c-4b5a-6c7d-8e9f-0a1b2c3d4e5f",
+  "name": "Tech Innovators Summit",
+  "photo": "https://summits.example.com/tech-innovators/logo.jpg",
+  "description": "The Tech Innovators Summit is an annual gathering of the brightest minds in technology and entrepreneurship. Attendees include startup founders, venture capitalists, and leading researchers from around the globe. Over three days, participants engage in keynote presentations, panel discussions, and hands-on workshops. Networking sessions provide opportunities to forge partnerships and explore emerging trends such as AI, blockchain, and sustainable tech. Since its launch in 2010, the summit has grown to host over 5,000 attendees each year. Our goal is to foster collaboration and drive innovation by connecting thought leaders across industries. The event also features a startup pitch competition where early-stage companies can showcase their solutions to potential investors.",
+  "websites": ["https://techinnovatorsummit.com"],
+  "industry": ["Technology", "Conferences"],
+  "location": {
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "address": "500 Convention Center Blvd"
+  },
+  "type": "CONFERENCE",
+  "created_at": 1675000000,
+  "org_id": "f1e2d3c4-b5a6-7c8d-9e0f-1a2b3c4d5e6f"
+}

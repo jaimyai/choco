@@ -1,0 +1,21 @@
+{
+  "id": "91f0a1b2-c3d4-5e6f-7a8b-9c0d1e2f3a4b",
+  "name": "Atlas Manufacturing Co.",
+  "photo": "https://example.com/logos/atlas.png",
+  "description": "Atlas Manufacturing Co. is a leading producer of automotive parts with a global distribution network spanning five continents. The company is committed to quality, safety, and innovation in every product line.",
+  "websites": ["https://atlasmanufacturing.com"],
+  "industry": {
+    "primary": "Manufacturing",
+    "secondary": "Automotive"
+  },
+  "location": "Detroit, MI",
+  "type": "COMPANY",
+  "created_at": 315532800,
+  "org_id": "org-55667788-99aa-bbcc-ddee-112233445566",
+  "size": "5000+ employees",
+  "founded": 1950,
+  "contact_info": {
+    "email": "info@atlasmanufacturing.com",
+    "phone": "+1-800-555-0199"
+  }
+}

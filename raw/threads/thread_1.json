@@ -1,0 +1,26 @@
+{
+  "id": "f9b2dc37-4f1c-4d7a-9f8a-304b12345678",
+  "thread_id": "a1b2c3d4-5e6f-7a8b-9c0d-112233445566",
+  "content": {
+    "emails": {
+      "from": "ceo@acme-corp.com",
+      "to": ["board@acme-corp.com"],
+      "subject": "Quarterly Financial Results",
+      "body": "Dear Board Members,\n\nThe financial results for Q2 are now available. Revenue increased by 12% compared to last quarter, and net profit margin improved by 3%. A detailed report is attached.\n\nBest regards,\nCEO",
+      "date": "2024-07-15T09:30:00Z"
+    }
+  },
+  "summary": {},
+  "attachments": ["Q2_Report.pdf"],
+  "subject": "Quarterly Financial Results",
+  "org_id": "org-1111-2222-3333-4444",
+  "user_id": "user-aaaa-bbbb-cccc-dddd",
+  "type": "THREAD",
+  "date": "2024-07-15T09:30:00Z",
+  "organization": {
+    "id": "org-1111-2222-3333-4444",
+    "name": "Acme Corporation",
+    "type": "COMPANY",
+    "org_id": "org-1111-2222-3333-4444"
+  }
+}

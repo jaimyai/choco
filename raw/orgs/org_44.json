@@ -1,0 +1,41 @@
+{
+  "id": "123e4567-e89b-12d3-a456-426614174000",
+  "name": "Nimbus Health Systems",
+  "photo": "https://example.com/logos/nimbushealth.png",
+  "description": {
+    "overview": "Nimbus Health Systems is a leading healthcare corporation specializing in patient-centric care and innovative medical solutions.",
+    "mission": "To improve patient outcomes through cutting-edge technology and compassionate care.",
+    "values": ["Excellence", "Empathy", "Integrity", "Collaboration"],
+    "history": "Established in 1985, Nimbus has expanded to 45 hospitals nationwide and pioneered telemedicine platforms.",
+    "futureGoals": "Expand AI-driven diagnostics and personalized treatment plans."
+  },
+  "websites": [
+    {
+      "url": "https://nimbushealth.com",
+      "type": "main",
+      "primary": true
+    },
+    {
+      "url": "https://careers.nimbushealth.com",
+      "type": "careers",
+      "primary": false
+    }
+  ],
+  "industry": "Healthcare",
+  "location": {
+    "city": "Dallas",
+    "state": "TX",
+    "country": "USA"
+  },
+  "type": "COMPANY",
+  "created_at": 1680307200,
+  "org_id": "abcdef12-3456-7890-abcd-ef1234567890",
+  "funding": {
+    "seriesA": 5000000,
+    "seriesB": 20000000
+  },
+  "social_media": {
+    "twitter": "@NimbusHealth",
+    "linkedin": "linkedin.com/company/nimbushealth"
+  }
+}

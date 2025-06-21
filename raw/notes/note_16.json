@@ -1,0 +1,19 @@
+{
+  "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "org_id": "a1234567-89ab-cdef-0123-456789abcdef",
+  "user_id": "b7654321-ba98-fedc-3210-fedcba987654",
+  "title": "Weekly Sales Meeting Notes",
+  "content": "Discussed quarterly targets, reviewed last week's performance, and assigned follow-up tasks for the marketing team.",
+  "timestamp": "2024-03-15T09:30:00Z",
+  "summary": "Covered sales metrics, pipeline updates, and next steps for outreach.",
+  "type": "NOTE",
+  "organization": {
+    "id": "a1234567-89ab-cdef-0123-456789abcdef",
+    "name": "Global Sales Inc.",
+    "type": "COMPANY",
+    "org_id": "a1234567-89ab-cdef-0123-456789abcdef",
+    "description": "A multinational sales organization focused on B2B solutions.",
+    "industry": "Sales & Marketing"
+  },
+  "tags": ["sales", "meeting", "Q1"]
+}

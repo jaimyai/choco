@@ -1,0 +1,28 @@
+{
+  "id": "a7b6c5d4-e3f2-1a9b-8c7d-6e5f4d3c2b1a",
+  "name": "Education for All Foundation",
+  "photo": "https://efa.org/assets/logo.png",
+  "description": "Education for All Foundation is dedicated to providing quality educational resources to underprivileged communities worldwide. We partner with local schools to equip students with books, technology, and trained teachers. Since our inception, over 200,000 children have benefited from our programs in Africa and Asia.",
+  "websites": [
+    {
+      "url": "https://efa.org",
+      "type": "homepage",
+      "primary": true
+    },
+    {
+      "url": "https://donate.efa.org",
+      "type": "donate",
+      "primary": false
+    }
+  ],
+  "industry": ["Education", "Nonprofit"],
+  "location": "New York, NY",
+  "type": "INSTITUTION",
+  "created_at": 1702000000,
+  "org_id": "6f5e4d3c-2b1a-9c8d-7e6f-5a4b3c2d1e0f",
+  "contact_info": {
+    "email": "info@efa.org",
+    "phone": "+1-212-555-0123"
+  },
+  "founded": 2005
+}

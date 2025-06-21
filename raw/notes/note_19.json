@@ -1,0 +1,21 @@
+{
+  "id": "abcdef12-3456-7890-abcd-ef1234567890",
+  "org_id": "fedcba98-7654-3210-fedc-ba9876543210",
+  "user_id": "01234567-89ab-cdef-0123-456789abcdef",
+  "title": "Server Migration Reminder",
+  "content": "Remember to back up all databases before the scheduled migration on April 20th. Notify the devops team and check compatibility of custom scripts.",
+  "timestamp": "2024-03-25T08:15:00Z",
+  "summary": {
+    "key_points": ["Database backup", "Team notification"],
+    "action_items": ["Send reminder email", "Verify script compatibility"],
+    "follow_up": "Confirm backup integrity post-migration"
+  },
+  "type": "NOTE",
+  "organization": {
+    "id": "fedcba98-7654-3210-fedc-ba9876543210",
+    "name": "CloudOps LLC",
+    "type": "COMPANY",
+    "org_id": "fedcba98-7654-3210-fedc-ba9876543210"
+  },
+  "category": "Infrastructure"
+}

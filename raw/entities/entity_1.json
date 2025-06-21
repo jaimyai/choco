@@ -1,0 +1,22 @@
+{
+  "id": "a1d2c3e4-5678-1234-9abc-abcdef012345",
+  "name": "Jane Doe",
+  "last_updated": "1704500000",
+  "last_communication": "1704495000",
+  "created_at": "1704100000",
+  "importing": false,
+  "photo": "https://example.com/photos/jane_doe.jpg",
+  "emails": ["jane.doe@example.com"],
+  "is_me": false,
+  "location": "San Francisco, California",
+  "state": "California",
+  "country_code": "US",
+  "phone_number": "+1-415-555-2671",
+  "research": "Contacted at tech conference; interested in React and Node.js projects.",
+  "summary": "Junior Software Engineer at CloudWave with focus on front-end development.",
+  "long_summary": "Jane is a passionate software engineer with 1 year of experience building responsive web applications using React and Vue.js.",
+  "linked_in": "https://linkedin.com/in/janedoe",
+  "linked_in_maybes": "jane.doe@gmail.com",
+  "linked_in_followers": 150,
+  "org_id": "org-1a2b3c4d"
+}

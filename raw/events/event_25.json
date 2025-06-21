@@ -1,0 +1,62 @@
+{
+  "id": "5f6e7d8c-9b0a-1c2d-3e4f-5a6b7c8d9e0f",
+  "eid": "evt-5005",
+  "user_id": "abcdefab-cdef-abcd-efab-cdefabcdef12",
+  "org_id": "fedcba98-7654-3210-fedc-ba9876543210",
+  "title": "Product Brainstorming Workshop",
+  "duration": 7200,
+  "start_time": "2024-06-05T13:00:00Z",
+  "end_time": "2024-06-05T15:00:00Z",
+  "is_owner": true,
+  "recording_mode": "auto",
+  "connectedEntityIds": [
+    {
+      "id": "prod-001",
+      "name": "New Dashboard",
+      "role": "product"
+    },
+    {
+      "id": "team-202",
+      "name": "UX Team",
+      "role": "design"
+    }
+  ],
+  "link": "https://meet.google.com/ghi-jklm-nop",
+  "content": {
+    "activities": [
+      {
+        "segment": "Ideation",
+        "notes": "Generated 20 feature ideas across dashboards and reporting."
+      },
+      {
+        "segment": "Prioritization",
+        "notes": "Voted top 5 features based on impact and effort."
+      },
+      {
+        "segment": "Next Steps",
+        "notes": "Assign owners and define success metrics."
+      }
+    ],
+    "materials": "Whiteboard sketches, Miro board screenshots"
+  },
+  "type": "EVENT",
+  "summary": {
+    "key_points": [
+      "20 ideas generated",
+      "Top 5 features selected",
+      "Success metrics defined"
+    ],
+    "decisions": ["Focus on dashboard widgets", "Implement metrics tracking"],
+    "action_items": [
+      "Product manager to assign tasks",
+      "Design to create wireframes"
+    ],
+    "attendees": ["Product Team", "UX Team", "Engineering"]
+  },
+  "organization": {
+    "id": "fedcba98-7654-3210-fedc-ba9876543210",
+    "name": "Epsilon Enterprises",
+    "type": "COMPANY",
+    "org_id": "fedcba98-7654-3210-fedc-ba9876543210"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "d3456b78-9c0d-4e2f-b123-4f56789a0bcd",
+  "thread_id": "thread-4l23456",
+  "content": {
+    "emails": [
+      {
+        "from": "manager@company.com",
+        "to": ["director@company.com"],
+        "subject": "Quarterly Review Meeting Request",
+        "body": "Hi Director,\\nI'd like to schedule our quarterly performance review for next week. Please let me know your availability. The meeting will cover sales figures, project milestones, and budget planning.",
+        "date": "2024-03-10T08:00:00Z"
+      },
+      {
+        "from": "director@company.com",
+        "to": ["manager@company.com"],
+        "subject": "Re: Quarterly Review Meeting Request",
+        "body": "Hello,\\nThank you for reaching out. I am available on Tuesday or Thursday morning. Let me know which slot works best.",
+        "date": "2024-03-10T08:15:00Z"
+      }
+    ],
+    "participants": ["manager@company.com", "director@company.com"],
+    "location": "Zoom"
+  },
+  "summary": {
+    "action_items": ["Prepare quarterly report"],
+    "sentiment": "neutral"
+  },
+  "attachments": [],
+  "subject": "Quarterly Review Meeting Request",
+  "org_id": "org-uuid-4567",
+  "user_id": "user-uuid-5678",
+  "type": "THREAD",
+  "date": "2024-03-10T08:00:00Z",
+  "organization": {
+    "id": "org-uuid-4567",
+    "name": "Delta Inc",
+    "type": "COMPANY",
+    "org_id": "org-uuid-4567"
+  }
+}

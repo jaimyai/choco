@@ -1,0 +1,10 @@
+{
+  "data": [
+    "The note 'API Rate Limiting Spec' defines per-user rate limits of 1,000 requests per hour.",
+    "The note 'API Rate Limiting Spec' specifies a burst capacity of up to 100 requests in 60 seconds.",
+    "The note 'API Rate Limiting Spec' mandates returning HTTP 429 status codes when rate limits are breached.",
+    "The note 'API Rate Limiting Spec' prescribes queuing requests for up to five minutes as a fallback mechanism.",
+    "The note 'API Rate Limiting Spec' outlines rate limiting policies for integration between API Gateway, User Service, and RateLimiter.",
+    "The note 'API Rate Limiting Spec' captures high-priority business decisions on rate limiting and fallback mechanisms."
+  ]
+}

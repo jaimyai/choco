@@ -1,0 +1,44 @@
+{
+  "id": "e5f6a7b8-c9d0-1234-ef01-567890123456",
+  "eid": "evt-005",
+  "user_id": "55555555-6666-7777-8888-999999999999",
+  "org_id": "eeeeeeee-ffff-0000-1111-222222222222",
+  "title": "Candidate Interview - Software Engineer",
+  "duration": 3600,
+  "start_time": "2024-02-22T10:00:00Z",
+  "end_time": "2024-02-22T11:00:00Z",
+  "is_owner": true,
+  "recording_mode": "auto",
+  "connectedEntityIds": ["candidate-123", "hiring-panel"],
+  "link": "https://meet.google.com/eee-ffff-gggg",
+  "participants": ["Interviewer A", "Interviewer B", "Candidate"],
+  "content": [
+    {
+      "question": "Tell us about a challenging coding problem you solved.",
+      "answer": "I designed an event-driven system with Kafka and optimized partitioning to handle high throughput."
+    },
+    {
+      "question": "How do you approach code reviews?",
+      "answer": "I focus on code readability, design patterns, and potential edge cases."
+    },
+    {
+      "question": "Describe a time you handled conflict in a team.",
+      "answer": "I mediated between frontend and backend teams to align API contracts during a tight deadline."
+    }
+  ],
+  "type": "EVENT",
+  "summary": {
+    "decisions": ["Candidate to proceed to technical assignment"],
+    "action_items": [
+      "Send coding exercise to candidate",
+      "Schedule follow-up panel interview"
+    ]
+  },
+  "organization": {
+    "id": "eeeeeeee-ffff-0000-1111-222222222222",
+    "name": "Innovatech Corp",
+    "type": "COMPANY",
+    "org_id": "eeeeeeee-ffff-0000-1111-222222222222",
+    "industry": "Technology"
+  }
+}

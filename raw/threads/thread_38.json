@@ -1,0 +1,67 @@
+{
+  "id": "3c4d5e6f-7a8b-9c0d-ef12-34567890ab12",
+  "thread_id": "thread-1122-3344-5566-7788-99aabbccddeeff",
+  "content": {
+    "thread_id": "thread-1122-3344-5566-7788-99aabbccddeeff",
+    "participants": ["sales@betaenterprises.com", "client@xyzcorp.com"],
+    "cc": ["marketing@betaenterprises.com"],
+    "emails": [
+      {
+        "from": "sales@betaenterprises.com",
+        "to": ["client@xyzcorp.com"],
+        "subject": "Proposal Submission: Beta Platform",
+        "body": "Dear Xyz Corp Team, please find attached our proposal for the Beta platform integration.",
+        "date": "2024-01-10T09:00:00Z"
+      },
+      {
+        "from": "client@xyzcorp.com",
+        "to": ["sales@betaenterprises.com"],
+        "subject": "Re: Proposal Submission: Beta Platform",
+        "body": "Thank you for the document. We will review and get back to you by end of the week.",
+        "date": "2024-01-12T14:25:00Z"
+      },
+      {
+        "from": "sales@betaenterprises.com",
+        "to": ["client@xyzcorp.com"],
+        "subject": "Follow-up on Proposal",
+        "body": "Hi Team, just checking in on the status of your review. Let me know if you have any questions.",
+        "date": "2024-01-15T11:10:00Z"
+      },
+      {
+        "from": "client@xyzcorp.com",
+        "to": ["sales@betaenterprises.com"],
+        "subject": "Feedback on Proposal",
+        "body": "Overall it looks good. Can we add more details on data security and SLAs?",
+        "date": "2024-01-18T16:45:00Z"
+      },
+      {
+        "from": "sales@betaenterprises.com",
+        "to": ["client@xyzcorp.com"],
+        "subject": "Re: Feedback on Proposal",
+        "body": "Absolutely. We'll revise the security section and send an updated draft by Monday.",
+        "date": "2024-01-20T14:10:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "sentiment": "positive",
+    "action_items": ["Include detailed data security section", "Define SLAs"],
+    "key_points": [
+      "Proposal accepted with minor revisions",
+      "Client requested security details"
+    ]
+  },
+  "attachments": [],
+  "subject": "Client Feedback on Proposal",
+  "org_id": "org-3333-4444-5555-6666-777777777777",
+  "user_id": "user-3333-4444-5555-6666-888888888888",
+  "type": "THREAD",
+  "date": "2024-01-20T14:10:00Z",
+  "organization": {
+    "id": "org-3333-4444-5555-6666-777777777777",
+    "name": "Beta Enterprises",
+    "type": "COMPANY",
+    "org_id": "org-3333-4444-5555-6666-777777777777",
+    "location": "New York, NY"
+  }
+}

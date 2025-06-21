@@ -1,0 +1,24 @@
+{
+  "id": "e56a7c8d-9012-4fec-3456-ef5678901234",
+  "name": "Urban Cycling Collective",
+  "photo": "https://example.com/logos/urbancycling.png",
+  "description": {
+    "overview": "Urban Cycling Collective is a grassroots community promoting safe and sustainable biking in city environments.",
+    "values": ["Safety", "Community", "Sustainability"]
+  },
+  "websites": ["https://urbancycling.org"],
+  "industry": "Recreational Sports",
+  "location": {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA"
+  },
+  "type": "GROUP",
+  "founded": 2010,
+  "size": "500+ members",
+  "contact_info": {
+    "email": "contact@urbancycling.org"
+  },
+  "created_at": 1704326400,
+  "org_id": "org-3456ef56-7890-1234-cdef-567890123456"
+}

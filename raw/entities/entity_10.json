@@ -1,0 +1,42 @@
+{
+  "id": "0a9b8c7d-6e5f-4d3c-2b1a-0f9e8d7c6b5a",
+  "name": "Emily Davis",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://media.example.org/images/emilyd.jpg",
+  "emails": [
+    {
+      "email": "emily.davis@innovatelabs.com",
+      "type": "work",
+      "verified": true
+    }
+  ],
+  "is_me": false,
+  "location": "Boston, MA",
+  "state": "MA",
+  "country_code": "US",
+  "phone_number": "+1-555-0190",
+  "research": [
+    {
+      "notes": "Called on 2023-10-20; left voicemail",
+      "date": "2023-10-20"
+    },
+    {
+      "notes": "Met at Women in Tech conference",
+      "date": "2023-11-10"
+    }
+  ],
+  "summary": {
+    "title": "Product Manager",
+    "company": "Innovate Labs",
+    "industry": "Technology",
+    "experience": 5
+  },
+  "linked_in_maybes": "edavis_pm@maybe.com",
+  "linked_in_followers": 980,
+  "org_id": "org-uuid-5",
+  "skills": ["Product Strategy", "User Research", "Roadmap Planning"],
+  "interests": ["UX Design", "Agile", "Startups"]
+}

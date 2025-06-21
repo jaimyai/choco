@@ -1,0 +1,69 @@
+{
+  "id": "b2f3e4d5-6789-01ab-cdef-234567890abc",
+  "thread_id": "thread-0002",
+  "content": {
+    "thread_id": "thread-0002",
+    "participants": [
+      "manager@sacorp.com",
+      "devlead@sacorp.com",
+      "team@sacorp.com"
+    ],
+    "cc": ["qa@sacorp.com"],
+    "emails": [
+      {
+        "from": "manager@sacorp.com",
+        "to": ["team@sacorp.com"],
+        "subject": "Project Alpha Status Update",
+        "body": "Hello Team,\nHere is the latest status on Project Alpha. We have completed the UI design and begun integration testing. The API endpoints have been defined and documented. Next steps include performance testing and a user acceptance criteria review. Please let me know if there are any blockers.\n\nRegards,\nSarah",
+        "date": "2024-04-02T14:45:00Z"
+      },
+      {
+        "from": "devlead@sacorp.com",
+        "to": ["manager@sacorp.com"],
+        "subject": "Re: Project Alpha Status Update",
+        "body": "Thanks for the update, Sarah.\nIntegration testing is progressing well, and we should have the first results by Thursday. No major issues so far. Will keep you posted.\n\n- Alex",
+        "date": "2024-04-02T16:30:00Z"
+      },
+      {
+        "from": "manager@sacorp.com",
+        "to": ["team@sacorp.com"],
+        "subject": "Re: Project Alpha Status Update",
+        "body": "Great work, everyone. Let’s ensure we document all test cases thoroughly and schedule the UAT session by early next week. Thanks again for the swift progress.",
+        "date": "2024-04-03T09:00:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": [
+      "UI design complete",
+      "Integration testing started",
+      "APIs documented"
+    ],
+    "action_items": ["Begin performance testing", "Schedule UAT review"],
+    "sentiment": "positive"
+  },
+  "attachments": [
+    {
+      "filename": "status.xlsx",
+      "size": 102400
+    },
+    {
+      "filename": "diagram.png",
+      "size": 204800
+    }
+  ],
+  "subject": "Project Alpha Status Update",
+  "org_id": "org-bbbb-cccc-dddd-eeee",
+  "user_id": "user-2222-3333-4444-5555",
+  "type": "THREAD",
+  "date": "2024-04-03T09:00:00Z",
+  "organization": {
+    "id": "org-bbbb-cccc-dddd-eeee",
+    "name": "SA Corp",
+    "type": "COMPANY",
+    "org_id": "org-bbbb-cccc-dddd-eeee",
+    "description": "A leading software development firm specializing in enterprise solutions.",
+    "industry": "Technology",
+    "location": "San Francisco, CA"
+  }
+}

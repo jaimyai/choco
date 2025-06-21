@@ -1,0 +1,63 @@
+{
+  "id": "12345678-90ab-cdef-1234-567890abcdef",
+  "thread_id": "abcdefab-cdef-1234-5678-90abcdef1234",
+  "content": {
+    "emails": [
+      {
+        "from": "marketinglead@marketco.com",
+        "to": ["director@brandco.com"],
+        "subject": "Marketing proposal",
+        "body": "Dear Sandra,\\nPlease find attached the initial marketing proposal for Q3 campaigns. Let me know your thoughts and any adjustments needed.\\nBest regards,\\nMark",
+        "date": "2024-06-05T09:45:00Z"
+      },
+      {
+        "from": "director@brandco.com",
+        "to": ["marketinglead@marketco.com"],
+        "cc": ["team@marketco.com"],
+        "subject": "Re: Marketing proposal",
+        "body": "Hi Mark,\\nThanks for the proposal. It looks promising but I think we need more focus on social media. Please revise and send the update.\\nRegards,\\nSandra",
+        "date": "2024-06-05T11:00:00Z"
+      },
+      {
+        "from": "marketinglead@marketco.com",
+        "to": ["director@brandco.com"],
+        "subject": "Re: Marketing proposal",
+        "body": "Sandra,\\nI've updated the plan with expanded social media strategies and budget reallocations. See the new draft attached.\\nCheers,\\nMark",
+        "date": "2024-06-06T08:30:00Z"
+      },
+      {
+        "from": "director@brandco.com",
+        "to": ["marketinglead@marketco.com"],
+        "bcc": ["ceo@brandco.com"],
+        "subject": "Feedback on revised proposal",
+        "body": "Mark,\\nThe revisions look good. Please prepare a final version including KPIs and timelines.\\nThanks,\\nSandra",
+        "date": "2024-06-06T12:15:00Z"
+      },
+      {
+        "from": "analyst@marketco.com",
+        "to": ["marketinglead@marketco.com", "director@brandco.com"],
+        "subject": "Fwd: Feedback on revised proposal",
+        "body": "Forwarding Sandra's feedback. Let's discuss in today's huddle.\\n- Analyst",
+        "date": "2024-06-06T14:00:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "sentiment": "mixed",
+    "action_items": ["Revise budget", "Clarify target audience"],
+    "key_points": ["Proposal well structured", "Needs more market data"]
+  },
+  "attachments": [],
+  "subject": "Feedback on marketing proposal",
+  "org_id": "faceb00c-1234-5678-9abc-def012345678",
+  "user_id": "baadf00d-8765-4321-0fed-cba987654321",
+  "type": "THREAD",
+  "date": "2024-06-07T16:45:00Z",
+  "organization": {
+    "id": "faceb00c-1234-5678-9abc-def012345678",
+    "name": "MarketCo Agency",
+    "type": "COMPANY",
+    "org_id": "faceb00c-1234-5678-9abc-def012345678",
+    "description": "Global marketing firm"
+  }
+}

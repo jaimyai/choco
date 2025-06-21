@@ -1,0 +1,38 @@
+{
+  "id": "a12b3cd4-56ef-78ab-90cd-ef1234567890",
+  "name": "Bright Futures Academy",
+  "photo": "https://example.com/logos/brightfutures.png",
+  "description": {
+    "overview": "Bright Futures Academy is a nonprofit educational institution dedicated to empowering underprivileged youth through STEM education.",
+    "mission": "Provide accessible quality education and mentorship to foster the next generation of innovators.",
+    "values": ["Integrity", "Innovation", "Inclusivity"],
+    "history": "Founded in 2010 by a group of educators and philanthropists in Chicago."
+  },
+  "websites": [
+    {
+      "url": "https://brightfutures.org",
+      "type": "primary",
+      "primary": true
+    },
+    {
+      "url": "https://donate.brightfutures.org",
+      "type": "donation",
+      "primary": false
+    }
+  ],
+  "industry": {
+    "primary": "Education",
+    "secondary": "Nonprofit"
+  },
+  "location": {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "address": "1234 Lake Shore Drive"
+  },
+  "type": "INSTITUTION",
+  "created_at": 1698768000,
+  "org_id": "d4e5f6a7-b8c9-0123-4567-89abcdef0123",
+  "size": "Medium",
+  "founded": 2010
+}

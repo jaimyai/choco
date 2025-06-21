@@ -1,0 +1,47 @@
+{
+  "id": "c56a4180-65aa-42ec-a945-5fd21dec0538",
+  "name": "John Smith",
+  "last_updated": "1704220000",
+  "last_communication": "1704306400",
+  "created_at": "1703900000",
+  "importing": false,
+  "photo": "https://example.com/photos/john_smith.jpg",
+  "emails": [
+    {
+      "email": "john.smith@example.com",
+      "type": "work",
+      "verified": true
+    },
+    {
+      "email": "jsmith@gmail.com",
+      "type": "personal",
+      "verified": false
+    }
+  ],
+  "is_me": false,
+  "location": "New York, NY",
+  "state": "NY",
+  "country_code": "US",
+  "phone_number": "+1-212-555-0147",
+  "research": {
+    "notes": "Connected via mutual contact at conference",
+    "sources": ["Event attendee list", "Company website"],
+    "last_researched": "1704210000"
+  },
+  "summary": {
+    "title": "Product Manager",
+    "company": "Innovatech",
+    "industry": "Fintech",
+    "experience": 5
+  },
+  "long_summary": {
+    "background": "Former software developer turned product manager",
+    "expertise": "Roadmapping, user research, agile methodologies",
+    "achievements": "Led product launch that generated $2M in revenue"
+  },
+  "linked_in": "https://linkedin.com/in/johnsmith",
+  "linked_in_maybes": "contact@johnsmith.co",
+  "linked_in_followers": 1200,
+  "org_id": "org-002",
+  "interests": ["Fintech", "Blockchain", "User Experience"]
+}

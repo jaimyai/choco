@@ -1,0 +1,72 @@
+{
+  "id": "99990000-aaaa-bbbb-cccc-dddd11112222",
+  "thread_id": "thread-5555-6666-7777-8888",
+  "content": {
+    "thread_id": "thread-5555-6666-7777-8888",
+    "emails": [
+      {
+        "from": "hrmanager@bigcorp.com",
+        "to": ["vendor@hrsolutions.com"],
+        "subject": "Comprehensive Proposal for New HR System",
+        "body": "Hello,\n\nWe are exploring options for a new HR management system that integrates recruitment, onboarding, performance tracking, and benefits administration. Our current platform is outdated and lacks mobile support. We require a solution with robust reporting and analytics, customizable workflows, and seamless integration with our payroll provider. Please review our requirements document and provide a detailed proposal including timeline and cost estimates.",
+        "date": "2024-06-28T13:50:00Z"
+      },
+      {
+        "from": "vendor@hrsolutions.com",
+        "to": ["hrmanager@bigcorp.com"],
+        "subject": "Re: Comprehensive Proposal for New HR System",
+        "body": "Dear HR Manager,\n\nThank you for outlining your needs. We believe our HR360 platform fits your criteria. It offers end-to-end functionality, mobile access, and advanced analytics. I've attached an overview and cost estimate. Let me know if you need further details or a live demo.",
+        "date": "2024-06-28T15:00:00Z"
+      },
+      {
+        "from": "hrmanager@bigcorp.com",
+        "to": ["vendor@hrsolutions.com"],
+        "subject": "Re: Comprehensive Proposal for New HR System",
+        "body": "Thank you for the quick response. Could you clarify whether your platform supports multi-country payroll tax calculations and if custom reporting dashboards can be built by our internal team?",
+        "date": "2024-06-28T16:30:00Z"
+      },
+      {
+        "from": "vendor@hrsolutions.com",
+        "to": ["hrmanager@bigcorp.com"],
+        "subject": "Re: Comprehensive Proposal for New HR System",
+        "body": "Yes, HR360 supports multi-country payroll tax rules out of the box. Users can create and tweak reports via our dashboard builder. Additionally, we offer training sessions for your team to build custom dashboards.",
+        "date": "2024-06-28T17:45:00Z"
+      },
+      {
+        "from": "hrmanager@bigcorp.com",
+        "to": ["vendor@hrsolutions.com"],
+        "subject": "Re: Comprehensive Proposal for New HR System",
+        "body": "That sounds promising. Please send over the formal contract and proposed implementation schedule. We'll review internally and circle back early next week.",
+        "date": "2024-06-28T18:10:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": [
+      "Need integrated HR platform",
+      "Supports mobile and analytics",
+      "Multi-country payroll",
+      "Custom dashboards feature"
+    ],
+    "action_items": ["Send contract", "Detail implementation schedule"],
+    "sentiment": "positive"
+  },
+  "attachments": [
+    "HR_System_Overview.pptx",
+    {
+      "filename": "Cost_Estimate.xlsx",
+      "size_kb": 200
+    }
+  ],
+  "subject": "Comprehensive Proposal for New HR System",
+  "org_id": "org-7777-6666-5555-4444",
+  "user_id": "user-3333-4444-5555-6666",
+  "type": "THREAD",
+  "date": "2024-06-28T13:50:00Z",
+  "organization": {
+    "id": "org-7777-6666-5555-4444",
+    "name": "BigCorp Global",
+    "type": "COMPANY",
+    "org_id": "org-7777-6666-5555-4444"
+  }
+}

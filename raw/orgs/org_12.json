@@ -1,0 +1,42 @@
+{
+  "id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+  "org_id": "4e6b65e3-9f2a-4fd4-8f58-bf7491e9d4b8",
+  "name": "Global Learning Initiative",
+  "photo": "https://gli.org/assets/logo.png",
+  "description": {
+    "overview": "Global Learning Initiative is a nonprofit dedicated to expanding access to education worldwide.",
+    "mission": "Empower communities through open-source educational resources and teacher training.",
+    "values": ["Equity", "Collaboration", "Innovation"],
+    "history": "Founded in 2005, GLI has partnered with over 200 schools across 30 countries."
+  },
+  "websites": [
+    {
+      "url": "https://gli.org",
+      "type": "primary",
+      "primary": true
+    },
+    {
+      "url": "https://donate.gli.org",
+      "type": "donation",
+      "primary": false
+    }
+  ],
+  "industry": ["Education", "Nonprofit"],
+  "location": {
+    "address": "123 Avenue des Nations",
+    "city": "Geneva",
+    "state": "",
+    "country": "Switzerland"
+  },
+  "type": "INSTITUTION",
+  "created_at": 1609459200,
+  "founded": 2005,
+  "contact_info": {
+    "email": "info@gli.org",
+    "phone": "+41 22 123 4567"
+  },
+  "social_media": {
+    "twitter": "@GLI",
+    "facebook": "GlobalLearningInitiative"
+  }
+}

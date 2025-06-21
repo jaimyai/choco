@@ -1,0 +1,31 @@
+{
+  "id": "e5h67mn8-9o0p-1q2r-3s4t-5u6v7w8x9y0z",
+  "name": "Sophie Martinez",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photo5.jpg",
+  "emails": [
+    {
+      "email": "sophie.martinez@techstart.com",
+      "type": "work",
+      "verified": true
+    }
+  ],
+  "is_me": false,
+  "location": "Austin, TX",
+  "state": "TX",
+  "country_code": "US",
+  "phone_number": "+1-555-1213",
+  "research": [
+    {
+      "notes": "Joined TechStart as software engineer intern in 2022.",
+      "last_researched": "1703500000"
+    }
+  ],
+  "summary": "Entry-level software engineer specializing in front-end development and user experience.",
+  "interests": ["UI/UX Design", "Open Source", "Travel"],
+  "skills": ["JavaScript", "React", "CSS"],
+  "org_id": "g6h7i8j9-0k1l-2m3n-4o5p-6q7r8s9t0u1v"
+}

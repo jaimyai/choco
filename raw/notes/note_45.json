@@ -1,0 +1,25 @@
+{
+  "id": "e5f6a7b8-c9d0-1234-ef56-789012345678",
+  "org_id": "org-5555-6666-7777-8888abcd4567",
+  "user_id": "user-4444-5555-6666-777788889999",
+  "title": "Quarterly Performance Review - Jane Doe",
+  "content": "Jane has consistently met her sales targets and improved client satisfaction scores by 10%. Recommend leadership training for Q3.",
+  "timestamp": "2024-02-20T10:00:00Z",
+  "summary": {
+    "strengths": ["Sales targets met", "High client satisfaction"],
+    "areas_for_improvement": ["Public speaking", "Time management"],
+    "action_items": ["Enroll in leadership workshop", "Shadow senior manager"]
+  },
+  "type": "NOTE",
+  "tags": ["performance", "review", "Q1"],
+  "priority": "high",
+  "related_entities": ["employee-7890", "training-101"],
+  "organization": {
+    "id": "org-5555-6666-7777-8888abcd4567",
+    "name": "SalesForce Dynamics",
+    "type": "COMPANY",
+    "org_id": "org-5555-6666-7777-8888abcd4567",
+    "description": "Leads in CRM solutions",
+    "industry": "Sales Software"
+  }
+}

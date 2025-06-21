@@ -1,0 +1,9 @@
+{
+  "data": [
+    "The note titled \"API Documentation Draft\" outlines API endpoints including GET /users for retrieving a list of users and POST /auth/login for user authentication",
+    "The note titled \"API Documentation Draft\" requests a review of parameter definitions and error codes for the documented API endpoints",
+    "The note titled \"API Documentation Draft\" identifies action items to define error responses and to add examples in the API documentation",
+    "The note titled \"API Documentation Draft\" specifies a follow-up to schedule a review meeting for the API documentation draft",
+    "The note titled \"API Documentation Draft\" is categorized under documentation with medium priority"
+  ]
+}

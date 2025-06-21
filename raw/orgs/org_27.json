@@ -1,0 +1,39 @@
+{
+  "id": "a3d9f2c1-7a89-4b58-bf90-1e2d3c4f5a6b",
+  "name": "Green Horizons Foundation",
+  "photo": "https://example.com/logos/greenhorizons.png",
+  "description": {
+    "overview": "Green Horizons Foundation is a nonprofit dedicated to reforestation and sustainable agriculture projects around the globe.",
+    "mission": "To restore degraded lands and empower local communities through training and resources.",
+    "values": ["Sustainability", "Community", "Transparency", "Innovation"],
+    "history": "Founded in 2008 by environmental scientists, the foundation has planted over five million trees in five continents."
+  },
+  "websites": [
+    {
+      "url": "https://greenhorizons.org",
+      "type": "official",
+      "primary": true
+    },
+    {
+      "url": "https://donate.greenhorizons.org",
+      "type": "donation",
+      "primary": false
+    }
+  ],
+  "industry": {
+    "primary": "Environmental Services",
+    "secondary": "Nonprofit"
+  },
+  "location": {
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA"
+  },
+  "type": "OTHER",
+  "created_at": 1675123200,
+  "org_id": "b1e2f3a4-5c6d-7e8f-9123-4a5b6c7d8e9f",
+  "social_media": {
+    "twitter": "@GreenHorizons",
+    "facebook": "facebook.com/GreenHorizons"
+  }
+}

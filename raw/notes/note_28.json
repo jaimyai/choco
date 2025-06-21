@@ -1,0 +1,31 @@
+{
+  "id": "abc123ef-4567-89ab-cdef-0123456789ab",
+  "org_id": "555e4444-a333-b222-c111-000999888777",
+  "user_id": "user-3333-4444-5555-666677778888",
+  "title": "Mobile App Feature Progress",
+  "content": [
+    {
+      "section": "Authentication Module",
+      "text": "Implemented OAuth 2.0 login with Google and Facebook."
+    },
+    {
+      "section": "UI Improvements",
+      "text": "Redesigned dashboard with customizable widgets."
+    },
+    {
+      "section": "Bug Fixes",
+      "text": "Resolved crash on startup in iOS 16."
+    }
+  ],
+  "timestamp": "2024-06-11T16:45:00Z",
+  "summary": "Core features are complete; pending QA testing next week.",
+  "type": "NOTE",
+  "tags": ["iOS", "Android", "Sprint 5"],
+  "category": "Development",
+  "organization": {
+    "id": "555e4444-a333-b222-c111-000999888777",
+    "name": "NextWave Mobile",
+    "type": "COMPANY",
+    "org_id": "555e4444-a333-b222-c111-000999888777"
+  }
+}

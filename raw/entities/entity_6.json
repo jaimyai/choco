@@ -1,0 +1,23 @@
+{
+  "id": "e7a1fa72-3b5d-4d6f-8fa9-1c2b3d4e5f6a",
+  "name": "Alice Johnson",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photos/alice_j.jpg",
+  "emails": ["alice.j@example.com", "ajohnson@startup.co"],
+  "is_me": false,
+  "location": "San Francisco, CA",
+  "state": "CA",
+  "country_code": "US",
+  "phone_number": "+1-555-0134",
+  "research": "Initial outreach via email on 2023-11-30; interested in AI verticals.",
+  "summary": "Early Stage Investor",
+  "long_summary": "Alice Johnson is a partner at VentureNow Capital, focusing on pre-seed and seed investments in AI and machine learning startups. She has led investments in 15 companies to date and mentors founders through accelerator programs.",
+  "linked_in": "https://linkedin.com/in/alicejohnson",
+  "linked_in_maybes": "alicej@venturenow.com",
+  "linked_in_followers": 2300,
+  "org_id": "org-uuid-1",
+  "interests": ["AI", "SaaS", "Blockchain"]
+}

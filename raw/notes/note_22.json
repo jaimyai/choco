@@ -1,0 +1,31 @@
+{
+  "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+  "org_id": "f1e2d3c4-b5a6-7e8d-9c0b-1a2f3e4d5c6b",
+  "user_id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+  "title": "Q1 Sales Meeting Notes",
+  "content": {
+    "text": "- Introductions\n- Quarterly targets review\n- Budget allocation discussion\n- Next steps",
+    "format": "markdown",
+    "tags": ["meeting", "sales", "Q1"]
+  },
+  "timestamp": "2024-02-15T09:00:00Z",
+  "summary": {
+    "key_points": ["Reviewed Q1 sales targets", "Discussed budget adjustments"],
+    "action_items": [
+      "Prepare revised budget by Feb 20",
+      "Schedule follow-up meeting"
+    ],
+    "follow_up": "Attach budget spreadsheet before next meeting."
+  },
+  "type": "NOTE",
+  "tags": ["sales", "meeting"],
+  "priority": "High",
+  "organization": {
+    "id": "f1e2d3c4-b5a6-7e8d-9c0b-1a2f3e4d5c6b",
+    "name": "Global Solutions",
+    "type": "COMPANY",
+    "org_id": "f1e2d3c4-b5a6-7e8d-9c0b-1a2f3e4d5c6b",
+    "description": "Provides end-to-end consulting services.",
+    "industry": "Consulting"
+  }
+}

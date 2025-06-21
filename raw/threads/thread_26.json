@@ -1,0 +1,26 @@
+{
+  "id": "a3f1c34e-0d4a-4e8c-9b9a-2bcc0cb6f5d1",
+  "thread_id": "c12bd722-3f19-4d8b-8a8c-5e83e7a34aab",
+  "content": {
+    "emails": {
+      "from": "alice@example.com",
+      "to": ["bob@example.com"],
+      "subject": "Meeting Confirmation: Q1 Kickoff",
+      "body": "Hi Bob,\n\nLooking forward to our Q1 kickoff meeting tomorrow at 10am in the main conference room. Please let me know if you need anything beforehand.\n\nBest,\nAlice",
+      "date": "2024-02-05T09:15:00Z"
+    }
+  },
+  "summary": {},
+  "attachments": ["agenda.pdf"],
+  "subject": "Meeting Confirmation: Q1 Kickoff",
+  "org_id": "d495b3b6-7ea8-4c5d-910f-1e3d2a5c7b1f",
+  "user_id": "e92cfe76-194d-4d50-b2c7-9a1d58f4b2e3",
+  "type": "THREAD",
+  "date": "2024-02-05T09:15:00Z",
+  "organization": {
+    "id": "d495b3b6-7ea8-4c5d-910f-1e3d2a5c7b1f",
+    "name": "Acme Corp",
+    "type": "COMPANY",
+    "org_id": "d495b3b6-7ea8-4c5d-910f-1e3d2a5c7b1f"
+  }
+}

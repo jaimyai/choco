@@ -1,0 +1,46 @@
+{
+  "id": "d7f8e9a0-bc12-3456-d789-0fab1c2d3e4f",
+  "eid": "ev-003",
+  "user_id": "234f5678-e89a-90bc-d123-456789abcdef",
+  "org_id": "33333333-4444-5555-6666-777777777777",
+  "title": "Product Manager Interview",
+  "duration": 3600,
+  "start_time": "2024-01-07T11:00:00Z",
+  "end_time": "2024-01-07T12:00:00Z",
+  "is_owner": false,
+  "recording_mode": "manual",
+  "transcript_format": "detailed",
+  "connectedEntityIds": ["cand-001", "hr-002"],
+  "link": "https://meet.google.com/ggg-hhhh-iii",
+  "content": [
+    {
+      "speaker": "Interviewer",
+      "text": "Can you describe your experience leading cross-functional teams?"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "I have led teams of designers, engineers, and marketers to launch three major products at my last company."
+    },
+    {
+      "speaker": "Interviewer",
+      "text": "How do you prioritize feature requests?"
+    },
+    {
+      "speaker": "Candidate",
+      "text": "I use a combination of user impact, ROI analysis, and technical feasibility to prioritize."
+    }
+  ],
+  "type": "EVENT",
+  "summary": {
+    "key_points": ["Cross-functional leadership", "Prioritization framework"],
+    "decisions": ["Proceed to second round"],
+    "action_items": ["Schedule technical interview"],
+    "attendees": ["Interviewer: Jane Doe", "Candidate: John Smith"]
+  },
+  "organization": {
+    "id": "33333333-4444-5555-6666-777777777777",
+    "name": "InnovateX",
+    "type": "COMPANY",
+    "org_id": "33333333-4444-5555-6666-777777777777"
+  }
+}

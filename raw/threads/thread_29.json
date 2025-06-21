@@ -1,0 +1,73 @@
+{
+  "id": "d12e3f45-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+  "thread_id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+  "content": {
+    "emails": [
+      {
+        "from": "sophia@deltasolutions.com",
+        "to": ["client@acmeindustries.com"],
+        "subject": "Proposal for Enterprise Resource Planning Implementation",
+        "body": "Dear Client,\n\nThank you for your interest in our ERP services. We have conducted a thorough analysis of your current processes and identified key areas for improvement. Our proposal outlines a phased implementation plan that minimizes downtime and ensures seamless integration with your existing systems. The first phase focuses on requirement gathering and system design, which we estimate will take four weeks. In phase two, our team will handle development, configuration, and initial testing over a period of eight weeks. We will also provide comprehensive training sessions for your staff to facilitate user adoption. Upon completion, we anticipate improved reporting accuracy, streamlined workflows, and reduced operational costs. The total cost estimate for the project is detailed in the attached document. We are confident that our expertise and dedicated support team will deliver a successful implementation.\n\nSincerely,\nSophia",
+        "date": "2024-05-10T09:00:00Z"
+      },
+      {
+        "from": "client@acmeindustries.com",
+        "to": ["sophia@deltasolutions.com"],
+        "subject": "Re: Proposal for Enterprise Resource Planning Implementation",
+        "body": "Hi Sophia,\n\nThank you for the detailed proposal. Could you please clarify the licensing fees and support terms for years two and three of the engagement? Additionally, do you offer any volume discounts for multiple modules?\n\nRegards,\nClient",
+        "date": "2024-05-11T11:25:00Z"
+      },
+      {
+        "from": "sophia@deltasolutions.com",
+        "to": ["client@acmeindustries.com"],
+        "subject": "Re: Proposal for Enterprise Resource Planning Implementation",
+        "body": "Hello,\n\nThe licensing fees for year two and three are outlined in the attached pricing sheet. We offer a tiered discount structure based on the number of modules selected. For three to five modules, we can provide a 10% discount, and for more than five modules, a 15% discount. Support terms include 24/7 email assistance and on-site visits twice per year. Let me know if you need further information.\n\nBest,\nSophia",
+        "date": "2024-05-12T08:45:00Z"
+      },
+      {
+        "from": "client@acmeindustries.com",
+        "to": ["sophia@deltasolutions.com"],
+        "subject": "Re: Proposal for Enterprise Resource Planning Implementation",
+        "body": "Sophia,\n\nThe discount structure looks good. We would like to include the inventory and manufacturing modules initially. Please update the proposal accordingly and resend.\n\nThanks,\nClient",
+        "date": "2024-05-13T14:30:00Z"
+      },
+      {
+        "from": "sophia@deltasolutions.com",
+        "to": ["client@acmeindustries.com"],
+        "subject": "Re: Proposal for Enterprise Resource Planning Implementation",
+        "body": "Dear Client,\n\nThank you for confirming the modules. I have updated the proposal to include the inventory and manufacturing modules with the applicable discounts. You will find the revised proposal attached. Let me know if there are any other adjustments needed.\n\nKind regards,\nSophia",
+        "date": "2024-05-15T16:10:00Z"
+      }
+    ]
+  },
+  "summary": {
+    "key_points": [
+      "Phased ERP implementation plan",
+      "Clarified licensing fees",
+      "Offered volume discounts",
+      "Selected inventory and manufacturing modules"
+    ],
+    "action_items": [
+      "Sophia to send revised proposal",
+      "Client to review updated documents"
+    ],
+    "sentiment": "positive"
+  },
+  "attachments": ["proposal.pdf", "pricing.xlsx"],
+  "subject": "Proposal for Enterprise Resource Planning Implementation",
+  "org_id": "9f8e7d6c-5b4a-3c2d-1e0f-9a8b7c6d5e4f",
+  "user_id": "2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a",
+  "type": "THREAD",
+  "date": "2024-05-15T16:10:00Z",
+  "organization": {
+    "id": "9f8e7d6c-5b4a-3c2d-1e0f-9a8b7c6d5e4f",
+    "name": "Delta Solutions",
+    "type": "COMPANY",
+    "org_id": "9f8e7d6c-5b4a-3c2d-1e0f-9a8b7c6d5e4f",
+    "description": "Enterprise software and consulting provider",
+    "industry": "Software Consulting",
+    "location": "New York, NY",
+    "website": "https://www.deltasolutions.com",
+    "employees": 250
+  }
+}

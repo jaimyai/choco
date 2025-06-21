@@ -1,0 +1,56 @@
+{
+  "id": "550e8400-e29b-41d4-a716-446655440004",
+  "name": "David Nguyen",
+  "last_updated": "1704067200",
+  "last_communication": "1704067200",
+  "created_at": "1704067200",
+  "importing": false,
+  "photo": "https://example.com/photo5.jpg",
+  "emails": [
+    {
+      "email": "david.nguyen@techstart.com",
+      "type": "work",
+      "verified": false
+    },
+    {
+      "email": "davidn@gmail.com",
+      "type": "personal",
+      "verified": true
+    }
+  ],
+  "is_me": false,
+  "location": "Seattle, WA",
+  "state": "WA",
+  "country_code": "US",
+  "phone_number": "+1-206-555-0182",
+  "research": [
+    {
+      "notes": "Attended on-site interview at TechStart HQ",
+      "sources": ["HR email", "Zoom recordings"],
+      "last_researched": "1704067200"
+    },
+    {
+      "notes": "Reviewed GitHub contributions in 2023",
+      "sources": ["GitHub"],
+      "last_researched": "1704067200"
+    }
+  ],
+  "summary": {
+    "title": "Software Engineer",
+    "company": "TechStart",
+    "industry": "Software",
+    "experience": 2
+  },
+  "long_summary": {
+    "background": "BS in Computer Science from UW",
+    "expertise": "back-end development, cloud services",
+    "achievements": "Developed microservices architecture that improved platform uptime by 15%",
+    "career_goals": "Advance to senior engineering role"
+  },
+  "hobbies": ["rock climbing", "photography"],
+  "social_media": {
+    "github": "https://github.com/dnguyen",
+    "twitter": "@davidnguyen_dev"
+  },
+  "org_id": "org-uuid-5"
+}

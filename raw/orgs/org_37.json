@@ -1,0 +1,26 @@
+{
+  "id": "d3f2e1b0-c9a8-7f6e-5d4c-3b2a1e0f9d8c",
+  "name": "GreenSprout Foundation",
+  "photo": "https://example.com/logos/greensprout.png",
+  "description": {
+    "overview": "GreenSprout Foundation is dedicated to environmental conservation and sustainable agriculture practices.",
+    "mission": "To support grassroots initiatives that restore ecosystems and promote community farming.",
+    "values": ["Sustainability", "Collaboration", "Innovation"],
+    "history": "Founded by environmental scientists in 2010, the foundation has since funded over 200 projects globally."
+  },
+  "websites": ["https://greensprout.org"],
+  "industry": "Nonprofit",
+  "location": "Austin, TX",
+  "type": "INSTITUTION",
+  "created_at": 1690000000,
+  "org_id": "9f8e7d6c-5b4a-3c2d-1e0f-9a8b7c6d5e4f",
+  "founded": 2010,
+  "social_media": {
+    "twitter": "@GreenSprout",
+    "facebook": "fb.com/greensprout"
+  },
+  "contact_info": {
+    "email": "info@greensprout.org",
+    "phone": "+1-512-555-0199"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "c3d4e5f6-a7b8-9012-cdef-345678901234",
+  "eid": "evt-003",
+  "user_id": "33333333-4444-5555-6666-777777777777",
+  "org_id": "cccccccc-dddd-eeee-ffff-000000000000",
+  "title": "Technical Architecture Presentation",
+  "duration": 7200,
+  "start_time": "2024-03-05T16:00:00Z",
+  "end_time": "2024-03-05T18:00:00Z",
+  "is_owner": true,
+  "recording_mode": "auto",
+  "connectedEntityIds": ["tech-docs", "product-team"],
+  "link": "https://meet.google.com/ccc-dddd-eeee",
+  "content": [
+    {
+      "speaker": "Presenter",
+      "text": "Welcome everyone to the technical architecture review."
+    },
+    {
+      "speaker": "Presenter",
+      "text": "Today we will cover system overview, data flow, and integration points."
+    },
+    {
+      "speaker": "Attendee",
+      "text": "Can you elaborate on the database sharding strategy?"
+    },
+    {
+      "speaker": "Presenter",
+      "text": "Certainly. We plan to shard by region and by customer segment to optimize performance."
+    },
+    {
+      "speaker": "Attendee",
+      "text": "How do we handle cross-shard transactions?"
+    },
+    {
+      "speaker": "Presenter",
+      "text": "We use an orchestrator service that manages distributed transactions with compensation patterns."
+    },
+    {
+      "speaker": "Presenter",
+      "text": "Moving on to our microservices design, each service is containerized and communicates over gRPC."
+    },
+    {
+      "speaker": "Attendee",
+      "text": "What's the expected latency between services?"
+    },
+    {
+      "speaker": "Presenter",
+      "text": "Under normal load it's under 5ms, with spike handling up to 20ms."
+    },
+    {
+      "speaker": "Presenter",
+      "text": "Finally, questions about security?"
+    },
+    {
+      "speaker": "Attendee",
+      "text": "Are we encrypting data at rest?"
+    },
+    {
+      "speaker": "Presenter",
+      "text": "Yes, using AES-256 on all storage volumes."
+    }
+  ],
+  "transcript_format": "segmented",
+  "type": "EVENT",
+  "summary": "Presented the architecture, database sharding, microservices design, security considerations, and answered questions regarding latency and transactions.",
+  "organization": {
+    "id": "cccccccc-dddd-eeee-ffff-000000000000",
+    "name": "NextGen Tech",
+    "type": "COMPANY",
+    "org_id": "cccccccc-dddd-eeee-ffff-000000000000",
+    "description": "Innovating future technologies",
+    "location": "San Francisco, CA"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f0e1d2c3-b4a5-6789-0abc-def123456789",
+  "org_id": "123e4567-e89b-12d3-a456-426655440000",
+  "user_id": "987f6543-21ab-3cde-4f56-7890abcde123",
+  "title": "API Integration Technical Spec",
+  "content": {
+    "text": "Define endpoints for user authentication and data retrieval.",
+    "format": "markdown",
+    "tags": ["API", "auth", "backend"]
+  },
+  "timestamp": "2024-04-20T14:45:00Z",
+  "summary": {
+    "key_points": [
+      "Login endpoint at /api/login",
+      "Data endpoint at /api/data"
+    ],
+    "action_items": [
+      "Dev team to implement OAuth2 flow",
+      "QA to draft test cases"
+    ],
+    "follow_up": "Security review scheduled next sprint"
+  },
+  "type": "NOTE",
+  "tags": ["technical", "urgent"],
+  "priority": "high",
+  "organization": {
+    "id": "123e4567-e89b-12d3-a456-426655440000",
+    "name": "DevOps Corp",
+    "type": "COMPANY",
+    "org_id": "123e4567-e89b-12d3-a456-426655440000",
+    "industry": "Information Technology"
+  }
+}

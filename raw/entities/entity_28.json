@@ -1,0 +1,36 @@
+{
+  "id": "123e4567-e89b-12d3-a456-426614174000",
+  "name": "Michael Brown",
+  "last_updated": "1704200000",
+  "last_communication": "1704201000",
+  "created_at": "1704190000",
+  "importing": false,
+  "photo": "https://example.com/photos/michael_brown.jpg",
+  "emails": ["michael.brown@enterprise.com", "m.brown@altmail.com"],
+  "is_me": false,
+  "location": "Chicago, Illinois",
+  "state": "Illinois",
+  "country_code": "US",
+  "phone_number": "+1-312-555-0147",
+  "research": [
+    {
+      "date": "1704180000",
+      "findings": "Managed successful product launch."
+    },
+    {
+      "date": "1704195000",
+      "findings": "Experienced in stakeholder communication."
+    }
+  ],
+  "summary": "Senior Product Manager at Enterprise Corp, leading cross-functional teams to deliver SaaS solutions.",
+  "long_summary": "Michael Brown has over 8 years in product management, specializing in B2B SaaS platforms. He excels at defining product roadmaps, coordinating engineering and design teams, and driving user adoption. His notable achievements include a 40% increase in user engagement and a 25% reduction in churn rates.",
+  "linked_in": "https://linkedin.com/in/michaelbrown",
+  "linked_in_maybes": "michael.brown123@gmail.com",
+  "linked_in_followers": 950,
+  "org_id": "789e4567-e89b-12d3-a456-426614174111",
+  "education": {
+    "degree": "MBA",
+    "institution": "University of Chicago Booth School of Business",
+    "year": 2015
+  }
+}

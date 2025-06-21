@@ -1,0 +1,69 @@
+{
+  "id": "f1e2d3c4-b5a6-7d8c-9e0f-1g2h3i4j5k6l",
+  "eid": "evt-5005",
+  "user_id": "r3s4t5u6-v7w8-x9y0-z1a2-b3c4d5e6f7g8",
+  "org_id": "p0o9i8u7-y6t5-r4e3-w2q1-z0x9c8v7b6n5",
+  "title": "Product Brainstorming Session",
+  "duration": 7200,
+  "start_time": "2024-06-20T10:00:00Z",
+  "end_time": "2024-06-20T12:00:00Z",
+  "is_owner": true,
+  "recording_mode": "auto",
+  "connectedEntityIds": ["feature-345", "feature-678", "team-design"],
+  "link": "https://meet.google.com/stu-vwxy-zaa",
+  "content": {
+    "segments": [
+      {
+        "time": "00:10",
+        "speaker": "Alice",
+        "idea": "Implement dark mode feature"
+      },
+      {
+        "time": "00:25",
+        "speaker": "Bob",
+        "idea": "Add in-app messaging"
+      },
+      {
+        "time": "00:45",
+        "speaker": "Charlie",
+        "idea": "Introduce AI-driven recommendations"
+      },
+      {
+        "time": "01:30",
+        "speaker": "Diana",
+        "idea": "Simplify onboarding flow"
+      }
+    ],
+    "participants": ["Alice", "Bob", "Charlie", "Diana", "Eve"],
+    "notes": "Focused on UX enhancements and new feature proposals."
+  },
+  "type": "EVENT",
+  "summary": {
+    "decisions": [
+      "Proceed with dark mode and AI recommendations",
+      "Prototype in next sprint"
+    ],
+    "action_items": [
+      "Alice to draft design specs",
+      "Bob to research messaging APIs"
+    ],
+    "attendees": ["Alice", "Bob", "Charlie", "Diana", "Eve"]
+  },
+  "participants": ["Alice", "Bob", "Charlie", "Diana", "Eve"],
+  "agenda": [
+    "Introductions",
+    "Idea generation",
+    "Prioritization",
+    "Action planning"
+  ],
+  "transcript_format": "segments",
+  "organization": {
+    "id": "p0o9i8u7-y6t5-r4e3-w2q1-z0x9c8v7b6n5",
+    "name": "NextGen Products",
+    "type": "COMPANY",
+    "description": "Innovating consumer tech",
+    "industry": "Electronics",
+    "location": "Austin, TX",
+    "org_id": "p0o9i8u7-y6t5-r4e3-w2q1-z0x9c8v7b6n5"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "f9a8b7c6-d5e4-3210-abcdef-1234567890ab",
+  "eid": "ev-005",
+  "user_id": "456789ab-cdef-0123-4567-890abcdef123",
+  "org_id": "55555555-6666-7777-8888-999999999999",
+  "title": "Product Feature Brainstorming",
+  "duration": 3600,
+  "start_time": "2024-01-12T10:30:00Z",
+  "end_time": "2024-01-12T11:30:00Z",
+  "is_owner": true,
+  "recording_mode": "manual",
+  "connectedEntityIds": ["feat-101", "dev-202"],
+  "link": "https://meet.google.com/mmm-nnnn-ooo",
+  "agenda": [
+    "Brainstorm new features",
+    "Evaluate feasibility",
+    "Select top ideas"
+  ],
+  "participants": [
+    "dev1@example.com",
+    "dev2@example.com",
+    "pm@example.com",
+    "designer@example.com"
+  ],
+  "content": {
+    "transcript": "Team kicked off the session with heatmap analytics ideas. Designer suggested interactive journey mapping. Developer raised concerns about backend complexity. PM proposed a phased rollout approach. Everyone voted on top three concepts.",
+    "notes": "Selected features: real-time collaboration, heatmap visualization, phased integration."
+  },
+  "type": "EVENT",
+  "summary": {
+    "decisions": [
+      "Implement phased rollout",
+      "Focus on heatmap and collaboration first"
+    ],
+    "action_items": [
+      "Prototype heatmap module",
+      "Draft technical specification"
+    ],
+    "attendees": ["dev1", "dev2", "pm", "designer"]
+  },
+  "organization": {
+    "id": "55555555-6666-7777-8888-999999999999",
+    "name": "NextGen Labs",
+    "type": "COMPANY",
+    "org_id": "55555555-6666-7777-8888-999999999999",
+    "description": "R&D focused tech lab",
+    "industry": "Technology",
+    "location": "San Francisco, CA"
+  }
+}

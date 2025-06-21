@@ -1,0 +1,53 @@
+{
+  "id": "abcdef12-3456-7890-abcd-ef1234567890",
+  "thread_id": "fedcba09-8765-4321-fedc-ba0987654321",
+  "content": {
+    "threads": [
+      [
+        {
+          "from": "saleslead@salesforceinc.com",
+          "to": ["finance@salesforceinc.com"],
+          "subject": "June sales numbers - draft",
+          "body": "Team,\\nAttached is the draft sales numbers for June. Please review and send feedback.\\nThanks,\\nMike",
+          "date": "2024-06-05T09:00:00Z"
+        },
+        {
+          "from": "finance@salesforceinc.com",
+          "to": ["saleslead@salesforceinc.com"],
+          "subject": "Re: June sales numbers - draft",
+          "body": "Hi Mike,\\nThe numbers look good. I have a few questions on region breakdown. I'll annotate the spreadsheet.\\nCheers,\\nLinda",
+          "date": "2024-06-06T11:15:00Z"
+        }
+      ],
+      [
+        {
+          "from": "saleslead@salesforceinc.com",
+          "to": ["finance@salesforceinc.com", "ceo@salesforceinc.com"],
+          "subject": "Final June sales report",
+          "body": "All,\\nI've incorporated the feedback. The final sales report is ready for review. Let me know if further changes are needed.\\nBest,\\nMike",
+          "date": "2024-06-08T08:00:00Z"
+        },
+        {
+          "from": "ceo@salesforceinc.com",
+          "to": ["saleslead@salesforceinc.com", "finance@salesforceinc.com"],
+          "subject": "Re: Final June sales report",
+          "body": "Great work, team. Impressive results. Let's discuss this in tomorrow's meeting.\\nThanks,\\nCEO",
+          "date": "2024-06-08T10:30:00Z"
+        }
+      ]
+    ]
+  },
+  "summary": {},
+  "attachments": ["report_june.xlsx", "charts.png"],
+  "subject": "Monthly sales report",
+  "org_id": "11223344-5566-7788-99aa-bbccddeeff00",
+  "user_id": "00ffeedd-ccbb-aa99-8877-665544332211",
+  "type": "THREAD",
+  "date": "2024-06-08T08:00:00Z",
+  "organization": {
+    "id": "11223344-5566-7788-99aa-bbccddeeff00",
+    "name": "SalesForce Inc",
+    "type": "COMPANY",
+    "org_id": "11223344-5566-7788-99aa-bbccddeeff00"
+  }
+}

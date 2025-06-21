@@ -1,0 +1,26 @@
+{
+  "id": "a1e2c3d4-5678-90ab-cdef-1234567890ab",
+  "thread_id": "thread-0001",
+  "content": {
+    "emails": {
+      "from": "john.doe@acme.com",
+      "to": ["jane.smith@acme.com"],
+      "subject": "Re: Meeting Confirmation",
+      "body": "Hi Jane,\n\nI confirm our meeting tomorrow at 10am in the main conference room. Let me know if you need to adjust the time.\n\nThanks,\nJohn",
+      "date": "2024-03-15T09:30:00Z"
+    }
+  },
+  "summary": {},
+  "attachments": ["agenda.pdf"],
+  "subject": "Re: Meeting Confirmation",
+  "org_id": "org-aaaa-bbbb-cccc-dddd",
+  "user_id": "user-1111-2222-3333-4444",
+  "type": "THREAD",
+  "date": "2024-03-15T09:30:00Z",
+  "organization": {
+    "id": "org-aaaa-bbbb-cccc-dddd",
+    "name": "Acme Corp",
+    "type": "COMPANY",
+    "org_id": "org-aaaa-bbbb-cccc-dddd"
+  }
+}

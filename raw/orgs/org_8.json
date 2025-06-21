@@ -1,0 +1,21 @@
+{
+  "id": "d5e8f3c2-7a4b-4c6d-a0f1-abcdef123456",
+  "name": "Aurora Manufacturing Inc.",
+  "photo": "https://example.com/logos/aurora-manufacturing.png",
+  "description": "Aurora Manufacturing Inc. has been a leader in precision engineering since 1980. With over 5,000 employees worldwide, we specialize in aerospace components and industrial robotics. Our commitment to quality and innovation drives sustainable solutions for global industries.",
+  "websites": ["https://auroramfg.com", "https://careers.auroramfg.com"],
+  "industry": {
+    "primary": "Manufacturing",
+    "secondary": "Aerospace"
+  },
+  "location": "Detroit, MI",
+  "type": "COMPANY",
+  "created_at": 1704300000,
+  "org_id": "org-9b7c6d5e-4f3a-2b1c-8d9e-0f123456789a",
+  "funding": "Publicly Traded",
+  "contact_info": {
+    "email": "info@auroramfg.com",
+    "phone": "+1-800-555-0199",
+    "address": "5000 Industrial Pkwy"
+  }
+}
