@@ -1,8 +1,10 @@
-{"data":[  
-  "The note 'Project Alpha Kickoff' focuses on defining the project scope for Project Alpha.",  
-  "The note 'Project Alpha Kickoff' records the assignment of roles and responsibilities among the project team.",  
-  "The note 'Project Alpha Kickoff' establishes a timeline and milestones for the Project Alpha implementation.",  
-  "The note 'Project Alpha Kickoff' lists sending calendar invites and sharing project documentation as action items.",  
-  "The note 'Project Alpha Kickoff' identifies the preparation of a budget proposal as a follow-up decision.",  
-  "The note 'Project Alpha Kickoff' captures the business context of launching a new AI-driven analytics project within a technology startup."  
-]}
+{
+  "data": [
+    "The note 'Project Alpha Kickoff' focuses on defining the project scope for Project Alpha.",
+    "The note 'Project Alpha Kickoff' records the assignment of roles and responsibilities among the project team.",
+    "The note 'Project Alpha Kickoff' establishes a timeline and milestones for the Project Alpha implementation.",
+    "The note 'Project Alpha Kickoff' lists sending calendar invites and sharing project documentation as action items.",
+    "The note 'Project Alpha Kickoff' identifies the preparation of a budget proposal as a follow-up decision.",
+    "The note 'Project Alpha Kickoff' captures the business context of launching a new AI-driven analytics project within a technology startup."
+  ]
+}

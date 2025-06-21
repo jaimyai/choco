@@ -1,8 +1,10 @@
-{"data":[  
-"The note \"API Version 2.0 Specification\" covers authentication using OAuth2 with JWT tokens.",  
-"The note \"API Version 2.0 Specification\" lists the API endpoints GET /users, POST /orders, and PUT /products/{id}.",  
-"The note \"API Version 2.0 Specification\" specifies error handling via standard HTTP status codes with JSON error objects.",  
-"The note \"API Version 2.0 Specification\" emphasizes using OAuth2 JWT for secure API communication.",  
-"The note \"API Version 2.0 Specification\" highlights CRUD endpoints as key components of the API design.",  
-"The note \"API Version 2.0 Specification\" documents the decision to standardize error responses for consistency."  
-]}
+{
+  "data": [
+    "The note \"API Version 2.0 Specification\" covers authentication using OAuth2 with JWT tokens.",
+    "The note \"API Version 2.0 Specification\" lists the API endpoints GET /users, POST /orders, and PUT /products/{id}.",
+    "The note \"API Version 2.0 Specification\" specifies error handling via standard HTTP status codes with JSON error objects.",
+    "The note \"API Version 2.0 Specification\" emphasizes using OAuth2 JWT for secure API communication.",
+    "The note \"API Version 2.0 Specification\" highlights CRUD endpoints as key components of the API design.",
+    "The note \"API Version 2.0 Specification\" documents the decision to standardize error responses for consistency."
+  ]
+}

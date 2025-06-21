@@ -1,9 +1,11 @@
-{"data":[
-"The event Senior Developer Interview focused on evaluating a candidate's experience with Java concurrency and synchronization mechanisms.",
-"The event Senior Developer Interview featured discussions on using ExecutorService and CompletableFuture and debugging race conditions with thread dumps, logging, and testing frameworks.",
-"The event Senior Developer Interview included design pattern discussions emphasizing the Producer-Consumer and Singleton patterns for resource management.",
-"The event Senior Developer Interview resulted in a decision to proceed to a technical task assignment.",
-"The event Senior Developer Interview generated an action item to send a coding challenge by 2024-05-22.",
-"The event Senior Developer Interview was part of NextGen Software’s process for hiring a senior developer.",
-"The event Senior Developer Interview identified Bob Lee as the interviewer and Alice Johnson as the candidate."
-]}
+{
+  "data": [
+    "The event Senior Developer Interview focused on evaluating a candidate's experience with Java concurrency and synchronization mechanisms.",
+    "The event Senior Developer Interview featured discussions on using ExecutorService and CompletableFuture and debugging race conditions with thread dumps, logging, and testing frameworks.",
+    "The event Senior Developer Interview included design pattern discussions emphasizing the Producer-Consumer and Singleton patterns for resource management.",
+    "The event Senior Developer Interview resulted in a decision to proceed to a technical task assignment.",
+    "The event Senior Developer Interview generated an action item to send a coding challenge by 2024-05-22.",
+    "The event Senior Developer Interview was part of NextGen Software’s process for hiring a senior developer.",
+    "The event Senior Developer Interview identified Bob Lee as the interviewer and Alice Johnson as the candidate."
+  ]
+}
